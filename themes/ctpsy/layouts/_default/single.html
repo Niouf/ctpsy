@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+	{{ partial "head.html" . }}
+</head>
+
+<body class="has-navbar-fixed-top">
+	{{ partial "fixed.html" .}}
+	{{ partial "menu.html" .}}
+
+	<article>
+		<div class="container">
+			<div class='columns'>
+				<div class='column is-7'>
+					<div class="content">
+						<header>
+							<h1 class='is-1 title-header-article'>
+								{{ if (not (isset .Params "longtitle")) }}
+								{{ .Title }}
+								{{else}}
+								{{ .Params.longtitle}}
+								{{end}}
+							</h1>
+						</header>
+
+						{{ .Content }}
+					</div>
+				</div>
+
+				{{ partial "aside.html" .}}
+				
+			</div>
+		</div>
+	</article>
+
+	{{ partial "footer.html" . }}
+</body>
+
+</html>
