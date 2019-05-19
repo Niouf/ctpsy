@@ -16,14 +16,11 @@
                 {{ $currentPage := . }}
                 {{ range .Site.Menus.main }}
                     {{ if .HasChildren }}
-                        
-                        
+
                     {{ else }}
-                        
-                            <a class='nav-link navbar-item navbar-item' href="{{ .URL | absURL }}">
-                                {{ .Name }}
-                            </a>
-                        
+                      <a class='nav-link navbar-item navbar-item' href="{{ .URL | absURL }}">
+                          {{ .Name }}
+                      </a>
                     {{ end }}
                 {{ end }}
               </div>

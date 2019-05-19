@@ -1,4 +1,5 @@
 baseURL = "http://www.ct-psy.com/"
 languageCode = "fr-FR"
-title = "Catherine Tardella, Psychologue, Psychothérapeute, Psychopraticienne relationnelle"
 theme = "ctpsy"
+[params]
+title = "Catherine Tardella, Psychologue, Psychothérapeute, Psychopraticienne relationnelle"
