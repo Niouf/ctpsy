@@ -9,30 +9,61 @@
 	{{ partial "fixed.html" .}}
 	{{ partial "menu.html" .}}
 
-	{{ range where .Data.Pages "Type" "homepage" }}
-	<article>
-		<div class="container">
-			<div class='columns'>
-				<div class='column is-7'>
-					<div class="content">
-						<header>
-							<h1 class='is-1 title-header-article'>
-								{{ if (not (isset .Params "longtitle")) }}
-								{{ .Title }}
-								{{else}}
-								{{ .Params.longtitle}}
-								{{end}}
-							</h1>
-						</header>
-						{{ .Content }}
-					</div>
-				</div>
-
-				{{ partial "aside.html" .}}
-			</div>
+	<section class="section-headhome">
+		<div class="columns">
+			<div class="column">
+		{{ range where .Data.Pages "Type" "homepage" }}
+		<div class="text-header">
+			{{ if (not (isset .Params "longtitle")) }}
+			<h1>{{ .Title }}</h1>
+			{{else}}
+			{{ .Params.longtitle}}
+			{{end}}
 		</div>
+
+		<div class="image-hom">
+			<img class='center-cropped' src="{{ .Params.logo }}" alt="" />
+		</div>
+
+		{{ end }}
+	</div>
+	</div>
+
+	</section>
+
+
+
+		
+
+
+		{{ if len (where .Site.RegularPages "Type" "=" "posts") }}
+		<section class='bloc section-publication'>
+			<div class='container padding'>
+				<h2 class='title is-2'>Publications</h2>
+				<div class='columns is-multiline'>
+					{{ range first 4 (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
+						<div class='column is-half'>
+							<a href='{{ .RelPermalink }}'>
+								<div class='publication'>
+									<div class='publication-image'>
+										<img class='lazy' src='{{ "img/placeholder.png" | absURL }}' data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_400/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
+									</div>
+									
+									<div class='publication-titre'>
+											<h3 class='subtitle is-3'>{{ .Title }}</h3>
+									</div>
+								</div>
+							</a>
+						</div>
+					{{ end }}	
+				</div>
+				<div><a href='./publications' class="button">Voir toutes les publications</a></div>
+			</div>
+		</section>
+		{{ end }}
+
 	</article>
-	{{ end }}
+
 
 	{{ partial "footer.html" . }}
 

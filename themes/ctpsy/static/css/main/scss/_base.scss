@@ -1,4 +1,5 @@
-  @font-face {
+/*
+@font-face {
 	font-family: "overlock";
 	src: url("../../../fonts/Overlock-Regular.woff");
 	font-display: swap;
@@ -9,12 +10,41 @@
 	src: url("../../../fonts/Cinzel.woff");
 	font-display: swap;
   }
-
+*/
 body{
 	background:$couleur-background-general;
 	font-family:overlock;
 	font-size:1em;
 }
+
+
+.section-headhome{
+	position:relative;
+
+	.text-header{
+		top: 50%;
+		-ms-transform: translateY(-50%);
+		transform: translateY(-50%);
+		position:absolute;
+		z-index:2;
+		text-align:center;
+		width:100%;
+	}
+
+	h1{
+		
+		font-size:3em;
+		
+	}
+}
+
+.center-cropped {
+	object-fit: cover; /* Do not scale the image */
+	object-position: center; /* Center the image within the element */
+	max-width:100%;
+	max-height:100%;
+  }
+
 
 .titleSiteMenu{
 	font-family:Times, "Times New Roman", Georgia, serif;

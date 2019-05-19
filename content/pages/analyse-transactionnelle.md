@@ -1,9 +1,11 @@
 ---
 title: "L'Analyse Transactionnelle"
 title-long: "C’est quoi l’Analyse Transactionnelle ?"
-resume:"L’AT est une méthode relationnelle car elle étudie les transactions : d’où sont nom d’analyse transactionnelle. Les relations qu’elle étudie et qu’elle aide à modifier sont celles que nous avons avec les autres mais aussi celles que nous avons avec nous-mêmes."
+resume: "L’AT est une méthode relationnelle car elle étudie les transactions : d’où sont nom d’analyse transactionnelle. Les relations qu’elle étudie et qu’elle aide à modifier sont celles que nous avons avec les autres mais aussi celles que nous avons avec nous-mêmes."
 date: 2019-05-15T19:35:48+02:00
 draft: false
+logo : "/v1544002147/mike-szczepanski-383929-unsplash.jpg"
+notes : ""
 ---
 
 # L’Analyse Transactionnelle (AT) : comment ça marche ?
