@@ -5,9 +5,6 @@ fields:
 - type: text
   name: title
   label: Titre
-- type: text
-  name: resume
-  label: resume
 - type: datetime
   name: date
   label: date
