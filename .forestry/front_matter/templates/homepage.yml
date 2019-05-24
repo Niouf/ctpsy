@@ -1,0 +1,22 @@
+---
+label: Homepage
+hide_body: true
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: resume
+  label: resume
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: logo
+  label: logo
+- type: text
+  name: portrait
+  label: portrait
+- type: text
+  name: notes
+  label: notes
