@@ -13,7 +13,7 @@ fields:
   label: date
 - type: file
   name: logo
-  label: logo
+  label: Image de la Homepage
 - name: portrait
   type: file
   config:
