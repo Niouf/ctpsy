@@ -4,7 +4,7 @@ hide_body: true
 fields:
 - type: text
   name: title
-  label: title
+  label: Titre
 - type: text
   name: resume
   label: resume
@@ -14,9 +14,8 @@ fields:
 - type: file
   name: logo
   label: logo
-- type: text
-  name: portrait
-  label: portrait
-- type: text
-  name: notes
-  label: notes
+- name: portrait
+  type: file
+  config:
+    maxSize: 250
+  label: Portrait
