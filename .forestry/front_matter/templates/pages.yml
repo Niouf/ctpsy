@@ -26,3 +26,5 @@ fields:
     schema:
       format: markdown
   label: Notes de bas de page
+pages:
+- content/pages/l-analyse-transactionnelle.md
