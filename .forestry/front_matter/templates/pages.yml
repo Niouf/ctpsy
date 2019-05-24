@@ -1,0 +1,22 @@
+---
+label: Pages
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: text
+  name: title-long
+  label: title-long
+- type: textarea
+  name: resume
+  label: resume
+- type: datetime
+  name: date
+  label: date
+- type: file
+  name: logo
+  label: logo
+- type: text
+  name: notes
+  label: notes
