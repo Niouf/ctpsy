@@ -9,8 +9,6 @@ logo: "/v1558806782/communication-1991854_1280.png-730x350.jpg"
 notes: ''
 
 ---
-Laurie Hawkes est psychologue. Elle fait partie des **pionniers** de la théorie AT en France et elle enseigne à l’Ecole d’Analyse Transactionnelle de Paris-Ile-de-France (**EAT-Paris**) qu’elle a co-fondée.
-
 Laurie a écrit un bon nombre de livres en psychologie et elle est plusieurs fois intervenue à la radio (RTL, Radio Notre Dame, Radio Medecinedouce). Elle exerce comme thérapeute dans son cabinet parisien du 19è arrondissement où elle reçoit des adultes en séances individuelles mais aussi en **séances de groupe.**
 
 Mais Laurie a surtout une particularité à mes yeux : comme moi, elle **danse le tango !** Cela m’a donné envie de l’interviewer et lors du Congrès francophone d’AT de Novembre 2018 (qui s’est déroulé à Lyon), elle a accepté de répondre à mes questions.
