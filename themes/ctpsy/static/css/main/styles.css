@@ -12025,4 +12025,10 @@ a {
   right: 0;
   bottom: 0;
 }
+
+.newsletter {
+  border: 1px solid #911010;
+  padding: 1em;
+  margin-top: 60px;
+}
 /*# sourceMappingURL=styles.css.map */
