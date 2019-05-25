@@ -5,6 +5,8 @@ notes = ""
 resume = "Pourquoi une thérapie de couple ?"
 title = "Le couple"
 title-long = ""
+[menu.main]
+weight = 3
 
 +++
 La vie d’un couple n’est pas toujours simple et il arrive des moments où on ne parvient plus à **fonctionner ensemble**. Dans ces périodes, malgré parfois de bonnes intentions de part et d’autres, la **communication** ne se fait plus et tout se complique. On ne se comprend plus, on ne se reconnait parfois plus et cela peut devenir insupportable. La rencontre avec un professionnel permet de faire intervenir un tiers dans la **relation** et de rétablir, voire réparer un **lien** abimé.

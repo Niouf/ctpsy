@@ -5,6 +5,9 @@ notes = ""
 resume = "En quoi ça peut m’aider ?"
 title = "Pourquoi une thérapie ?"
 title-long = ""
+[menu.main]
+name = "Pourquoi une thérapie ? "
+weight = 1
 
 +++
 Contrairement à ce qui est parfois imaginé, le travail du « psy » n’est pas de donner des conseils. Le but de la thérapie est en effet de permettre à une personne qui rencontre des problèmes de trouver ses propres **solutions** pour le résoudre. Car chacun de nous étant **différent**, avec ses **idées**, ses **valeurs**, ses **expériences**, ses **émotions**, il est rarement possible d’appliquer une solution toute-faite à un problème complexe.![](http://ct-psy.com/wp-content/uploads/2017/09/julie-belotte-psychologue-2-286x300.jpg =286x300)

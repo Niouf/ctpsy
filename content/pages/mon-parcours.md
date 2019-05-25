@@ -5,6 +5,8 @@ notes = ""
 resume = ""
 title = "Mon parcours"
 title-long = ""
+[menu.main]
+weight = 5
 
 +++
 Vous trouverez ici des détails sur mon parcours de formation en psychologie et en psychothérapie ainsi que la signification des différents titres liés à ma pratique **: psychopraticien, psychologue, psychothérapeute**.

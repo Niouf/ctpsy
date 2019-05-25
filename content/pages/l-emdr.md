@@ -5,6 +5,9 @@ notes = ""
 resume = "Qu’y a-t-il derrière l’acronyme EMDR ?"
 title = "L’EMDR"
 title-long = ""
+[menu.main]
+name = "L'EMDR"
+weight = 4
 
 +++
 L’EMDR est désormais connu en raison de son efficacité. Mais que se cache-t-il exactement sous ce nom barbare ? Car non, il ne s’agit pas d’une abréviation pour sms signifiant « Mort De Rire » !

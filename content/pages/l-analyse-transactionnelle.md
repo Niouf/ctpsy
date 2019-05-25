@@ -5,6 +5,9 @@ notes = ""
 resume = "L’Analyse Transactionnelle (AT) : comment ça marche ?"
 title = "L'analyse Transactionnelle"
 title-long = "C’est quoi l’Analyse Transactionnelle ?"
+[menu.main]
+name = "L'analyse transactionnelle"
+weight = 2
 
 +++
 L’AT est une **méthode relationnelle** car elle étudie les **_transactions_** : d’où sont nom d’**analyse transactionnelle**. Les relations qu’elle étudie et qu’elle aide à modifier sont celles que nous avons avec **les autres** mais aussi celles que nous avons avec **nous-mêmes**.
