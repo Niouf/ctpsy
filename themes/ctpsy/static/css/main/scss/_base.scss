@@ -140,6 +140,14 @@ p{
 	}
 }
 
+
+.logo-top-page{
+		height: 400px;
+		width: 100%;
+		-o-object-fit: cover;
+		object-fit: cover;
+}
+
 .content{
 	font-size:1.25em;
 
@@ -434,6 +442,16 @@ a{
 	//text-decoration:underline;
 	color:$couleur-princ;
 
+}
+
+
+.publication-image{
+	img{
+		height: 250px;
+		width: 100%;
+		-o-object-fit: cover;
+		object-fit: cover;
+	}
 }
 
 .zoom{

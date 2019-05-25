@@ -11641,6 +11641,13 @@ p {
   }
 }
 
+.logo-top-page {
+  height: 400px;
+  width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+}
+
 .content {
   font-size: 1.25em;
 }
@@ -11910,6 +11917,13 @@ footer .credits a {
 
 a {
   color: #911010;
+}
+
+.publication-image img {
+  height: 250px;
+  width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
 }
 
 .zoom {
