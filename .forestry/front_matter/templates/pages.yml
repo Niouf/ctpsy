@@ -27,6 +27,7 @@ fields:
       format: markdown
   label: Notes de bas de page
 pages:
+- content/pages/publications.md
 - content/pages/contact.md
 - content/pages/l-analyse-transactionnelle.md
 - content/pages/mon-parcours.md
