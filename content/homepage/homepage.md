@@ -1,16 +1,17 @@
 +++
 date = "2019-05-23T22:00:00+00:00"
 logo = "/v1558281166/samples/people/bicycle.jpg"
+longtitle = "Psychologue, Psychothérapeute, Psychopraticienne relationnelle"
 portrait = "/v1558285882/catherine_i44v3g.jpg"
 title = "Catherine Tardella"
-longtitle = "Psychologue, Psychothérapeute, Psychopraticienne relationnelle"
+
 +++
 **Analyse Transactionnelle – EMDR –  thérapie conjugale**
 
 Bienvenue sur ce site destiné à vous gitcommuniquer des informations sur mon lieu d’exercice, ma formation et mes pratiques de travail en psychothérapie. Vous y trouverez une présentation des différents outils que j’utilise, en particulier ceux de l’Analyse Transactionnelle et de l’EMDR.
 
 **Consultations**
-Je reçois les adolescents et les adultes ainsi que les couples à mon cabinet les mardi, jeudi et vendredi sur rendez-vous de 8h30 à 20h.
+Je reçois les adolescents et les adultes ainsi que les couples à mon cabinet les mardi, jeudi et vendredi sur rendez-vous de 09h00 - 19h00.
 
 * Séance individuelle : 50min
 * Séance de couple : 1h15
