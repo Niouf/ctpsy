@@ -1,1 +1,21 @@
-coucou
+<div class='list-items columns is-multiline list-posts'>
+{{ range (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
+<div class="column is-half ">
+<a href="{{ .RelPermalink }}">
+<div class="publication">
+
+<div class="logo-image">
+<img class='logo-image zoom' src='{{ "img/placeholder.png" | absURL }}' data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_400/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
+</div>
+
+                
+<div class="publication-titre">
+<h3 class="subtitle is-3">{{ .Title }}</h3>
+</div>
+
+
+</div>
+</a>
+</div>
+{{ end }}
+</div>
