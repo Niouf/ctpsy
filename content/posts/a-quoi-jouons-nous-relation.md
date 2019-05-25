@@ -26,11 +26,11 @@ _V. : J’ai peur de parler à mon propriétaire !_
 
 _Réponse d’un S. qui accepte l’invitation : Je vais parler pour vous, ce n’est pas votre faute si vous êtes timide._
 
-_Réponse d’un P. qui accepte l’invitation : Ce n’est pourtant pas bien compliqué, faites-vous violence enfin !_![Livre des Jeux et des Hommes](http://ct-psy.com/wp-content/uploads/2018/10/DJEDH-300x300.jpg =176x176)
+_Réponse d’un P. qui accepte l’invitation : Ce n’est pourtant pas bien compliqué, faites-vous violence enfin !_![Livre des Jeux et des Hommes](http://ct-psy.com/wp-content/uploads/2018/10/DJEDH-300x300.jpg)
 
 Au cours de leurs recherches durant les « sessions du mardi » à l’époque où l’AT était encore en « construction » dans le milieu des années 60, l’un des disciples de Berne, Steve Karpman, un médecin psychiatre américain, a créé le **triangle dramatique**. Cette version des Jeux Psychologiques est devenue tellement populaire qu’on en trouve une incroyable déclinaison de description sur internet. C’est également par cette approche-là que l’AT est le plus souvent abordée en France.
 
-![Portrait S. Karpman](http://ct-psy.com/wp-content/uploads/2018/10/Karpman.jpg =142x146)Stephen Karpman
+![Portrait S. Karpman](http://ct-psy.com/wp-content/uploads/2018/10/Karpman.jpg)Stephen Karpman
 
 Très récemment (2017), Karpman a publié un livre qu’il qualifie ne pas être un livre d’AT mais dans lequel toutefois, il raconte comment ont abouti ses recherches sur ce triangle et comment il s’articule avec tous les concepts de l’AT. Il décrit comment il est utilisable en **thérapies individuelle** mais également lors de **thérapies de couple**, afin de mieux comprendre les enjeux et les modes relationnels. Il donne également les pistes pour en sortir.
 
@@ -42,7 +42,7 @@ Il décrit alors comment, lors d’une invitation ou d’un point faible nous d�
 
 **Le rôle de Victime** est endossé par une personne qui se déclare incapable de faire quelque chose et de gérer ce qu’elle a à gérer seule. La Victime **confond donc la vulnérabilité et l’incapacité** et a des besoins dont elle n’a jamais parlé. Elle va de ce fait engager ou accrocher des Jeux que Berne nomme « Pauvre de moi » par ex.
 
-![Triangle dramatique](http://ct-psy.com/wp-content/uploads/2018/10/JP-300x216.jpeg =172x124)Les 3 rôles des Jeux
+![Triangle dramatique](http://ct-psy.com/wp-content/uploads/2018/10/JP-300x216.jpeg)Les 3 rôles des Jeux
 
 **Le rôle de Persécuteur** est endossé par des personnes qui ont besoin qu’on les craignent et dont le bénéfice final est souvent de renforcer une croyance selon laquelle **les choses ne peuvent avancer sans l’usage de la force** ou de la violence.
 
@@ -58,7 +58,7 @@ Car il prend pour sujet les relations dysfonctionnelles qui ne se terminent pas 
 
 Selon Karpman, les jeux ne finissent toutefois pas tous dans le drame. Ils peuvent en effet être arrêtés avant leur fin dramatique et cela signifie de le faire avant que les protagonistes n’aient eu le temps de changer de rôle dans le triangle.
 
-## Comment s’y prendre pour en sortir ?![CNV](http://ct-psy.com/wp-content/uploads/2018/10/CNV-184x300.jpeg =117x191)
+## Comment s’y prendre pour en sortir ?![CNV](http://ct-psy.com/wp-content/uploads/2018/10/CNV-184x300.jpeg)
 
 L’approche selon laquelle nous jouons tous les rôles en même temps devient ici la base pour un nouveau triangle vertueux : le **triangle compassionnel**. Ce triangle, selon Karpman, permet de sortir de la crise. Pour lui, cette vision des choses a le mérite de rendre les gens plus tolérants vis-à-vis des autres et d’eux-mêmes. Le principe est d’accepter que chacun dans le triangle soit **au moins 10 %** Victime, Persécuteur et Sauveur.
 
