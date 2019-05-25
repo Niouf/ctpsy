@@ -11518,8 +11518,11 @@ body {
   position: relative;
 }
 
-.section-headhome .image-home {
+.section-headhome .image-home img {
   width: 100%;
+  -o-object-fit: cover;
+  object-fit: cover;
+  height: 75vh;
 }
 
 .section-headhome .text-header {
@@ -11804,8 +11807,8 @@ section.bloc {
 
 .section-home {
   background: url("../../img/fondpresentation.png") bottom no-repeat;
-  background-color: home;
-  margin-top: -20px;
+  background-color: #dfdfdf;
+  margin-top: -10px;
   padding-top: 2em;
   padding-bottom: 6em;
   background-size: 100%;
@@ -11814,6 +11817,11 @@ section.bloc {
 .section-home .content-section-home {
   padding-left: 2em;
   padding-right: 2em;
+  font-size: 1.2em;
+}
+
+.section-home .content-section-home strong {
+  font-size: 1.2em;
 }
 
 .section-publication {
@@ -11870,6 +11878,7 @@ h3 {
 footer {
   color: white;
   background: url("../../img/fondpresentation2.png") top no-repeat;
+  background-color: #1f1f1f;
   background-size: 100%;
   margin-top: 3em;
   padding-top: 5em;

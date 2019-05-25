@@ -11,7 +11,7 @@
 	<section class="section-headhome">
 		{{ range where .Data.Pages "Type" "homepage" }}
 		<div class="image-home ">
-			<img class='center-cropped' src="{{ $.Site.Data.paramsite.baseUrlImage }}/{{ .Params.logo }}" alt="" />
+			<img class='center-cropped' src="{{ $.Site.Data.paramsite.baseUrlImage }}/w_1200/{{ .Params.logo }}" alt="" />
 		</div>
 					
 		<div class="text-header ">
@@ -64,7 +64,7 @@
 						</div>
 					{{ end }}	
 				</div>
-				<div><a href='./posts' class="button">Voir toutes les publications</a></div>
+				<div><a href='./pages/publications/' class="button">Voir toutes les publications</a></div>
 			</div>
 		</section>
 		{{ end }}
