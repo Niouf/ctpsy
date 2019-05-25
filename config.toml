@@ -1,4 +1,4 @@
-baseURL = "http://www.ct-psy.com/"
+baseURL = "https://ct-psy.netlify.com/"
 languageCode = "fr-FR"
 theme = "ctpsy"
 [params]

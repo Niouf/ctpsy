@@ -11812,6 +11812,7 @@ section.bloc {
   padding-top: 2em;
   padding-bottom: 6em;
   background-size: 100%;
+  font-family: roboto;
 }
 
 .section-home .content-section-home {
@@ -11822,6 +11823,13 @@ section.bloc {
 
 .section-home .content-section-home strong {
   font-size: 1.2em;
+}
+
+.section-home .content-section-home h2 {
+  font-size: 1.35em;
+  margin-top: 10px;
+  font-weight: bold;
+  font-family: muli;
 }
 
 .section-publication {
