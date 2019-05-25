@@ -11511,6 +11511,7 @@ body {
   background: white;
   font-family: roboto;
   font-size: 1em;
+  color: #545454;
 }
 
 .section-headhome {
@@ -11532,7 +11533,15 @@ body {
 }
 
 .section-headhome h1 {
+  text-shadow: 1px 1px 2px black;
+  color: #f1f1f1;
   font-size: 3em;
+}
+
+.section-headhome h2 {
+  color: #f1f1f1;
+  font-size: 1.5em;
+  text-shadow: 1px 1px 2px black;
 }
 
 .center-cropped {
@@ -11547,7 +11556,11 @@ body {
 }
 
 .navbar-burger {
-  color: white;
+  color: white !important;
+}
+
+.navbar-burger a {
+  color: white !important;
 }
 
 .menu-burger {
@@ -11628,15 +11641,32 @@ p {
   }
 }
 
+.content {
+  font-size: 1.25em;
+}
+
+.content img.logo {
+  margin-bottom: 2em;
+}
+
+.content img {
+  text-align: center;
+}
+
+.content .resume {
+  font-size: 1.4em;
+  font-family: muli;
+}
+
 .content h1 {
   font-family: "muli";
-  color: #025d8c;
+  color: #911010;
   font-size: 2.5em;
 }
 
 .content h2 {
   font-family: "muli";
-  color: #025d8c;
+  color: #911010;
 }
 
 .content h3 {
@@ -11645,7 +11675,8 @@ p {
 }
 
 .content a {
-  color: #025d8c !important;
+  color: #911010 !important;
+  text-decoration: underline;
 }
 
 ul li {
@@ -11766,7 +11797,7 @@ section.bloc {
 
 .section-home {
   background: url("../../img/fondpresentation.png") bottom no-repeat;
-  background-color: #dfdfdf;
+  background-color: home;
   margin-top: -20px;
   padding-top: 2em;
   padding-bottom: 6em;
@@ -11831,11 +11862,12 @@ h3 {
 
 footer {
   color: white;
+  background: url("../../img/fondpresentation2.png") top no-repeat;
+  background-size: 100%;
   margin-top: 3em;
   padding-top: 5em;
   padding-bottom: 2em;
-  background: #1f1f1f;
-  color: #1f1f1f;
+  color: #545454;
 }
 
 footer a {

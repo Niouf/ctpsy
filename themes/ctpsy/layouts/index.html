@@ -6,7 +6,6 @@
 </head>
 
 <body class="has-navbar-fixed-top">
-	{{ partial "fixed.html" .}}
 	{{ partial "menu.html" .}}
 
 	<section class="section-headhome">
@@ -15,9 +14,12 @@
 			<img class='center-cropped' src="{{ $.Site.Data.paramsite.baseUrlImage }}/{{ .Params.logo }}" alt="" />
 		</div>
 					
-		<div class="text-header">
-			<h1 class='title is-1'>{{ .Title }}</h1>
-			<p class='subtitle'>{{ .Params.longtitle}}</p>
+		<div class="text-header ">
+			<div class="inner-header">
+					<h1 class='title is-1'>{{ .Title }}</h1>
+					<h2 class='subtitle'>{{ .Params.longtitle}}</h2>
+			</div>
+			
 		</div>
 		{{ end }}
 	</section>
@@ -62,7 +64,7 @@
 						</div>
 					{{ end }}	
 				</div>
-				<div><a href='./publications' class="button">Voir toutes les publications</a></div>
+				<div><a href='./posts' class="button">Voir toutes les publications</a></div>
 			</div>
 		</section>
 		{{ end }}

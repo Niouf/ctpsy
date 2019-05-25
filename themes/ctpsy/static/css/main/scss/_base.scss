@@ -2,6 +2,7 @@ body{
 	background:$couleur-background-general;
 	font-family:roboto;
 	font-size:1em;
+	color:$couleur-text;
 }
 
 
@@ -24,10 +25,18 @@ body{
 	}
 
 	h1{
-		
+		text-shadow: 1px 1px 2px black;
+		color:rgb(241, 241, 241);
 		font-size:3em;
-		
 	}
+
+	h2{
+		color:rgb(241, 241, 241);
+		font-size:1.5em;
+		text-shadow: 1px 1px 2px black;
+	}
+
+
 }
 
 .center-cropped {
@@ -39,13 +48,20 @@ body{
 
 
 .navbar-burger{
-	color:$couleur-light;
+	a{
+		color:$couleur-light !important;
+	}
+	color:$couleur-light !important;
 }
 
 .menu-burger{
 	float:right;
 	margin-top:-1em;
 }
+
+
+
+
 .navbar, .is-active{
 	background:$background-header  !important;
 	color:$couleur-light;
@@ -125,15 +141,30 @@ p{
 }
 
 .content{
+	font-size:1.25em;
+
+	img.logo{
+		margin-bottom:2em;
+	}
+
+	img{
+		text-align:center;
+	}
+
+	.resume{
+		font-size:1.4em;
+		font-family:muli;
+	}
+
 	h1{
 		font-family:"muli";
-		color:$couleur-header;
+		color:$couleur-princ;
 		font-size:2.5em;
 	}
 
 	h2{
 		font-family:"muli";
-		color:$couleur-header;
+		color:$couleur-princ;
 	}
 
 	h3{
@@ -142,8 +173,11 @@ p{
 	}
 
 	a{
-		color:$couleur-header !important;
+		color:$couleur-princ !important;
+		text-decoration:underline;
 	}
+
+
 
 
 }
@@ -274,7 +308,7 @@ section.bloc{
 
 .section-home{
 	background: url("../../img/fondpresentation.png") bottom no-repeat;
-	background-color:$background-1;
+	background-color:home;
 	margin-top:-20px;
 	padding-top:2em;
 	padding-bottom:6em;
@@ -344,11 +378,13 @@ h3{
 
 footer{
 	color:$couleur-light;
-
+	background: url("../../img/fondpresentation2.png") top no-repeat;
+	background-size: 100%;
 	margin-top:3em;
 	padding-top:5em;
 	padding-bottom:2em;
-	background:$footer-background-color;
+	//background:$footer-background-color;
+
 	color:$couleur-text;
 
 	a{

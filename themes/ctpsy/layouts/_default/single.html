@@ -6,13 +6,12 @@
 </head>
 
 <body class="has-navbar-fixed-top">
-	{{ partial "fixed.html" .}}
 	{{ partial "menu.html" .}}
 
 	<article>
 		<div class="container">
 			<div class='columns'>
-				<div class='column is-7'>
+				<div class='column is-10 is-offset-1'>
 					<div class="content">
 						<header>
 							<h1 class='is-1 title-header-article'>
@@ -22,6 +21,21 @@
 								{{ .Params.longtitle}}
 								{{end}}
 							</h1>
+
+							{{ if (isset .Params "logo" )}}
+							<p class="resume">
+								{{ .Params.resume}}
+							</p>
+							{{ end }}
+
+
+							{{ if (isset .Params "logo" )}}
+							<div class="logo">
+								<img class='logo' src="{{ $.Site.Data.paramsite.baseUrlImage }}/{{ .Params.logo}}" alt="logo de l'article">
+							</div>
+							{{ end }}
+
+
 						</header>
 
 						{{ .Content }}

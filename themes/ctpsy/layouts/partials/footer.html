@@ -1,15 +1,23 @@
 <footer>
     <div class='container padding'>
-        <p><span class='name-brand'>{{ $.Site.Data.paramsite.title }}</span><br/>
-        {{ $.Site.Data.paramsite.subtitle }}<br>
-        Numéro ADELI :  {{ $.Site.Data.paramsite.siret }} <br><br>
-        </p>
+        <div class="columns">
+            <div class="column is-half">
+                <p><span class='name-brand'>{{ $.Site.Data.paramsite.title }}</span><br/>
+                {{ $.Site.Data.paramsite.subtitle }}<br>
+                Numéro ADELI :  {{ $.Site.Data.paramsite.siret }} <br><br>
+                </p>
+            </div>
+            <div class="column">
+                <p>
+                    <strong><i class="fas fa-map-marker-alt"></i> Adresse</strong> : <a target="_blank" href='https://www.openstreetmap.org/?mlat={{ $.Site.Data.paramsite.latitude }}&mlon={{ $.Site.Data.paramsite.longitude }}#map=18/{{ $.Site.Data.paramsite.latitude }}/{{ $.Site.Data.paramsite.longitude }}'>{{ $.Site.Data.paramsite.location }}</a><br/>
+                    <strong><i class="fas fa-phone"></i> téléphone</strong> : <a href='tel:{{ $.Site.Data.paramsite.phone }}'>{{ $.Site.Data.paramsite.phone }}</a><br>
+                    <strong><i class="fas fa-envelope"></i> mail</strong> : <a href='mailto:{{ $.Site.Data.paramsite.mail }}'>{{ $.Site.Data.paramsite.mail }}</a><br> 
+                </p>
+            </div>
+        </div>
 
-        <p>
-            <strong><i class="fas fa-map-marker-alt"></i> Adresse</strong> : <a target="_blank" href='https://www.openstreetmap.org/?mlat={{ $.Site.Data.paramsite.latitude }}&mlon={{ $.Site.Data.paramsite.longitude }}#map=18/{{ $.Site.Data.paramsite.latitude }}/{{ $.Site.Data.paramsite.longitude }}'>{{ $.Site.Data.paramsite.location }}</a><br/>
-            <strong><i class="fas fa-phone"></i> téléphone</strong> : <a href='tel:{{ $.Site.Data.paramsite.phone }}'>{{ $.Site.Data.paramsite.phone }}</a><br>
-            <strong><i class="fas fa-envelope"></i> mail</strong> : <a href='mailto:{{ $.Site.Data.paramsite.mail }}'>{{ $.Site.Data.paramsite.mail }}</a><br> 
-        </p>
+
+
         
         <p class='credits'>Réalisation <a href='https://www.linkedin.com/in/fabien-grignoux-3ab9a4167/'>Fabien Grignoux</a></p>
     </div>
@@ -18,13 +26,14 @@
 
 <script>
     (function() {
-      var burger = document.querySelector('.burger');
-      var nav = document.querySelector('#'+burger.dataset.target);
-     
-      burger.addEventListener('click', function(){
+        var burger = document.querySelector('.burger');
+        var nav = document.querySelector('#'+burger.dataset.target);
+        
+        burger.addEventListener('click', function(){
+            console.log("pouet");
         burger.classList.toggle('is-active');
         nav.classList.toggle('is-active');
-      });
+        });
     })();
 </script>
 
