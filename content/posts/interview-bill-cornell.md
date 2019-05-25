@@ -12,7 +12,7 @@ notes: ''
 
 L’Analyse Transactionnelle (AT) reste encore trop méconnue en France. Or, cette **approche de la psychothérapie**que je trouve particulièrement intelligente et intéressante mérite à mon sens d’être plus répandue. Il me paraitrait pertinent de la rendre plus accessible (pour une présentation de l’Analyse Transactionnelle, voir la page [**l’Analyse Transactionnelle**](http://ct-psy.com/cest-quoi-analyse-transactionnelle/)). Elle pourrait par exemple être enseignée aux psychologues, ce qui signifierait l’enseigner à l’Université. Mais ce n’est pas le cas pour le moment et l’AT ne regroupe que quelques praticiens formés dans des **écoles privées**. Certaines de ces écoles sont **agrées par la FF2P** (Fédération française de psychothérapie et psychanalyse : c’est le seul organisme en France habilité à délivrer le **Certificat Européen de Psychothérapie.** Il a pour vocation de « _défendre avec rigueur un exercice spécifique, celui de la psychothérapie et rassembler les praticiens de cette discipline qu’ils soient psychiatres, psychologues, psychanalystes, psychothérapeutes ou psychopraticiens à condition que ces professionnels et que les écoles qui les forment se soumettent aux exigences que définies au niveau européen et qui visent à protéger le public_ » – lien du site à retrouver dans les Ressources ci-dessous).
 
-![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/07/Bill-300x231.jpeg =300x231)Bill Cornell
+![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/07/Bill-300x231.jpeg)Bill Cornell
 
 Lors d’une formation l’an dernier, j’avais posé cette question à [**José Grégoire**](https://www.cairn.info/revue-actualites-en-analyse-transactionnelle-2012-3-page-69.htm) de savoir pourquoi, selon lui, l’AT n’était pas plus connue en France. Il m’avait répondu que la situation est différente dans d’autres pays d’Europe mais qu’en France, l’histoire de la psychothérapie est très liée à celle de la psychanalyse et qu’il a pu être difficile pour l’AT de s’y implanter. Ces mots rejoignent ce qu’il avait déjà décrit dans un article des Actualités en Analyse Transactionnelle (AAT, consultables sur Cairn), expliquant qu’« _en Grande Bretagne, la conscience de la pluralité des approches, par exemple, semble plus forte qu’en France ou en Italie où les approches ont plutôt tendance à se combattre_ » – lien de l’article à retrouver dans les Ressources. Depuis quelques années toutefois, cette place perd un peu de terrain et on parle de méthodes anglo-saxones comme les TCC (thérapies cognitivo-comportementales), la Systémie ou l’EMDR.
 
@@ -20,7 +20,7 @@ En mai 2018, j’ai profité de la présence de **Bill Cornell** (psychothérape
 
 ## L’AT, une approche normative ?
 
-![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/07/Berne-238x300.jpeg =238x300)Eric Berne
+![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/07/Berne-238x300.jpeg)Eric Berne
 
 Je lui ai demandé ce qu’il pensait de la place **l’AT aux USA**. Est-ce comme en France, assez peu répandu ?  
 Bill Cornell a rappelé que lorsque Berne a essayé de devenir psychanalyste en présentant sa thèse qui a été refusée (la future base de l’AT), la psychanalyse américaine était essentiellement freudienne. Cela signifie pour lui : très intellectuelle, très élitiste, avec une grande **hiérarchie** interne et par hiérarchique, il veut dire « _un système de couches d’autorités, où celles « au sommet » sont perçues comme ayant plus de connaissance, plus de pouvoir_ » (dixit). Mais il pour lui, ce n’est plus le cas maintenant aux Etats-Unis. Il qualifie la psychanalyse américaine contemporaine de très ouverte, peut-être plus **relationnelle**, la plupart en tous cas. La culture aux USA lui parait donc maintenant bien moins hiérarchique et il y voit plus d’espace pour la diversité de théories. L’AT y a donc sa place.  
@@ -35,7 +35,7 @@ Serait-ce le cas dans toutes les méthodes en psychothérapie ou l’AT est-elle
 
 ## Bill est-il un analyste transactionnel « spécial » ?
 
-![Psychologie](http://ct-psy.com/wp-content/uploads/2018/07/AATC_136_L204-195x300.jpg =195x300)
+![Psychologie](http://ct-psy.com/wp-content/uploads/2018/07/AATC_136_L204-195x300.jpg)
 
 Au sein de la communauté AT, plusieurs personnes m’ont déjà parlé de Bill en disant de lui qu’il est « spécial » et Bill semble d’accord avec cette qualification. Il se décrit d’ailleurs lui-même comme **non-puriste de l’AT**.  
 Je lui ai donc demandé comment il définirait cette « spécificité » qu’on lui attribue et dans laquelle il semble se reconnaitre. Selon lui, elle vient de **son intérêt pour le corps et la question sexuelle** car « _pas grand monde écrit là-dessus en AT_ ». (Serait-ce un **appel à contribution** ?).
@@ -53,7 +53,7 @@ Néanmoins, je trouve cette réponse particulièrement intéressante car ce n’
 J’ai finalement interrogé Bill sur ce qu’il aime dans l’AT. La réponse a été nette : la communauté. « _C’est sûr que ma façon de travailler n’est pas ordinaire. Mais on ne m’a pas rejeté, pas viré. Ils ont accepté ma différence comme quelque chose d’intéressant._ » Bill voit donc dans l’AT **un espace pour être en désaccord** et ne pas forcément partager les mêmes points de vue, ce qu’il ne perçoit pas forcément dans d’autres modèles.  
 Il a ajouté qu’il aime aussi le fait que **la méthode existe dans beaucoup de cultures différentes**. Si l’AT a commencé comme quelque chose de très américain, il précise que dans d’autres pays et cultures, elle a trouvé des modes d’expression bien différents, et cela lui plait.
 
-![](http://ct-psy.com/wp-content/uploads/2018/07/Livre-Bill-225x300.jpeg =225x300)
+![](http://ct-psy.com/wp-content/uploads/2018/07/Livre-Bill-225x300.jpeg)
 
 **Vous pouvez retrouver William Bill Cornell en français dans son livre Une vie pour être soi chez Payot et dans une** [**entrevue**](https://www.cairn.info/resume.php?ID_ARTICLE=AATC_136_0067) **très intéressante de France Brécard parue en 2010 dans les AAT qui développe la place de l’AT aux Etats-Unis.**
 
