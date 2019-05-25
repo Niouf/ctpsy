@@ -12,26 +12,35 @@
 	<section class="section-headhome">
 		<div class="columns">
 			<div class="column">
-		{{ range where .Data.Pages "Type" "homepage" }}
-		<div class="text-header">
-			{{ if (not (isset .Params "longtitle")) }}
-			<h1>{{ .Title }}</h1>
-			{{else}}
-			{{ .Params.longtitle}}
-			{{end}}
+				{{ range where .Data.Pages "Type" "homepage" }}
+				<div class="text-header">
+					<h1 class='title is-1'>{{ .Title }}</h1>
+					<p class='subtitle'>{{ .Params.longtitle}}</p>
+				</div>
+
+				<div class="image-home ">
+					<img class='center-cropped' src="{{ $.Site.Data.paramsite.baseUrlImage }}/{{ .Params.logo }}" alt="" />
+				</div>
+				{{ end }}
+			</div>
 		</div>
-
-		<div class="image-hom">
-			<img class='center-cropped' src="{{ .Params.logo }}" alt="" />
-		</div>
-
-		{{ end }}
-	</div>
-	</div>
-
 	</section>
 
 
+	<section class='section-home'>
+		<div class="container">
+			<div class="columns">
+				{{ range where .Data.Pages "Type" "homepage" }}
+				<div class="column is-4">
+					<img class='center-cropped portrait' src="{{ $.Site.Data.paramsite.baseUrlImage }}/{{ .Params.portrait }}" alt="" />
+				</div>
+				<div class="column is-8">
+					{{ .Content }}
+				</div>
+				{{ end }}
+			</div>
+		</div>
+	</section>
 
 		
 

@@ -1,3 +1,6 @@
+@import url("https://fonts.googleapis.com/css?family=Muli&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Roboto&display=swap");
+@import url("https://use.fontawesome.com/releases/v5.8.2/css/all.css");
 @-webkit-keyframes spinAround {
   from {
     -webkit-transform: rotate(0deg);
@@ -8,7 +11,6 @@
             transform: rotate(359deg);
   }
 }
-
 @keyframes spinAround {
   from {
     -webkit-transform: rotate(0deg);
@@ -11505,22 +11507,9 @@ label.panel-block:hover {
   padding: 3rem 1.5rem 6rem;
 }
 
-/*
-@font-face {
-	font-family: "overlock";
-	src: url("../../../fonts/Overlock-Regular.woff");
-	font-display: swap;
-  }
-
-  @font-face {
-	font-family: "cinzel";
-	src: url("../../../fonts/Cinzel.woff");
-	font-display: swap;
-  }
-*/
 body {
-  background: #d4d4d4;
-  font-family: overlock;
+  background: white;
+  font-family: roboto;
   font-size: 1em;
 }
 
@@ -11553,11 +11542,6 @@ body {
   max-height: 100%;
 }
 
-.titleSiteMenu {
-  font-family: Times, "Times New Roman", Georgia, serif;
-  text-transform: uppercase;
-}
-
 .navbar-burger {
   color: white;
 }
@@ -11567,17 +11551,22 @@ body {
   margin-top: -1em;
 }
 
-.navbar a, .is-active a {
+.navbar, .is-active {
+  background: #383838 !important;
   color: white;
 }
 
+.navbar a, .is-active a {
+  color: white !important;
+}
+
 .navbar a:hover, .is-active a:hover {
-  color: #025d8c;
-  background-color: #8acbb2;
+  color: white;
+  background-color: #414141 !important;
 }
 
 .navbar .content-fixed, .is-active .content-fixed {
-  background-color: #8acbb2;
+  background-color: #383838;
   text-align: center;
   width: 100%;
 }
@@ -11592,7 +11581,6 @@ body {
 
 .menuGeneral {
   background: #8acbb2;
-  font-family: cinzel;
   font-size: 1.4em;
 }
 
@@ -11604,7 +11592,6 @@ body {
 
 #navMenuMobile {
   background: #8acbb2;
-  font-family: cinzel;
   font-size: 1.4em;
 }
 
@@ -11612,20 +11599,23 @@ body {
   padding-top: 1em;
   padding-bottom: 1em;
   background: white;
-  font-family: cinzel;
+}
+
+h1 {
+  font-family: "muli";
+}
+
+p {
+  font-family: "roboto";
 }
 
 .titles h1 {
   color: #025d8c;
-  font-family: cinzel;
-  font-size: 2.8em;
-  text-transform: uppercase;
 }
 
 .titles .subtitle {
   font-size: 2em;
   color: #025d8c;
-  font-family: cinzel;
 }
 
 @media screen and (max-width: 800px) {
@@ -11635,18 +11625,18 @@ body {
 }
 
 .content h1 {
-  font-family: cinzel;
+  font-family: "muli";
   color: #025d8c;
   font-size: 2.5em;
 }
 
 .content h2 {
-  font-family: cinzel;
+  font-family: "muli";
   color: #025d8c;
 }
 
 .content h3 {
-  font-family: cinzel;
+  font-family: "muli";
   color: black;
 }
 
@@ -11661,14 +11651,11 @@ ul li {
 
 .portrait {
   border-radius: 50%;
-}
-
-.portrait-claire {
   text-align: center;
 }
 
 @media screen and (max-width: 800px) {
-  .portrait-claire {
+  .portrait {
     max-width: 150px;
   }
 }
@@ -11691,8 +11678,7 @@ ul li {
 
 /*******************************************************/
 .article .title-article, .article .subtitle-article {
-  font-family: Times, "Times New Roman", Georgia, serif;
-  text-transform: uppercase;
+  font-family: "roboto";
 }
 
 @media screen and (max-width: 800px) {
@@ -11726,7 +11712,6 @@ ul li {
 
 .article .top-article .title-header-article {
   font-size: 3.3em;
-  font-family: "title1", Helvetica, Arial, sans-serif;
   text-align: center;
 }
 
@@ -11776,13 +11761,19 @@ section.bloc {
 }
 
 .section-home {
-  background-color: white;
-  height: 80vh;
+  background: url("../../img/fondpresentation.png") bottom no-repeat;
+  background-color: #dfdfdf;
+  margin-top: -20px;
+  padding-top: 2em;
+  padding-bottom: 6em;
+}
+
+.section-publication {
+  background: #fff;
 }
 
 .background-home {
   /* The image used */
-  background-image: url("../../img/background-home.jpg");
   /* Full height */
   height: 100%;
   /* Center and scale the image nicely */
@@ -11821,46 +11812,40 @@ section.bloc {
 
 h2 {
   font-size: 2em;
-  font-family: "title1", Helvetica, Arial, sans-serif;
+  font-family: "muli";
 }
 
 h3 {
-  font-family: "title1", Helvetica, Arial, sans-serif;
+  font-family: "muli";
 }
 
 footer {
+  color: white;
   margin-top: 3em;
   padding-top: 5em;
   padding-bottom: 2em;
-  background: #fcfcfc;
+  background: #1f1f1f;
   color: #1f1f1f;
 }
 
 footer a {
-  color: #025d8c !important;
+  color: white !important;
+  text-decoration: underline;
 }
 
 footer p {
   line-height: 1.8em;
+  color: white;
 }
 
 footer strong {
-  color: #1f1f1f;
-}
-
-footer a {
-  color: #8acbb2;
-}
-
-footer a:hover {
-  color: #025d8c;
+  color: white;
 }
 
 footer .name-brand {
-  font-family: cinzel;
-  color: #025d8c;
-  text-transform: uppercase;
-  border-bottom: 1px solid #8acbb2;
+  font-family: muli;
+  color: white;
+  border-bottom: 1px solid #911010;
   font-size: 1.6em;
 }
 
@@ -11882,7 +11867,7 @@ footer .credits a {
 }
 
 a {
-  color: #8acbb2;
+  color: #911010;
 }
 
 .list-items {
@@ -11929,7 +11914,7 @@ a {
 }
 
 .text-article blockquote {
-  border-left: #8acbb2 3px solid;
+  border-left: #911010 3px solid;
   font-style: italic;
   margin-top: 1em;
   margin-bottom: 1em;
