@@ -5,6 +5,8 @@ notes = ""
 resume = ""
 title = "Contact"
 title-long = "Me contacter"
+[menu.main]
+weight = 7
 
 +++
 ## Contact
