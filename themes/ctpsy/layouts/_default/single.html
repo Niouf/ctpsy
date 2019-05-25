@@ -3,6 +3,14 @@
 
 <head>
 	{{ partial "head.html" . }}
+	{{ if eq .Type "posts" }}
+	<div class="mailchimp">
+		<!--
+		<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5f066baa2fafd6c91d71c809f/777c1bb27941508b7d98638e4.js");</script>
+		-->
+		<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5f066baa2fafd6c91d71c809f/e44b8364d69f5e7c17672bca1.js");</script>
+	</div>
+	{{ end }}
 </head>
 
 <body class="has-navbar-fixed-top">
@@ -40,11 +48,6 @@
 
 						{{ .Content }}
 
-						{{ if eq .Type "posts" }}
-						<div class="mailchimp">
-							<script id="mcjs">!function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5f066baa2fafd6c91d71c809f/777c1bb27941508b7d98638e4.js");</script>
-						</div>
-						{{ end }}
 					</div>
 				</div>
 
