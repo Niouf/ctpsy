@@ -8,6 +8,11 @@ body{
 .section-headhome{
 	position:relative;
 
+	.image-home{
+		width:100%;
+		//position:absolute;
+	}
+
 	.text-header{
 		top: 50%;
 		-ms-transform: translateY(-50%);
@@ -273,7 +278,12 @@ section.bloc{
 	margin-top:-20px;
 	padding-top:2em;
 	padding-bottom:6em;
+	background-size: 100%;
 
+	.content-section-home{
+		padding-left:2em;
+		padding-right:2em;
+	}
 }
 
 .section-publication{

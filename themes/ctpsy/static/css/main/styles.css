@@ -11517,6 +11517,10 @@ body {
   position: relative;
 }
 
+.section-headhome .image-home {
+  width: 100%;
+}
+
 .section-headhome .text-header {
   top: 50%;
   -webkit-transform: translateY(-50%);
@@ -11766,6 +11770,12 @@ section.bloc {
   margin-top: -20px;
   padding-top: 2em;
   padding-bottom: 6em;
+  background-size: 100%;
+}
+
+.section-home .content-section-home {
+  padding-left: 2em;
+  padding-right: 2em;
 }
 
 .section-publication {
