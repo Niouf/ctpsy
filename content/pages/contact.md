@@ -9,9 +9,7 @@ title-long = "Me contacter"
 weight = 7
 
 +++
-## Contact
-
-### Adresse du cabinet
+## Adresse du cabinet
 
 Catherine Tardella
 
