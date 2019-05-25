@@ -15,7 +15,7 @@ Mais Laurie a surtout une particularité à mes yeux : comme moi, elle **danse l
 
 ## Rencontre avec l’Analyse Transactionnelle (AT)
 
-![Analyse transactionnelle](http://ct-psy.com/wp-content/uploads/2018/12/Laurie-portrait.jpeg =183x275)
+![Analyse transactionnelle](http://ct-psy.com/wp-content/uploads/2018/12/Laurie-portrait.jpeg)
 
 Nous sommes assises sur un banc au soleil dans le parc du Valpré-Lyon d’Ecully, Laurie me raconte une histoire qui commence en 1974 à un moment de sa vie où elle est une jeune fille anxieuse. Sa belle-mère, après lui avoir offert un livre de psychologie « best seller » à l’époque aux Etats-Unis (« I’m OK, your OK », que Laurie ne nous recommande pas !), lui propose de rencontrer une thérapeute de sa connaissance qui utilise cette méthode. Il s’agit de l’**Analyse Transactionnelle** mais Laurie n’en connait encore rien.
 
@@ -25,7 +25,7 @@ Laurie débute donc sa thérapie au début de l’été 1974. En parallèle du g
 
 ## Création d’instances européennes
 
-![Psychologue Lyon](http://ct-psy.com/wp-content/uploads/2018/12/Livre-Laurie-2.jpeg =173x280)Pendant l’été 1975, Mary Goulding organise en Suisse **le 1er Congrès européen d’AT**auquel les membres du groupe de formation de Laurie participent. Et c’est lors de cet événement qu’une partie des congressistes crée l’**European Association for Transactionnal Analysis** ([**Association européenne pour l’AT**](https://www.eatanews.org/)). L’AT se développe et Laurie devient la secrétaire de cette association pour la France. Elle n’a alors que **21 ans !**
+![Psychologue Lyon](http://ct-psy.com/wp-content/uploads/2018/12/Livre-Laurie-2.jpeg)Pendant l’été 1975, Mary Goulding organise en Suisse **le 1er Congrès européen d’AT**auquel les membres du groupe de formation de Laurie participent. Et c’est lors de cet événement qu’une partie des congressistes crée l’**European Association for Transactionnal Analysis** ([**Association européenne pour l’AT**](https://www.eatanews.org/)). L’AT se développe et Laurie devient la secrétaire de cette association pour la France. Elle n’a alors que **21 ans !**
 
 C’est également lors de ce Congrès qu’elle découvre l’existence d’une **certification en AT (CTA)**. Pour la préparer et la présenter, il faut signer un contrat de formation avec une personne déjà certifiée. Mais il n’en existe pas encore en France ! Au cours du Congrès suivant, Laurie demande donc à Raymond Hostie de passer un contrat de certification avec elle. Mais voilà, celui-ci lui demande d’obtenir d’abord une **licence en psychologie**. Il va lui falloir reprendre ses études. Laurie se lance alors dans l’aventure universitaire à Paris V et passera son CTA… « _à peine 18 ans plus tard !_ » (dixit).
 
@@ -39,7 +39,7 @@ Ah ?
 
 Eh bien justement, quelle est la différence entre la thérapie individuelle et la thérapie de groupe ?
 
-![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/12/berne-204x300.jpeg =204x300)
+![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/12/berne-204x300.jpeg)
 
 « _Les patients peuvent parfois entendre différemment les mots des autres participants que de ceux du thérapeute_« , dit-elle. Par exemple, si l’on dit à une patiente « non, vous n’êtes pas folle de penser de cette façon », elle répond parfois en **minimisant** les paroles du psy : « oui, mais vous êtes mon psy, c’est bien normal que vous pensiez ça ». De la même façon, Laurie précise que les propos du conjoint ont régulièrement peu d’impact sur le patient. En revanche, dans une **thérapie de groupe**, les retours positifs des autres membres participants peuvent mieux intégrés par les patients, comme s’ils étaient plus crédibles. Ils sont de ce fait très aidants.
 
