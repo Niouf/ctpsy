@@ -10,15 +10,15 @@ name = "Pourquoi une thérapie ? "
 weight = 1
 
 +++
-Contrairement à ce qui est parfois imaginé, le travail du « psy » n’est pas de donner des conseils. Le but de la thérapie est en effet de permettre à une personne qui rencontre des problèmes de trouver ses propres **solutions** pour le résoudre. Car chacun de nous étant **différent**, avec ses **idées**, ses **valeurs**, ses **expériences**, ses **émotions**, il est rarement possible d’appliquer une solution toute-faite à un problème complexe.![](http://ct-psy.com/wp-content/uploads/2017/09/julie-belotte-psychologue-2-286x300.jpg =286x300)
+Contrairement à ce qui est parfois imaginé, le travail du « psy » n’est pas de donner des conseils. Le but de la thérapie est en effet de permettre à une personne qui rencontre des problèmes de trouver ses propres **solutions** pour le résoudre. Car chacun de nous étant **différent**, avec ses **idées**, ses **valeurs**, ses **expériences**, ses **émotions**, il est rarement possible d’appliquer une solution toute-faite à un problème complexe.
 
- Vous avez probablement déjà réussi à vous sortir d’une situation compliquée ou dure à vivre en appliquant le conseil d’un ami ou une idée tirée d’un bon livre. Et parfois en effet, cela suffit. Mais à d’autres moments, nous sommes « **bloqués »** malgré les conseils de l’extérieur.
+Vous avez probablement déjà réussi à vous sortir d’une situation compliquée ou dure à vivre en appliquant le conseil d’un ami ou une idée tirée d’un bon livre. Et parfois en effet, cela suffit. Mais à d’autres moments, nous sommes « **bloqués »** malgré les conseils de l’extérieur.
 
 C’est dans ces cas particuliers qu’une psychothérapie peut aider. En nous permettant de **prendre** **conscience** de nos capacités personnelles à résoudre les difficultés de notre vie, elle nous redonne notre **autonomie**. Cela ne signifie pas que nous n’avons plus besoin des autres et qu’il nous suffit dorénavant d’aller vivre sur une île déserte ! Mais cela signifie que nous avons désormais confiance dans le fait que nous avons aussi des **ressources** **internes** pour nous sentir mieux.
 
 ## Pour quels types de problèmes ?
 
-# ![](http://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-355988-300x200.jpeg =300x200)
+![](http://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-355988-300x200.jpeg)
 
 Non, **le psy ce n’est pas pour les « fous »**.
 
@@ -43,7 +43,7 @@ Les raisons de consulter sont tellement **variées** qu’il est impossible de l
 
 ## Quel « psy » aller voir ?
 
-# _![](http://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-277593-300x160.jpeg =300x160)_
+![](http://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-277593-300x160.jpeg)
 
 Il existe cinq types de psys que vous pouvez consulter en fonction de ce que vous recherchez :
 
@@ -55,7 +55,7 @@ Il existe cinq types de psys que vous pouvez consulter en fonction de ce que vou
 
 ## Combien de temps ça dure une thérapie ?
 
-# ![](http://ct-psy.com/wp-content/uploads/2017/09/hourglass-time-hours-sand-39396-copie-300x226.jpeg =300x226)
+![](http://ct-psy.com/wp-content/uploads/2017/09/hourglass-time-hours-sand-39396-copie-300x226.jpeg)
 
 La durée de la thérapie dépend d’énormément de facteurs ! Du type de problème qui se pose, de combien il est ancré, du besoin ou non de comprendre l’origine de ce problème, de la relation entre le psy et la personne qui le consulte, de la durée des séances, de la fréquence des séances, de l’énergie qui est consacrée à la thérapie. Et il ne s’agit là que d’exemples.
 
