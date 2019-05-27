@@ -24,7 +24,7 @@ Car en tant que chef de service, j’avais pour mission de gérer des équipes. 
 
 ## Analyse Transactionnelle
 
-![](http://ct-psy.com/wp-content/uploads/2017/08/pexels-photo-486841-300x200.jpeg =300x200)Pour m’aider à répondre à ces questions, en parallèle de mon travail j’ai commencé à me former en Analyse Transactionnelle à l’Ecole d’Analyse Transactionnelle de Paris ([**EAT Paris**](http://www.eat-paris.net/)) auprès principalement d’Anne Noé et de Jean Macquet désormais formateurs à AT-Psy.  
+![](http://ct-psy.com/wp-content/uploads/2017/08/pexels-photo-486841-300x200.jpeg)Pour m’aider à répondre à ces questions, en parallèle de mon travail j’ai commencé à me former en Analyse Transactionnelle à l’Ecole d’Analyse Transactionnelle de Paris ([**EAT Paris**](http://www.eat-paris.net/)) auprès principalement d’Anne Noé et de Jean Macquet désormais formateurs à AT-Psy.  
 J’ai poursuivi mon cursus d’Analyse Transactionnelle à l’[**EAT Lyon**](http://www.eat-lyon.fr/)et je l’ai finalement terminé à l’[**Institut Rhone-alpin d’Analyse Transactionnelle et approches pluridisciplinaires**](https://www.institut-rhonalpin-at.fr/formations/) auprès d’Eric Roland et d’Hélène Ghiringhelli. Plus récemment aussi, de Bill Cornell.  
 Au terme de ce cursus de 7 années, je peux exercer en tant que **psychopraticienne relationnelle**. Ce titre correspond à la dénomination des anciens psychothérapeutes qui, depuis 2012, ne peuvent plus porter ce titre s’ils ne sont pas psychologue, médecin ou agréés par l’ARS. Les psychopraticiens pratiquent pourtant la psychothérapie et y sont formés dans une méthode (l’Analyse transactionnelle pour ma part, mais il en existe bien d’autres). Laurie Hawkes qui est formatrice à l’EAT Paris explique particulièrement bien sur son site professionnel de quoi il retourne :
 
@@ -39,7 +39,7 @@ _Quant à l’adjectif « relationnel », il signifie essentiellement que l’on
 
 ## Reprise de l’Université
 
-![](http://ct-psy.com/wp-content/uploads/2017/08/pexels-photo-269810-300x225.jpeg =300x225)En parallèle de ce cursus en AT, j’ai finalement entrepris un cursus universitaire.
+![](http://ct-psy.com/wp-content/uploads/2017/08/pexels-photo-269810-300x225.jpeg)En parallèle de ce cursus en AT, j’ai finalement entrepris un cursus universitaire.
 
 L’offre universitaire en psychologie est extrêmement variée et toutes les facultés n’offrent pas le même enseignement.
 

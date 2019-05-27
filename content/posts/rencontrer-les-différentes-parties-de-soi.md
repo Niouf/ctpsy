@@ -11,7 +11,7 @@ aliases = ["/limaginaire-pour-le-traitement-des-traumatismes-olivier-piefort-mar
 
 J’entends parfois des patients dire qu’ils ne comprennent pas pourquoi des difficultés émotionnelles arrivent dans leur vie car ils pensent n’avoir rien vécu de « **grave**« . Autrement dit, de traumatique. Il ne savent pas toujours que la définition du traumatisme n’implique pas seulement les **expériences terribles et particulièrement intenses** émotionnellement et corporellement qui surviennent parfois dans la vie. En effet, le traumatisme concerne également tout un tas de « petits » événements qui, **répétés dans le temps**, ont la même conséquence sur le fonctionnement cérébral et psychique qu’un événement unique très difficile. Ils peuvent même marquer plus encore qu’un traumatisme dit « simple » et générer des modifications à la fois dans le **comportement** et dans la **personnalité**.
 
-![Analyse transactionnelle EMDR](http://ct-psy.com/wp-content/uploads/2019/01/PPIT2-300x295.jpg =300x295)
+![Analyse transactionnelle EMDR](http://ct-psy.com/wp-content/uploads/2019/01/PPIT2-300x295.jpg)
 
 Ces traumatismes-là sont nommés **traumatismes complexes** et concernent par exemple des cas d’abus d’autorité ou de manques de liens affectifs dans le passé auxquels on ne pense pas toujours d’emblée lorsqu’on recherche des traumatismes dans sa vie.
 
@@ -25,13 +25,13 @@ Car il se trouve à la croisée des deux théories avec lesquelles je travaille 
 
 Si le lien avec l’EMDR peut rapidement se faire lorsque l’on parle des traumatismes complexes (puisque c’est une méthode de traitement des traumatismes, pour en savoir plus vous pouvez consulter [**ma présentation de l’EMDR**](http://ct-psy.com/emdr-catherine-tardella-psychologue/)), il peut sembler moins évident d’y trouver un lien avec l’[**Analyse Transactionnelle**](http://ct-psy.com/cest-quoi-analyse-transactionnelle/).
 
-![Eric Berne](http://ct-psy.com/wp-content/uploads/2019/01/AT-et-the%CC%81rapie.jpeg =190x293)
+![Eric Berne](http://ct-psy.com/wp-content/uploads/2019/01/AT-et-the%CC%81rapie.jpeg)
 
 Et pourtant, dans leur livre, le psychologue Olivier Piedfort-Marin et la psychiatre Luise Reddeman décrivent une **approche imaginative** (PPIT) basée sur la **théorie des états du moi**, une théorie qui a également inspirée **Eric Berne**, le créateur de l’Analyse Transactionnelle ! Cette théorie est issue des travaux de **Paul Federn**, un médecin et psychanalyste américain, à l’origine proche de Freud et décédé en 1950. Elle a par la suite été travaillée par les **époux Watkins**. Pour eux, les états du moi représentent différentes « facettes » de notre personnalité ayant chacune des comportements, des émotions et des pensées structurées. Ces « facettes » ont des frontières plus ou moins perméables et poreuses et peuvent donc entrer en contact les unes avec les autres plus ou moins facilement.
 
 Il s’agit donc bien jusque-là des mêmes états du moi que ceux décris par Berne dans Analyse Transactionnelle et psychothérapie : » _Le terme « état du moi » veut simplement désigner les différents états d’esprit et les modèles de comportement qui y correspondent, tels qu’ils se présentent à **l’observation**_**« .** Mais là où Eric Berne ne décrit que trois états du moi (qui représentent d’ailleurs le logo de l’Analyse Transactionnelle), l’approche PPIT considère qu’il en existe une infinité.
 
-![EMDR](http://ct-psy.com/wp-content/uploads/2019/01/Livre-PPIT-300x300.jpeg =300x300)
+![EMDR](http://ct-psy.com/wp-content/uploads/2019/01/Livre-PPIT-300x300.jpeg)
 
 C’est sur ces bases théoriques que Luise Reddeman a finalement développé l’approche dite PITT en allemand, ce qui signifie en français : **psychothérapie psychodynamique intégrative des traumatismes complexes**. Une approche qui se situe en amont d’un travail d’EMDR, comme une préparation à la confrontation aux traumatismes.
 
@@ -55,7 +55,7 @@ C’est donc un travail axé sur le renforcement de **ressources** déjà exista
 
 L’imaginaire en psychothérapie
 
-![](http://ct-psy.com/wp-content/uploads/2019/01/PPIT5-209x300.jpeg =209x300)
+![](http://ct-psy.com/wp-content/uploads/2019/01/PPIT5-209x300.jpeg)
 
 Le livre d’Olivier Piedfort-Marin et Luise Reddeman est finalement destiné à des **professionnels de la psychothérapie**. Toutefois, à travers cet article, je trouvais intéressant d’en donner une idée même à des non-professionnels car il montre bien que la psychothérapie est aussi source de créativité et de positif, ce qui n’est pas toujours l’idée que l’on s’en fait.
 

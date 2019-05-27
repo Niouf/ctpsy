@@ -16,13 +16,13 @@ Il n’est pas rare que lors d’une [**thérapie de couple**](http://ct-psy.com
 
 ## Comment fonctionne le désir sexuel ?
 
-![Sexologie](http://ct-psy.com/wp-content/uploads/2019/03/couple-2.jpeg =209x176)
+![Sexologie](http://ct-psy.com/wp-content/uploads/2019/03/couple-2.jpeg)
 
 Entre proximité et séparation, trouver la bonne distance pour le désir sexuel
 
 Pour Esther Perel, il est primordial de comprendre que pour beaucoup de personnes, **l’amour et le désir ne vont pas très bien ensemble**. Autrement dit, qu’il est tout à fait normal, au bout d’un certain nombre d’années de vie commune, de constater une baisse du désir sexuel. Sans que cela n’ait de lien avec une **diminution de l’amour** que l’on porte à son conjoint. On peut aimer son partenaire de vie et pourtant, avoir peu de désir sexuel pour elle ou lui. Il est en effet fréquent de penser « si je n’ai plus envie de faire l’amour avec elle/lui, alors c’est que je ne l’aime plus », ou « si elle/il n’a plus envie de moi, c’est qu’elle/il ne m’aime plus ». Or, non, ce n’est pas aussi simple que ça.
 
-![Psychothérapeute Lyon](http://ct-psy.com/wp-content/uploads/2019/03/couple-7-1.jpeg =167x196)
+![Psychothérapeute Lyon](http://ct-psy.com/wp-content/uploads/2019/03/couple-7-1.jpeg)
 
 Là, c’est peut-être un peu trop loin
 
@@ -32,7 +32,7 @@ Cela vient pour l’auteur du fait que « _l’érotisme a besoin de séparation
 
 L’auteur explique que la vie de couple a évolué au fil du temps. Aujourd’hui, il parait logique dans la plupart des sociétés moderne de considérer que **mariage et passion** vont de pair. Mais cela n’a franchement pas toujours été le cas. C’est seulement le concept d’**amour romantique** apparu à la fin du XIXè siècle qui a réuni ces deux notions. Pendant longtemps, le mariage était surtout un moyen de survivre économiquement et l’amour n’était pas indispensable pour fonder une famille.
 
-![Psychothérapeute Lyon](http://ct-psy.com/wp-content/uploads/2019/03/couple-3.jpeg =161x215)
+![Psychothérapeute Lyon](http://ct-psy.com/wp-content/uploads/2019/03/couple-3.jpeg)
 
 L’amour n’a pas toujours été une question de romantisme
 
@@ -44,7 +44,7 @@ Par conséquent, Esther Perel explique que nous nous mettons en couple en niant 
 
 « _Dans l’ombre du désir, on trouve l’agressivité, le pouvoir, la volonté de faire de l’autre un objet. Autant de composantes de la passion qui ne nourrissent pas forcément l’intimité. Le désir a sa trajectoire propre_« , nous dit l’auteur. « _La force de l’imagination érotique, c’est de pouvoir outrepasser la raison, les **conventions** et les **barrières sociales**_« . Pas si facile.
 
-![Thérapie de couple Lyon](http://ct-psy.com/wp-content/uploads/2019/03/couple-4.jpeg =179x119)
+![Thérapie de couple Lyon](http://ct-psy.com/wp-content/uploads/2019/03/couple-4.jpeg)
 
 La sauvagerie peut aussi être synonyme de jeu et de plaisir
 
@@ -54,7 +54,7 @@ Non, bien sûr. Mais il parait important de cultiver la **différence** à l’i
 
 Cela demande cependant un certain lâcher-prise. Il nous faut en effet oser nous avouer (sans nécessairement le partager verbalement) qu’il existe en nous un côté **sauvage** et **avide**. Or, ce côté brut de nos personnalités est aujourd’hui considéré comme négatif et nous devons le domestiquer pour les **besoins de l’ordre social.** Toutefois, il doit pouvoir être exploré et réhabilité pour nous permettre de créer une intimité sexuelle. Ceci évidemment, tant qu’il respecte le **consentement** de chacun des partenaires.
 
-![Analyse Transactionnelle couples](http://ct-psy.com/wp-content/uploads/2019/03/Couple-5.jpeg =212x159)
+![Analyse Transactionnelle couples](http://ct-psy.com/wp-content/uploads/2019/03/Couple-5.jpeg)
 
 On peut être libre, indépendant et intime dans son couple
 
@@ -64,7 +64,7 @@ Au final, « _la tension entre la sécurité et l’aventure est un **paradoxe �
 
 Cependant, il reste parfois difficile d’évoquer les questions de sexe avec son partenaire. On vient ici toucher le domaine de la **confiance en soi** et celui des **tabous familiaux** sur ce sujet. Il est donc parfois nécessaire en thérapie de faire un petit détour par ces thèmes souvent également abordés en thérapie individuelle. « _que signifie le sexe pour vous ? Est-ce que vous en parliez dans votre famille ? Quels sont les événements importants qui ont façonné votre sexualité ?_ « , leur demande Esther Perel, car « _nos préférences sexuelle sont issues de nos **émotions**, des **défis** et des **conflits** que nous avons connus_« .
 
-![Sexe et psychothérapie](http://ct-psy.com/wp-content/uploads/2019/03/couple-6-2.jpeg =189x126)
+![Sexe et psychothérapie](http://ct-psy.com/wp-content/uploads/2019/03/couple-6-2.jpeg)
 
 Nous apportons notre histoire de vie et nos conflits psychologiques sous la couette
 
@@ -74,6 +74,10 @@ Nous sommes donc bien ici, au coeur de la **construction psychologique**. Le dé
 
 **Pour que cet article ne soit pas trop long, j’ai volontairement mis de côté certains abords comme la place de la parentalité ou de la religion dans l’érotisme du couple. J’ai prévu de faire prochainement une version vidéo de cet article où il me sera plus facile d’intégrer ces éléments pour ceux que cela intéresse.**
 
-Pour approfondir le sujet, vous pouvez lire [**l’article du Temps sur le couple qui intègre les props d’Esther Perel.**](https://www.letemps.ch/societe/esther-perel-faut-arreter-mesurer-succes-dun-couple-longevite) Ou [**l’émission consacrée au dernier livre de l’auteur sur l’infidélité**](https://www.youtube.com/watch?v=RmML1Z42R34). Esther Perel y parle de sa vision de l’infidélité comme non nécessairement intrinsèque au couple mais comme une problématique narcissique, liée à des questionnements individuels. Elle indique également dans sa conférence TEDx comment en guérir, voire comment transformer cette crise du couple en opportunité pour mieux vivre ensemble.
+Pour approfondir le sujet, vous pouvez lire [**l’article du Temps sur le couple qui intègre les props d’Esther Perel.**](https://www.letemps.ch/societe/esther-perel-faut-arreter-mesurer-succes-dun-couple-longevite) Ou **l’émission consacrée au dernier livre de l’auteur sur l’infidélité**.
+{{<youtube RmML1Z42R34>}}
+Esther Perel y parle de sa vision de l’infidélité comme non nécessairement intrinsèque au couple mais comme une problématique narcissique, liée à des questionnements individuels. Elle indique également dans sa conférence TEDx comment en guérir, voire comment transformer cette crise du couple en opportunité pour mieux vivre ensemble.
 
-Un autre TEDx sur le sujet du désir dans le couple est visionable sur Youtube, [**la thérapeute Isabelle Constant y livre une proposition de solution.**](https://www.youtube.com/watch?v=HJ1zVPf9uWs)
+Un autre TEDx sur le sujet du désir dans le couple est visionable sur Youtube, **la thérapeute Isabelle Constant y livre une proposition de solution.**
+
+{{<youtube HJ1zVPf9uWs>}}

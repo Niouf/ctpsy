@@ -73,7 +73,7 @@ Sur une modalité différente que ne le fait la **CNV** (l’approche de la **Co
 
 ## Les liens des triangles avec l’Analyse Transactionnelle
 
-![](http://ct-psy.com/wp-content/uploads/2018/10/Compassionnel-232x300.jpeg =121x156)Bien que Karpman précise que son ouvrage ne soit pas un livre d’Analyse Transactionnelle, il relit cependant le triangle dramatique aux notions du **racket** (qui est pour lui un triangle interne et non plus social), du **scénario** (qui est pour lui un Jeu Psychologique de décisions), du **mini-scénario** de Khaler (qui associe les rôles S, P et V aux **Drivers**, **Injonctions** et **Rackets**), et bien entendu du concept également bien connu des **Etats du Moi** (si l’on peut identifier l’État du Moi actif au moment du Jeu, Karpman explique que l’analyse qu’on peut en faire sera plus fine).
+![](http://ct-psy.com/wp-content/uploads/2018/10/Compassionnel-232x300.jpeg)Bien que Karpman précise que son ouvrage ne soit pas un livre d’Analyse Transactionnelle, il relit cependant le triangle dramatique aux notions du **racket** (qui est pour lui un triangle interne et non plus social), du **scénario** (qui est pour lui un Jeu Psychologique de décisions), du **mini-scénario** de Khaler (qui associe les rôles S, P et V aux **Drivers**, **Injonctions** et **Rackets**), et bien entendu du concept également bien connu des **Etats du Moi** (si l’on peut identifier l’État du Moi actif au moment du Jeu, Karpman explique que l’analyse qu’on peut en faire sera plus fine).
 
 Il présente également en Annexe de son livre les **séminaires TA 202** de Berne (les fameuses « sessions du mardi ») et la façon dont ses membres brainstormaient autour de l’AT pour développer ses concepts chaque semaine. Karpman nous rappelle aussi que Berne avait un rêve en créant l’AT qui était de **guérir le patient en une seule séance** grâce à l’analyse du scénario et des Jeux Psychologiques. Berne serait donc le grand-père des **thérapies brèves**. Je trouve cette idée très intéressante car, l’AT étant à la base une thèse de **psychanalyse** « ratée », on oublie parfois sa dimension également proche d’autres pratiques psychologiques plus **comportementales**.
 
@@ -83,7 +83,7 @@ J’ai été très intriguée par cet abord des choses auquel je ne suis pas sû
 
 ## A retenir
 
-![Analyse Transactionnelle livre](http://ct-psy.com/wp-content/uploads/2018/10/livre-300x300.jpeg =300x300)
+![Analyse Transactionnelle livre](http://ct-psy.com/wp-content/uploads/2018/10/livre-300x300.jpeg)
 
 Après la lecture du livre de Karpman, pour sortir des Jeux, on se rappellera alors que :
 

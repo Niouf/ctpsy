@@ -19,7 +19,7 @@ EMDR signifie : eye movement desensitization and reprocessing. Cela veut dire qu
 
 Le **mouvement des yeux** est utilisé en psychothérapie pour débloquer des circuits cérébraux de traitement de l’information qui se seraient mis en état de dysfonctionnement. Cette situation peut arriver lorsque l’on vit des événements que l’on appelle communément « traumatiques ».
 
-![Psychothérapie EMDR](http://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-300x180.jpg =300x180)
+![Psychothérapie EMDR](http://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-300x180.jpg)
 
 Dans ces moments-là, la charge émotionnelle particulièrement intense peut avoir pour conséquence de bloquer le stockage des informations dans le cerveau. Par la suite, ce dysfonctionnement a des **impacts sur nos émotions et notre façon de penser**.
 
@@ -31,7 +31,7 @@ La désensibilisation et le retraitement permettent alors d’**apaiser** l’in
 
 ## Comment se déroule une séance EMDR ?
 
-![Catherine Tardella EMDR](http://ct-psy.com/wp-content/uploads/2017/10/cerebro-300x214.png =300x214)
+![Catherine Tardella EMDR](http://ct-psy.com/wp-content/uploads/2017/10/cerebro-300x214.png)
 
 Pendant une séance d’EMDR, le psychologue et le patient parlent assez peu. A partir d’un souvenir déterminé ensemble, le patient suit avec ses yeux des mouvements des doigts opérés par le thérapeute. A différents moments le psychologue posera des questions afin d’évaluer l’avancée du traitement de l’événement par le cerveau.
 

@@ -62,7 +62,7 @@ Pour François, les concepts en AT invitent à être normatifs, alors qu’avec 
 
 ## Une différence fondamentale entre Systémie et Analyse Transactionnelle
 
-![](http://ct-psy.com/wp-content/uploads/2019/02/interdep.png =468x350)
+![](http://ct-psy.com/wp-content/uploads/2019/02/interdep.png)
 
 Image de Christophe Schmitt, UdL
 

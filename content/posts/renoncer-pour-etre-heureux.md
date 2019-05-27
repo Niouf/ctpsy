@@ -63,7 +63,7 @@ Dans la même optique, nous nous mettons souvent en couple avec des personnes qu
 
 Il est alors important d’avoir à l’esprit que le partenaire ne pourra jamais, même dans un couple qui fonctionne, totalement réparer nos blessures
 
-![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/09/book-Karpman.jpeg =129x200)
+![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/09/book-Karpman.jpeg)
 
 personnelles. Evidemment, il peut nous y aider. Mais il ne peut être notre « **Sauveur** » (terme d’Analyse Transactionnelle issu du triangle dramatique de Karpman). Ou bien il deviendra cette personne qui nous prend en charge dont parle de **Triangle Dramatique** en [**Analyse Transactionnelle**](http://ct-psy.com/cest-quoi-analyse-transactionnelle/), et ceci ne peut être résolutoire (une présentation du triangle dramatique : [**ici**](https://fr.wikipedia.org/wiki/Triangle_dramatique)). Il est donc important de renoncer à ces **éléments narcissiques blessés** pour un développement qui mène aux **formes adultes de l’amour** (p. 264).
 
