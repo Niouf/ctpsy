@@ -5,6 +5,7 @@ notes = ""
 resume = ""
 title = "Publications"
 title-long = "Mes publications"
+aliases = ["/category/articles/"]
 [menu.main]
 weight = 6
 

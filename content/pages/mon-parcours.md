@@ -5,6 +5,7 @@ notes = ""
 resume = ""
 title = "Mon parcours"
 title-long = ""
+aliases = ["/ma-formation-en-psychologie/"]
 [menu.main]
 weight = 5
 

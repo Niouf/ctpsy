@@ -5,6 +5,7 @@ notes = ""
 resume = "Pourquoi une thérapie de couple ?"
 title = "Le couple"
 title-long = ""
+aliases = ["/catherine-tardella-psychotherapie-de-couple/"]
 [menu.main]
 weight = 3
 

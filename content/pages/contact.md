@@ -5,6 +5,7 @@ notes = ""
 resume = ""
 title = "Contact"
 title-long = "Me contacter"
+aliases = ["/contact-catherine-tardella/"]
 [menu.main]
 weight = 7
 

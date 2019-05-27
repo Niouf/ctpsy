@@ -5,6 +5,7 @@ notes = ""
 resume = "L’Analyse Transactionnelle (AT) : comment ça marche ?"
 title = "L'analyse Transactionnelle"
 title-long = "C’est quoi l’Analyse Transactionnelle ?"
+aliases = ["/cest-quoi-analyse-transactionnelle/"]
 [menu.main]
 name = "L'analyse transactionnelle"
 weight = 2
