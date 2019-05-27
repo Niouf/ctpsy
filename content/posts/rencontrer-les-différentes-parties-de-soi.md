@@ -53,7 +53,9 @@ Ces **éléments imaginaires positifs** renforcent alors nos capacités d’auto
 
 C’est donc un travail axé sur le renforcement de **ressources** déjà existantes chez le patient et la création de nouvelles ressources en lui. Cette perspective d’un travail qui passe également par un travail sur **ce qui fonctionne bien** et pas seulement sur ce qui ne va pas, est très intéressante. Elle permet d’accéder de façon relativement douce à de nouvelles **pensées et croyances aidantes** telles que « je peux me défendre », « je peux agir », qui ont des conséquences sur nos comportements.
 
-![](http://ct-psy.com/wp-content/uploads/2019/01/PPIT5-209x300.jpeg =209x300)L’imaginaire en psychothérapie
+L’imaginaire en psychothérapie
+
+![](http://ct-psy.com/wp-content/uploads/2019/01/PPIT5-209x300.jpeg =209x300)
 
 Le livre d’Olivier Piedfort-Marin et Luise Reddeman est finalement destiné à des **professionnels de la psychothérapie**. Toutefois, à travers cet article, je trouvais intéressant d’en donner une idée même à des non-professionnels car il montre bien que la psychothérapie est aussi source de créativité et de positif, ce qui n’est pas toujours l’idée que l’on s’en fait.
 
