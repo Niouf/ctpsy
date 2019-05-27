@@ -1,6 +1,6 @@
 +++
 date = "2019-05-23T22:00:00+00:00"
-logo = "/v1558968946/photo-1415509038608-afca35072cff.jpg"
+logo = "/v1558969194/neonbrand-618322-unsplash.jpg"
 longtitle = "Psychologue, Psychothérapeute, Psychopraticienne relationnelle"
 portrait = "/v1558285882/catherine_i44v3g.jpg"
 title = "Catherine Tardella"
