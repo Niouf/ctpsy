@@ -1,19 +1,45 @@
 <footer>
     <div class='container padding'>
         <div class="columns">
-            <div class="column is-half">
+            <div class="column is-6">
                 <p><span class='name-brand'>{{ $.Site.Data.paramsite.title }}</span><br/>
                 {{ $.Site.Data.paramsite.subtitle }}<br>
                 Numéro ADELI :  {{ $.Site.Data.paramsite.siret }} <br><br>
                 </p>
+                <p>{{ $.Site.Data.paramsite.ligneInfo1| safeHTML }}</p>
+                <p>{{ $.Site.Data.paramsite.ligneInfo2| safeHTML }}</p>
             </div>
-            <div class="column">
+            <div class="column is-4">
                 <p>
                     <strong><i class="fas fa-map-marker-alt"></i> Adresse</strong> : <a target="_blank" href='https://www.openstreetmap.org/?mlat={{ $.Site.Data.paramsite.latitude }}&mlon={{ $.Site.Data.paramsite.longitude }}#map=18/{{ $.Site.Data.paramsite.latitude }}/{{ $.Site.Data.paramsite.longitude }}'>{{ $.Site.Data.paramsite.location }}</a><br/>
-                    <strong><i class="fas fa-phone"></i> téléphone</strong> : <a href='tel:{{ $.Site.Data.paramsite.phone }}'>{{ $.Site.Data.paramsite.phone }}</a><br>
-                    <strong><i class="fas fa-envelope"></i> mail</strong> : <a href='mailto:{{ $.Site.Data.paramsite.mail }}'>{{ $.Site.Data.paramsite.mail }}</a><br> 
+                    <strong><i class="fas fa-phone"></i> téléphone</strong> : <a target="_blank" href='tel:{{ $.Site.Data.paramsite.phone }}'>{{ $.Site.Data.paramsite.phone }}</a><br>
+                    <strong><i class="fas fa-envelope"></i> mail</strong> : <a target="_blank" href='mailto:{{ $.Site.Data.paramsite.mail }}'>{{ $.Site.Data.paramsite.mail }}</a><br> 
                 </p>
             </div>
+            <div class="column">
+                    <p>
+                        {{ if $.Site.Data.paramsite.facebook }}
+                        <strong><a target="_blank" href='{{ $.Site.Data.paramsite.facebook }}'><i class="fab fa-facebook"></i> Facebook</strong></a><br/>
+                        {{ end }}
+                        
+                        {{ if $.Site.Data.paramsite.twitter }}
+                        <strong><a target="_blank" href='{{ $.Site.Data.paramsite.twitter }}'><i class="fab fa-twitter"></i> Twitter</strong></a><br/>
+                        {{ end }}
+
+                        {{ if $.Site.Data.paramsite.instagram }}
+                        <strong><a target="_blank" href='{{ $.Site.Data.paramsite.instagram }}'><i class="fab fa-instagram"></i> Instagram</strong></a><br/>
+                        {{ end }}
+
+                        {{ if $.Site.Data.paramsite.linkedin }}
+                        <strong><a target="_blank" href='{{ $.Site.Data.paramsite.linkedin }}'><i class="fab fa-linkedin"></i> LinkedIn</strong></a><br/>
+                        {{ end }}
+
+                        {{ if $.Site.Data.paramsite.youtube }}
+                        <strong><a target="_blank" href='{{ $.Site.Data.paramsite.youtube }}'><i class="fab fa-youtube"></i> Youtube</strong></a><br/>
+                        {{ end }}
+
+                    </p>
+                </div>
         </div>
 
 
