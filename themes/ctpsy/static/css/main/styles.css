@@ -12056,4 +12056,10 @@ a {
   padding: 1em;
   margin-top: 200px;
 }
+
+@media screen and (max-width: 800px) {
+  .newsletter {
+    margin-top: 20px;
+  }
+}
 /*# sourceMappingURL=styles.css.map */

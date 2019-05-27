@@ -8,7 +8,7 @@ title = "Une intelligence du couple – l’intelligence érotique"
 title-long = ""
 
 +++
-![Catherine Tardella Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2019/03/couple1-1.jpeg =229x152)
+![Catherine Tardella Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2019/03/couple1-1.jpeg)
 
 Amour et désir sexuel ne vont pas nécessairement de pair
 
