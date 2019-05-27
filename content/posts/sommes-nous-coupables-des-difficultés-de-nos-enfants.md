@@ -1,11 +1,12 @@
 +++
-date = ""
+aliases = ["/coupables-difficultes-psys-enfants/"]
+date = "2019-04-23T22:00:00+00:00"
 logo = "/v1558941878/fratrie.jpg"
 notes = ""
 resume = "Une fois n’est pas coutume, j’entends régulièrement des (gentilles) moqueries sur mon métier. Certains me disent : « J’ai mes problèmes mais de toutes façons c’est de la faute de mes parents, non ? ». Cette idée reçue pourrait faire l’objet d’une vidéo de Max Bird, le célèbre youtubeur. Car bien entendue elle n’est pas vraie."
 title = "Sommes nous coupables des difficultés de nos enfants ?"
 title-long = ""
-aliases = ["/coupables-difficultes-psys-enfants/"]
+
 +++
 Mais alors, pourquoi-elle si répandue ? **De qui d’autre est-ce la faute** si ce n’est pas celle de ma mère ? Bonne question autour de laquelle j’avais envie d’écrire quelques mots.
 
