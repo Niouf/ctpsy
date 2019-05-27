@@ -11571,6 +11571,14 @@ body {
   color: white !important;
 }
 
+.titleSiteMenu {
+  font-size: 1.2em;
+  font-weight: normal;
+  background: url("../../img/logo.png") left no-repeat;
+  background-size: 50px;
+  padding-left: 60px;
+}
+
 .menu-burger {
   float: right;
   margin-top: -1em;
@@ -11654,6 +11662,7 @@ p {
   width: 100%;
   -o-object-fit: cover;
   object-fit: cover;
+  margin-bottom: 30px;
 }
 
 .infos-article {
@@ -11761,10 +11770,6 @@ ul li {
 
 .article .title-article {
   font-size: 2.3em;
-}
-
-.article .subtitle-article {
-  font-size: 1.5em;
 }
 
 .article .subtitle-article {
@@ -11964,6 +11969,10 @@ footer .credits a {
 
 a {
   color: #911010;
+}
+
+.publication h3 {
+  font-size: 1.5em !important;
 }
 
 .publication-image img {

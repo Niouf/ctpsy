@@ -48,8 +48,8 @@
 			<div class='container padding'>
 				<h2 class='title is-2'>Publications</h2>
 				<div class='columns is-multiline'>
-					{{ range first 4 (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
-						<div class='column is-half'>
+					{{ range first 6 (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
+						<div class='column is-one-third'>
 							<a href='{{ .RelPermalink }}'>
 								<div class='publication'>
 									<div class='publication-image'>

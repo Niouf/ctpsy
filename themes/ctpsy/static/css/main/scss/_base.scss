@@ -66,6 +66,14 @@ body{
 	color:$couleur-light !important;
 }
 
+.titleSiteMenu{
+	font-size:1.2em;
+	font-weight:normal;
+	background: url("../../img/logo.png") left no-repeat;
+	background-size:45px;
+	padding-left:55px;
+}
+
 .menu-burger{
 	float:right;
 	margin-top:-1em;
@@ -158,6 +166,7 @@ p{
 		width: 100%;
 		-o-object-fit: cover;
 		object-fit: cover;
+		margin-bottom:30px;
 }
 
 
@@ -280,10 +289,6 @@ ul{
 	
 	.title-article{
 		font-size:2.3em;
-	}
-	
-	.subtitle-article{
-		font-size:1.5em;
 	}
 	
 	.subtitle-article{
@@ -500,6 +505,12 @@ a{
 
 }
 
+
+.publication{
+	h3{
+		font-size:1.5em !important;
+	}
+}
 
 .publication-image{
 	img{

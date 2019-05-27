@@ -1,6 +1,6 @@
 <div class='list-items columns is-multiline list-posts'>
 {{ range (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
-<div class="column is-half ">
+<div class="column is-one-third ">
 <a href="{{ .RelPermalink }}">
 <div class="publication">
 
@@ -9,8 +9,8 @@
 </div>
 
                 
-<div class="publication-titre">
-<h3 class="subtitle is-3">{{ .Title }}</h3>
+<div class='publication-titre'>
+        <p class='is-4 subtitle'>{{ .Title }}</p>
 </div>
 <div class="date-publication">
     Le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }}
