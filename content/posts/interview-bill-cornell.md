@@ -3,10 +3,12 @@ title: Interview de Bill Cornell
 title-long: L’Analyse Transactionnelle vue outre atlantique – Interview de Bill Cornell
 resume: Une interview de Bill Cornell, un psychothérapeute américain travaillant avec
   l’Analyse Transactionnelle.
-date: 2018-07-29T17:35:48.000+00:00
+date: 2018-07-29T17:35:48+00:00
 logo: "/v1558806983/communication-1991850_1280-730x350.jpg"
 notes: ''
-aliases : ["/interview-de-bill-cornell/"]
+aliases:
+- "/interview-de-bill-cornell/"
+
 ---
 ## Place de l’Analyse Transactionnelle (AT) en France
 
