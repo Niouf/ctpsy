@@ -1,11 +1,11 @@
 +++
+aliases = ["/accueil-catherine-tardella-psychologue-emdr/pourquoi-une-psychotherapie/"]
 date = ""
 logo = "/v1558281163/samples/landscapes/girl-urban-view.jpg"
 notes = ""
 resume = "En quoi ça peut m’aider ?"
 title = "Pourquoi une thérapie ?"
 title-long = ""
-aliases = ["/accueil-catherine-tardella-psychologue-emdr/pourquoi-une-psychotherapie/"]
 [menu.main]
 name = "Pourquoi une thérapie ? "
 weight = 1

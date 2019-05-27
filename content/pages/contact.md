@@ -1,11 +1,11 @@
 +++
+aliases = ["/contact-catherine-tardella/"]
 date = ""
 logo = "/v1558802176/claudio-schwarz-purzlbaum-1613276-unsplash.jpg"
 notes = ""
 resume = ""
 title = "Contact"
 title-long = "Me contacter"
-aliases = ["/contact-catherine-tardella/"]
 [menu.main]
 weight = 7
 

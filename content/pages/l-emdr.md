@@ -1,11 +1,11 @@
 +++
+aliases = ["/emdr-catherine-tardella-psychologue/"]
 date = ""
 logo = ""
 notes = ""
 resume = "Qu’y a-t-il derrière l’acronyme EMDR ?"
 title = "L’EMDR"
 title-long = ""
-aliases = ["/emdr-catherine-tardella-psychologue/"]
 [menu.main]
 name = "L'EMDR"
 weight = 4

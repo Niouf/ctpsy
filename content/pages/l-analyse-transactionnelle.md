@@ -1,14 +1,14 @@
 +++
+aliases = ["/cest-quoi-analyse-transactionnelle/"]
 date = "2019-05-23T22:00:00+00:00"
 logo = "/v1558710469/marketing-man-person-communication.jpg"
 notes = ""
 resume = "L’Analyse Transactionnelle (AT) : comment ça marche ?"
 title = "L'analyse Transactionnelle"
 title-long = "C’est quoi l’Analyse Transactionnelle ?"
-aliases = ["/cest-quoi-analyse-transactionnelle/"]
 [menu.main]
 name = "L'analyse transactionnelle"
-weight = 2
+weight = 3
 
 +++
 L’AT est une **méthode relationnelle** car elle étudie les **_transactions_** : d’où sont nom d’**analyse transactionnelle**. Les relations qu’elle étudie et qu’elle aide à modifier sont celles que nous avons avec **les autres** mais aussi celles que nous avons avec **nous-mêmes**.
