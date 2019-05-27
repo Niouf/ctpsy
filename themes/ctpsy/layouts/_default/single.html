@@ -25,29 +25,35 @@
 								{{end}}
 							</h1>
 
-
 							{{ if eq .Type "posts" }}
-							<ul class='reseaux-sociaux'>
-									{{ if $.Site.Data.paramsite.facebook }}
-									<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.facebook }}'><i class="fab fa-facebook"></i> Facebook</strong></a></li>
-									{{ end }}
-									
-									{{ if $.Site.Data.paramsite.twitter }}
-									<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.twitter }}'><i class="fab fa-twitter"></i> Twitter</strong></a></li>
-									{{ end }}
-			
-									{{ if $.Site.Data.paramsite.instagram }}
-									<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.instagram }}'><i class="fab fa-instagram"></i> Instagram</strong></a></li>
-									{{ end }}
-			
-									{{ if $.Site.Data.paramsite.linkedin }}
-									<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.linkedin }}'><i class="fab fa-linkedin"></i> LinkedIn</strong></a></li>
-									{{ end }}
-			
-									{{ if $.Site.Data.paramsite.youtube }}
-									<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.youtube }}'><i class="fab fa-youtube"></i> Youtube</strong></a></li>
-									{{ end }}
-							</ul>
+							<div class="columns infos-article">
+								<div class="column is-6">
+									Le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }} {{ .Date.Year }} par {{ $.Site.Data.paramsite.author }}
+								</div>
+								<div class="column">	
+									<ul class='reseaux-sociaux'>
+											{{ if $.Site.Data.paramsite.facebook }}
+											<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.facebook }}'><i class="fab fa-facebook"></i> Facebook</strong></a></li>
+											{{ end }}
+											
+											{{ if $.Site.Data.paramsite.twitter }}
+											<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.twitter }}'><i class="fab fa-twitter"></i> Twitter</strong></a></li>
+											{{ end }}
+					
+											{{ if $.Site.Data.paramsite.instagram }}
+											<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.instagram }}'><i class="fab fa-instagram"></i> Instagram</strong></a></li>
+											{{ end }}
+					
+											{{ if $.Site.Data.paramsite.linkedin }}
+											<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.linkedin }}'><i class="fab fa-linkedin"></i> LinkedIn</strong></a></li>
+											{{ end }}
+					
+											{{ if $.Site.Data.paramsite.youtube }}
+											<li><strong><a target="_blank" href='{{ $.Site.Data.paramsite.youtube }}'><i class="fab fa-youtube"></i> Youtube</strong></a></li>
+											{{ end }}
+									</ul>	
+								</div>
+							</div>
 							{{ end }}
 
 							{{ if .Params.resume}}

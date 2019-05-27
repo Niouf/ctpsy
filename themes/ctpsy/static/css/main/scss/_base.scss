@@ -153,13 +153,17 @@ p{
 		object-fit: cover;
 }
 
-.reseaux-sociaux{
+
+.infos-article{
+	font-size:0.8em;
+}
+
+ul.reseaux-sociaux{
 	text-align:right;
-	margin-bottom:2em;
-	ul{
+
 		margin:0;
 		padding:0;
-	}
+
 	li{
 		list-style-type: none;
 		display: inline;
@@ -324,6 +328,11 @@ ul{
 	}
 
 
+}
+
+.date-publication{
+	font-size:0.8em;
+	
 }
 
 

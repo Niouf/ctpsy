@@ -11651,17 +11651,17 @@ p {
   object-fit: cover;
 }
 
-.reseaux-sociaux {
-  text-align: right;
-  margin-bottom: 2em;
+.infos-article {
+  font-size: 0.8em;
 }
 
-.reseaux-sociaux ul {
+ul.reseaux-sociaux {
+  text-align: right;
   margin: 0;
   padding: 0;
 }
 
-.reseaux-sociaux li {
+ul.reseaux-sociaux li {
   list-style-type: none;
   display: inline;
   margin: 0;
@@ -11811,6 +11811,10 @@ ul li {
   background-color: whitesmoke;
   padding: 1em;
   width: 100%;
+}
+
+.date-publication {
+  font-size: 0.8em;
 }
 
 section.bloc {

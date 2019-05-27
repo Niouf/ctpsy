@@ -1,6 +1,6 @@
 +++
 aliases = ["/interview-de-francois-balta/"]
-date = "2018-02-24T23:00:00+00:00"
+date = "2019-02-24T23:00:00+00:00"
 logo = "/v1558941513/PPIT4.jpg"
 notes = ""
 resume = "En 2018, j'ai suivi une formation en systémie, qui est une approche environnementale en psychologie. C'est en effet une façon de voir l'individu en fonction de son contexte, dans son système, d'où le nom de systémie. De mon point de vue, elle se rapproche beaucoup de l'Analyse Transactionnelle (AT) tout en allant moins loin. C'était du moins mon point de vue au moment de m'inscrire aux ateliers-séminaires que donne François Balta chaque année à Lyon. "

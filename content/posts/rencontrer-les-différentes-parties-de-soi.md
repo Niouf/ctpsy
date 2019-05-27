@@ -1,5 +1,5 @@
 +++
-date = ""
+date = "2019-01-28T23:00:00+00:00"
 logo = "/v1558941258/PPIT-couv.jpg"
 notes = ""
 resume = "L’imagination n’est pas destinée qu’au jeu. Elle peut aussi aider à soulager les conséquences d’événements tout à faits réels."
