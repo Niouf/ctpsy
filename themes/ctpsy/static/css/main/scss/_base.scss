@@ -30,12 +30,12 @@ body{
 	}
 
 	h1{
-		text-shadow: 1px 1px 2px black;
+		//text-shadow: 1px 1px 2px black;
 		/*
 		color:rgb(241, 241, 241);
 		*/
-		color:rgb(37, 37, 37);
-		font-size:3.5em;
+		color:$couleur-princ;
+		font-size:4em !important;
 	}
 
 	h2{
@@ -43,7 +43,9 @@ body{
 		color:rgb(241, 241, 241);
 		*/
 		font-size:1.5em;
-		text-shadow: 1px 1px 2px black;
+		color:black;
+		font-weight:bold;
+		//text-shadow: 1px 1px 2px black;
 	}
 
 
