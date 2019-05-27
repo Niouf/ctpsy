@@ -6,10 +6,12 @@ resume: Judith Viorst est une psychanalyste américaine qui a aujourd’hui plus
   ans et qui a écrit deux essais en psychologie. L’un d’entre eux, Les renoncements
   nécessaires, date de 1986 mais c’est un livre que j’ai trouvé particulièrement intéressant
   bien que la psychanalyse ne soit pas au centre de ma pratique.
-date: 2018-09-15T17:35:48.000+00:00
+date: 2019-01-28T18:35:48+00:00
 logo: "/v1558807061/livres.jpg"
 notes: ''
-aliases : ["/les-renoncements-necessaires-presentation-du-livre-de-judith-viorst/"]
+aliases:
+- "/les-renoncements-necessaires-presentation-du-livre-de-judith-viorst/"
+
 ---
 Cet essai aborde des sujets majeurs sous un angle particulièrement concret. Les idées développées ainsi que les nombreux moments de sa vie partagés dans ce livre sont décrit avec beaucoup d’**humanité et d’authenticité.**
 
