@@ -8,6 +8,7 @@ resume: Les Jeux Psychologiques sont l’un des concepts les plus connus de l’
 date: 2018-10-31T17:35:48.000+00:00
 logo: "/v1558806865/bib2.jpg"
 notes: ''
+aliases : ["/le-triangle-dramatique-stephen-b-karpman/"]
 
 ---
 ## Les Jeux Psychologiques en Analyse Transactionnelle

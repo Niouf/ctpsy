@@ -7,7 +7,7 @@ resume: Laurie Hawkes est psychologue. Elle fait partie des pionniers de la thé
 date: 2018-12-08T17:35:48.000+00:00
 logo: "/v1558806782/communication-1991854_1280.png-730x350.jpg"
 notes: ''
-
+aliases : ["/interview-de-laurie-hawkes/"]
 ---
 Laurie a écrit un bon nombre de livres en psychologie et elle est plusieurs fois intervenue à la radio (RTL, Radio Notre Dame, Radio Medecinedouce). Elle exerce comme thérapeute dans son cabinet parisien du 19è arrondissement où elle reçoit des adultes en séances individuelles mais aussi en **séances de groupe.**
 

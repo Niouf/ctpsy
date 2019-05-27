@@ -5,7 +5,7 @@ notes = ""
 resume = "Le désir sexuel dans le couple a-t-il une dimension psychologique ou n’est-il dépendant que de circonstances physiologiques et physiques ? Un couple peut-il consulter un psychothérapeute pour traiter de problèmes de désir sexuel ? C’est à ces questions que la psychothérapeute américaine médiatisée Esther Perel se propose de répondre dans son livre L’intelligence érotique.\n"
 title = "Une intelligence du couple – l’intelligence érotique"
 title-long = ""
-
+aliases = ["/une-intelligence-du-couple-lintelligence-erotique/"]
 +++
   
 ![Catherine Tardella Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2019/03/couple1-1.jpeg =229x152)

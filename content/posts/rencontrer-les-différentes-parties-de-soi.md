@@ -5,7 +5,7 @@ notes = ""
 resume = "L’imagination n’est pas destinée qu’au jeu. Elle peut aussi aider à soulager les conséquences d’événements tout à faits réels."
 title = "Rencontrer les différentes parties de soi"
 title-long = "Rencontrer les différentes parties de soi – Présentation du livre d'Olivier Piedfort-Marin et Luise Reddeman"
-
+aliases = ["/limaginaire-pour-le-traitement-des-traumatismes-olivier-piefort-marin-et-luise-reddeman/"]
 +++
 ## Définir le traumatisme
 
