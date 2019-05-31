@@ -14,8 +14,7 @@ body{
 			width: 100%;
 			-o-object-fit: cover;
 			object-fit: cover;
-			height:75vh;
-			//position:absolute;
+			height:50vh;
 		}
 	}
 
@@ -30,20 +29,13 @@ body{
 	}
 
 	h1{
-		//text-shadow: 1px 1px 2px black;
-		/*
-		color:rgb(241, 241, 241);
-		*/
 		color:$couleur-princ;
 		font-size:4em !important;
 	}
 
-	h2{
-		/*
-		color:rgb(241, 241, 241);
-		*/
+	h2{ 
 		font-size:1.5em;
-		color:black;
+		color:white;
 		font-weight:bold;
 		//text-shadow: 1px 1px 2px black;
 	}
@@ -85,10 +77,6 @@ body{
 .navbar, .is-active{
 	background:$background-header  !important;
 	color:$couleur-light;
-
-	.navbar-item{
-
-	}
 
 	a{
 		color:$couleur-light !important;
@@ -594,7 +582,6 @@ a{
 			&:before {content:"\201C"; left:0; top:0;}
 			&:after {content:"\201D"; right:0; bottom:0;}
 		}
-
 	}
 }
 

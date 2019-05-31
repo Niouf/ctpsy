@@ -10,7 +10,7 @@
 
 	<section class="section-headhome">
 		{{ range where .Data.Pages "Type" "homepage" }}
-		<div class="image-home ">
+		<div class="image-home">
 			<img class='center-cropped' src="{{ $.Site.Data.paramsite.baseUrlImage }}/w_1200/{{ .Params.logo }}" alt="" />
 		</div>
 					
@@ -29,11 +29,12 @@
 		<div class="container">
 			<div class="columns">
 				{{ range where .Data.Pages "Type" "homepage" }}
-				<div class="column is-4 centered">
-					<img class='center-cropped portrait' src="{{ $.Site.Data.paramsite.baseUrlImage }}/{{ .Params.portrait }}" alt="" />
-				</div>
+
 				<div class="column is-8 content-section-home">
 					{{ .Content }}
+				</div>
+				<div class="column is-4 centered">
+					<img class='center-cropped portrait' src="{{ $.Site.Data.paramsite.baseUrlImage }}/{{ .Params.portrait }}" alt="" />
 				</div>
 				{{ end }}
 			</div>

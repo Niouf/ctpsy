@@ -11522,7 +11522,7 @@ body {
   width: 100%;
   -o-object-fit: cover;
   object-fit: cover;
-  height: 50vh;
+  height: 75vh;
 }
 
 .section-headhome .text-header {
@@ -11536,13 +11536,19 @@ body {
 }
 
 .section-headhome h1 {
+  /*
+		color:rgb(241, 241, 241);
+		*/
   color: #911010;
   font-size: 4em !important;
 }
 
 .section-headhome h2 {
+  /*
+		color:rgb(241, 241, 241);
+		*/
   font-size: 1.5em;
-  color: white;
+  color: black;
   font-weight: bold;
 }
 
@@ -11569,8 +11575,8 @@ body {
   font-size: 1.2em;
   font-weight: normal;
   background: url("../../img/logo.png") left no-repeat;
-  background-size: 45px;
-  padding-left: 55px;
+  background-size: 50px;
+  padding-left: 60px;
 }
 
 .menu-burger {
