@@ -1,5 +1,5 @@
 ---
-title: Danser pour guérir ses blessures
+title: La thérapie par le tango argentin
 title-long: Danser pour guérir ses blessures – Interview de Laurie Hawkes
 resume: Laurie Hawkes est psychologue. Elle fait partie des pionniers de la théorie
   AT en France et elle enseigne à l’Ecole d’Analyse Transactionnelle de Paris-Ile-de-France
@@ -7,7 +7,9 @@ resume: Laurie Hawkes est psychologue. Elle fait partie des pionniers de la thé
 date: 2018-12-08T17:35:48.000+00:00
 logo: "/v1558806782/communication-1991854_1280.png-730x350.jpg"
 notes: ''
-aliases : ["/interview-de-laurie-hawkes/"]
+aliases:
+- "/interview-de-laurie-hawkes/"
+
 ---
 Laurie a écrit un bon nombre de livres en psychologie et elle est plusieurs fois intervenue à la radio (RTL, Radio Notre Dame, Radio Medecinedouce). Elle exerce comme thérapeute dans son cabinet parisien du 19è arrondissement où elle reçoit des adultes en séances individuelles mais aussi en **séances de groupe.**
 
@@ -25,7 +27,7 @@ Laurie débute donc sa thérapie au début de l’été 1974. En parallèle du g
 
 ## Création d’instances européennes
 
-![Psychologue Lyon](http://ct-psy.com/wp-content/uploads/2018/12/Livre-Laurie-2.jpeg)Pendant l’été 1975, Mary Goulding organise en Suisse **le 1er Congrès européen d’AT**auquel les membres du groupe de formation de Laurie participent. Et c’est lors de cet événement qu’une partie des congressistes crée l’**European Association for Transactionnal Analysis** ([**Association européenne pour l’AT**](https://www.eatanews.org/)). L’AT se développe et Laurie devient la secrétaire de cette association pour la France. Elle n’a alors que **21 ans !**
+![Psychologue Lyon](http://ct-psy.com/wp-content/uploads/2018/12/Livre-Laurie-2.jpeg)Pendant l’été 1975, Mary Goulding organise en Suisse **le 1er Congrès européen d’AT** auquel les membres du groupe de formation de Laurie participent. Et c’est lors de cet événement qu’une partie des congressistes crée l’**European Association for Transactionnal Analysis** ([**Association européenne pour l’AT**](https://www.eatanews.org/)). L’AT se développe et Laurie devient la secrétaire de cette association pour la France. Elle n’a alors que **21 ans !**
 
 C’est également lors de ce Congrès qu’elle découvre l’existence d’une **certification en AT (CTA)**. Pour la préparer et la présenter, il faut signer un contrat de formation avec une personne déjà certifiée. Mais il n’en existe pas encore en France ! Au cours du Congrès suivant, Laurie demande donc à Raymond Hostie de passer un contrat de certification avec elle. Mais voilà, celui-ci lui demande d’obtenir d’abord une **licence en psychologie**. Il va lui falloir reprendre ses études. Laurie se lance alors dans l’aventure universitaire à Paris V et passera son CTA… « _à peine 18 ans plus tard !_ » (dixit).
 
