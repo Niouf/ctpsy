@@ -1,6 +1,6 @@
 ---
-title: A quoi jouons-nous lorsque nous entrons en relation ?
-title-long: A quoi jouons-nous lorsque nous entrons en relation ?
+title: Les jeux psychologiques
+title-long: Comment entrons-nous en relation ?
 resume: Les Jeux Psychologiques sont l’un des concepts les plus connus de l’Analyse
   Transactionnelle. Ils se déclinent en deux versions. Celle, originelle, d’Eric Berne,
   est appelée la formule J (en français, pour Jeux) et est décrite dans le livre Des
@@ -8,7 +8,8 @@ resume: Les Jeux Psychologiques sont l’un des concepts les plus connus de l’
 date: 2018-10-31T17:35:48.000+00:00
 logo: "/v1558806865/bib2.jpg"
 notes: ''
-aliases : ["/le-triangle-dramatique-stephen-b-karpman/"]
+aliases:
+- "/le-triangle-dramatique-stephen-b-karpman/"
 
 ---
 ## Les Jeux Psychologiques en Analyse Transactionnelle
@@ -27,7 +28,9 @@ _V. : J’ai peur de parler à mon propriétaire !_
 
 _Réponse d’un S. qui accepte l’invitation : Je vais parler pour vous, ce n’est pas votre faute si vous êtes timide._
 
-_Réponse d’un P. qui accepte l’invitation : Ce n’est pourtant pas bien compliqué, faites-vous violence enfin !_![Livre des Jeux et des Hommes](http://ct-psy.com/wp-content/uploads/2018/10/DJEDH-300x300.jpg)
+_Réponse d’un P. qui accepte l’invitation : Ce n’est pourtant pas bien compliqué, faites-vous violence enfin !_
+
+![Livre des Jeux et des Hommes](http://ct-psy.com/wp-content/uploads/2018/10/DJEDH-300x300.jpg)
 
 Au cours de leurs recherches durant les « sessions du mardi » à l’époque où l’AT était encore en « construction » dans le milieu des années 60, l’un des disciples de Berne, Steve Karpman, un médecin psychiatre américain, a créé le **triangle dramatique**. Cette version des Jeux Psychologiques est devenue tellement populaire qu’on en trouve une incroyable déclinaison de description sur internet. C’est également par cette approche-là que l’AT est le plus souvent abordée en France.
 
@@ -55,11 +58,13 @@ Karpman rappelle bien entendu que le Persécuteur le Sauveur et la Victime ne so
 
 ## Pourquoi le triangle qui décrit ces jeux est-il appelé dramatique ?
 
-Car il prend pour sujet les relations dysfonctionnelles qui ne se terminent pas bien. Il faut ici rappeler que les Jeux Psychologiques en AT sont une façon de structurer le temps. C’est à dire qu’il s’agit d’une façon d’**entrer en relation**avec d’autres personnes (ce qui est un besoin humain) mais d’une manière « maladroite ».
+Car il prend pour sujet les relations dysfonctionnelles qui ne se terminent pas bien. Il faut ici rappeler que les Jeux Psychologiques en AT sont une façon de structurer le temps. C’est à dire qu’il s’agit d’une façon d’**entrer en relation** avec d’autres personnes (ce qui est un besoin humain) mais d’une manière « maladroite ».
 
 Selon Karpman, les jeux ne finissent toutefois pas tous dans le drame. Ils peuvent en effet être arrêtés avant leur fin dramatique et cela signifie de le faire avant que les protagonistes n’aient eu le temps de changer de rôle dans le triangle.
 
-## Comment s’y prendre pour en sortir ?![CNV](http://ct-psy.com/wp-content/uploads/2018/10/CNV-184x300.jpeg)
+## Comment s’y prendre pour en sortir ?
+
+## ![CNV](http://ct-psy.com/wp-content/uploads/2018/10/CNV-184x300.jpeg)
 
 L’approche selon laquelle nous jouons tous les rôles en même temps devient ici la base pour un nouveau triangle vertueux : le **triangle compassionnel**. Ce triangle, selon Karpman, permet de sortir de la crise. Pour lui, cette vision des choses a le mérite de rendre les gens plus tolérants vis-à-vis des autres et d’eux-mêmes. Le principe est d’accepter que chacun dans le triangle soit **au moins 10 %** Victime, Persécuteur et Sauveur.
 

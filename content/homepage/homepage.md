@@ -7,10 +7,12 @@ title = "Catherine Tardella"
 
 +++
 ## Analyse Transactionnelle – EMDR –  thérapie conjugale
-Bienvenue sur ce site destiné à vous gitcommuniquer des informations sur mon lieu d’exercice, ma formation et mes pratiques de travail en psychothérapie. Vous y trouverez une présentation des différents outils que j’utilise, en particulier ceux de l’Analyse Transactionnelle et de l’EMDR.
+
+Bienvenue sur ce site destiné à vous communiquer des informations sur mon lieu d’exercice, ma formation et mes pratiques de travail en psychothérapie. Vous y trouverez une présentation des différents outils que j’utilise, en particulier ceux de l’Analyse Transactionnelle et de l’EMDR.
 
 ## Consultations
-Je reçois les adolescents et les adultes ainsi que les couples à mon cabinet les mardi, jeudi et vendredi sur rendez-vous de 09h00 - 19h00.
+
+Je reçois les adultes et les couples à mon cabinet les mardi, jeudi et vendredi sur rendez-vous de 09h00 - 19h00.
 
 * Séance individuelle : 50min
 * Séance de couple : 1h15

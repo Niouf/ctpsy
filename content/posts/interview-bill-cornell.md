@@ -1,9 +1,9 @@
 ---
-title: Interview de Bill Cornell
-title-long: L’Analyse Transactionnelle vue outre atlantique – Interview de Bill Cornell
+title: L'Analyse Transactionnelle aux Etats-Unis
+title-long: Interview de Bill Cornell
 resume: Une interview de Bill Cornell, un psychothérapeute américain travaillant avec
   l’Analyse Transactionnelle.
-date: 2018-07-29T17:35:48+00:00
+date: 2018-07-29T17:35:48.000+00:00
 logo: "/v1558806983/communication-1991850_1280-730x350.jpg"
 notes: ''
 aliases:
@@ -12,7 +12,7 @@ aliases:
 ---
 ## Place de l’Analyse Transactionnelle (AT) en France
 
-L’Analyse Transactionnelle (AT) reste encore trop méconnue en France. Or, cette **approche de la psychothérapie**que je trouve particulièrement intelligente et intéressante mérite à mon sens d’être plus répandue. Il me paraitrait pertinent de la rendre plus accessible (pour une présentation de l’Analyse Transactionnelle, voir la page [**l’Analyse Transactionnelle**](http://ct-psy.com/cest-quoi-analyse-transactionnelle/)). Elle pourrait par exemple être enseignée aux psychologues, ce qui signifierait l’enseigner à l’Université. Mais ce n’est pas le cas pour le moment et l’AT ne regroupe que quelques praticiens formés dans des **écoles privées**. Certaines de ces écoles sont **agrées par la FF2P** (Fédération française de psychothérapie et psychanalyse : c’est le seul organisme en France habilité à délivrer le **Certificat Européen de Psychothérapie.** Il a pour vocation de « _défendre avec rigueur un exercice spécifique, celui de la psychothérapie et rassembler les praticiens de cette discipline qu’ils soient psychiatres, psychologues, psychanalystes, psychothérapeutes ou psychopraticiens à condition que ces professionnels et que les écoles qui les forment se soumettent aux exigences que définies au niveau européen et qui visent à protéger le public_ » – lien du site à retrouver dans les Ressources ci-dessous).
+L’Analyse Transactionnelle (AT) reste encore trop méconnue en France. Pourtant, cette **approche de la psychothérapie** que je trouve particulièrement intelligente et intéressante mérite à mon sens d’être plus répandue. Il me paraîtrait pertinent de la rendre plus accessible (pour une présentation de l’Analyse Transactionnelle, voir la page [**l’Analyse Transactionnelle**](http://ct-psy.com/cest-quoi-analyse-transactionnelle/)). Elle pourrait par exemple être enseignée aux psychologues, ce qui signifierait l’enseigner à l’Université. Mais ce n’est pas le cas pour le moment et l’AT ne regroupe que quelques praticiens formés dans des **écoles privées**. Certaines de ces écoles sont **agrées par la FF2P** (Fédération française de psychothérapie et psychanalyse : c’est le seul organisme en France habilité à délivrer le **Certificat Européen de Psychothérapie.** Il a pour vocation de « _défendre avec rigueur un exercice spécifique, celui de la psychothérapie et rassembler les praticiens de cette discipline qu’ils soient psychiatres, psychologues, psychanalystes, psychothérapeutes ou psychopraticiens à condition que ces professionnels et que les écoles qui les forment se soumettent aux exigences que définies au niveau européen et qui visent à protéger le public_ » – lien du site à retrouver dans les Ressources ci-dessous).
 
 ![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/07/Bill-300x231.jpeg)
 Bill Cornell

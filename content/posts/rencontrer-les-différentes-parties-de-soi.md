@@ -1,11 +1,12 @@
 +++
+aliases = ["/limaginaire-pour-le-traitement-des-traumatismes-olivier-piefort-marin-et-luise-reddeman/"]
 date = "2019-01-28T23:00:00+00:00"
 logo = "/v1558941258/PPIT-couv.jpg"
 notes = ""
 resume = "L’imagination n’est pas destinée qu’au jeu. Elle peut aussi aider à soulager les conséquences d’événements tout à faits réels."
-title = "Rencontrer les différentes parties de soi"
+title = "Le traitement des traumatismes"
 title-long = "Rencontrer les différentes parties de soi – Présentation du livre d'Olivier Piedfort-Marin et Luise Reddeman"
-aliases = ["/limaginaire-pour-le-traitement-des-traumatismes-olivier-piefort-marin-et-luise-reddeman/"]
+
 +++
 ## Définir le traumatisme
 
