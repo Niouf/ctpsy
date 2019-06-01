@@ -1,7 +1,7 @@
 +++
 aliases = ["/category/articles/"]
 date = ""
-logo = "/v1558802445/sharon-mccutcheon-532782-unsplash.jpg"
+logo = ""
 notes = ""
 resume = ""
 title = "Publications"
