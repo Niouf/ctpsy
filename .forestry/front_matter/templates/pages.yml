@@ -28,10 +28,10 @@ fields:
   label: Notes de bas de page
 pages:
 - content/pages/mon-parcours.md
-- content/pages/le-couple.md
 - content/pages/l-emdr.md
 - content/pages/publications.md
 - content/pages/contact.md
 - content/pages/pourquoi-une-thérapie.md
 - content/pages/l-analyse-transactionnelle.md
 - content/posts/une-intelligence-du-couple-l-intelligence-érotique.md
+- content/pages/le-couple.md
