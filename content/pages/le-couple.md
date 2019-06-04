@@ -26,7 +26,7 @@ Mais ces croyances peuvent également être **négatives** (par exemple penser q
 
 Nous jouons tous des jeux psychologiques et ils sont parfois sans gravité. Les difficultés apparaissent lorsqu’ils sont trop **intenses** et/ou trop **fréquents**.
 
-Le problème est que pendant que nous « jouons », nos **besoins** de lien, de reconnaissance par l’autre, d’impact positif sur l’autre ne sont pas satisfaits de façon agréable. La frustration voire la rancœur peuvent alors s’amonceler entre les deux partenaires et bloquer la relation entre eux.
+Le problème est que pendant que nous « jouons », nos **besoins** de lien, de reconnaissance par l’autre, d’impact positif sur l’autre, de partage ne sont pas satisfaits. La frustration voire la rancœur peuvent alors s’amonceler entre les deux partenaires et bloquer la relation entre eux.
 
 ![Le psychologue et le couple](http://ct-psy.com/wp-content/uploads/2017/10/stockvault-exchanging-ideas-argument-and-debate-concept196023-300x142.jpg)
 
