@@ -18,7 +18,9 @@ La **thérapie de couple** n’est pas un travail individuel de chacun des membr
 
 Les concepts de **Jeux Psychologiques** et de **Transactions** de l’**Analyse Transactionnelle** permettent d’étudier la **communication** et la **façon d’être en lien** dans le couple et par la suite de les modifier.
 
-En effet, involontairement, nous mettons en place des **stratégies relationnelles** pour confirmer notre vision de la vie, des autres et de nous-même. Ces croyances peuvent être **positives** (par exemple : "je peux avoir confiance en les autres", "je peux être aimé(e)") mais elle peuvent également être **négatives** (par exemple penser que nous sommes « moins intelligent que l'autres », que « l'autre veut diriger ma vie », que « mon conjoint n'est pas assez reconnaissant »). Ce sont celles-ci que les [Jeux Psychologiques](https://ct-psy.com/posts/a-quoi-jouons-nous-relation/) concernent car à la fin d'un jeu, nous ressentons très fort ces jugement négatifs. Et à force de les avoir, la relation se dégrade.
+En effet, involontairement, nous mettons tous en place des **stratégies relationnelles** pour confirmer notre vision de la vie, des autres et de nous-même. Ces croyances peuvent être **positives** (par exemple : "je peux avoir confiance en les autres", "je peux être aimé(e)") et nous aident à construire un lien conjugal sécurisant et solide.  
+
+Mais ces croyances peuvent également être **négatives** (par exemple penser que nous sommes « moins intelligent que l'autres », que « l'autre veut diriger ma vie », que « mon conjoint n'est pas assez reconnaissant »). Ce sont celles-ci que les [Jeux Psychologiques](https://ct-psy.com/posts/a-quoi-jouons-nous-relation/) concernent car à la fin d'un jeu, nous ressentons très fort ces jugement négatifs. Et à force de les avoir, la relation se dégrade.
 
 ![Transactions couples](http://ct-psy.com/wp-content/uploads/2017/10/communication-1991854_1280.png-300x105.jpg)
 
