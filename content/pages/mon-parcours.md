@@ -12,7 +12,7 @@ weight = 5
 +++
 Vous trouverez ici des détails sur mon parcours de formation en psychologie et en psychothérapie ainsi que la signification des différents titres liés à ma pratique **: psychopraticien, psychologue, psychothérapeute**.
 
-Il existe d’autres « psys » qui sont les **psychiatres** (ceux qui sont médecins et ont donc une formation en médecine) et les **psychanalystes** (ceux qui ont suivi une formation dans l’une des Ecoles de psychanalyse). Vous pourrez trouver le détails de ces différents métiers à la page suivante dans la rubrique [**Quel « psy » aller voir ?**](http://ct-psy.com/accueil/la-psychotherapie-pour-qui-pour-quoi/)
+Il existe d’autres « psys » qui sont les **psychiatres** (ceux qui sont médecins et ont donc une formation en médecine) et les **psychanalystes** (ceux qui ont suivi une formation dans l’une des écoles de psychanalyse). Vous pourrez trouver le détails de ces différents métiers à la page suivante dans la rubrique [**Quel « psy » aller voir ?**](http://ct-psy.com/accueil/la-psychotherapie-pour-qui-pour-quoi/)
 
 ## Management et communication
 
@@ -24,9 +24,9 @@ Car en tant que chef de service, j’avais pour mission de gérer des équipes. 
 
 ## Analyse Transactionnelle
 
-![](http://ct-psy.com/wp-content/uploads/2017/08/pexels-photo-486841-300x200.jpeg)Pour m’aider à répondre à ces questions, en parallèle de mon travail j’ai commencé à me former en Analyse Transactionnelle à l’Ecole d’Analyse Transactionnelle de Paris ([**EAT Paris**](http://www.eat-paris.net/)) auprès principalement d’Anne Noé et de Jean Macquet désormais formateurs à AT-Psy.  
-J’ai poursuivi mon cursus d’Analyse Transactionnelle à l’[**EAT Lyon**](http://www.eat-lyon.fr/)et je l’ai finalement terminé à l’[**Institut Rhone-alpin d’Analyse Transactionnelle et approches pluridisciplinaires**](https://www.institut-rhonalpin-at.fr/formations/) auprès d’Eric Roland et d’Hélène Ghiringhelli. Plus récemment aussi, de Bill Cornell.  
-Au terme de ce cursus de 7 années, je peux exercer en tant que **psychopraticienne relationnelle**. Ce titre correspond à la dénomination des anciens psychothérapeutes qui, depuis 2012, ne peuvent plus porter ce titre s’ils ne sont pas psychologue, médecin ou agréés par l’ARS. Les psychopraticiens pratiquent pourtant la psychothérapie et y sont formés dans une méthode (l’Analyse transactionnelle pour ma part, mais il en existe bien d’autres). Laurie Hawkes qui est formatrice à l’EAT Paris explique particulièrement bien sur son site professionnel de quoi il retourne :
+![](http://ct-psy.com/wp-content/uploads/2017/08/pexels-photo-486841-300x200.jpeg)Pour m’aider à répondre à ces questions, en parallèle de mon travail j’ai commencé à me former en Analyse Transactionnelle à l’Ecole d’Analyse Transactionnelle de Paris ([**EAT Paris**](http://www.eat-paris.net/)) auprès principalement d’Anne Noé et de Jean Macquet, désormais formateurs à AT-Psy.  
+J’ai poursuivi mon cursus d’Analyse Transactionnelle à l’[**EAT Lyon **](http://www.eat-lyon.fr/)et je l’ai finalement terminé à l’[**Institut Rhone-alpin d’Analyse Transactionnelle et approches pluridisciplinaires**](https://www.institut-rhonalpin-at.fr/formations/) auprès d’Eric Roland et d’Hélène Ghiringhelli. Plus récemment aussi, de Bill Cornell.  
+Au terme de ce cursus de 7 années, j'ai pu exercer en tant que **psychopraticienne relationnelle**. Ce titre correspond à la dénomination des anciens psychothérapeutes qui, depuis 2012, ne peuvent plus porter ce titre s’ils ne sont pas psychologues, médecins ou agréés par l’ARS. Les psychopraticiens pratiquent la psychothérapie et y sont formés dans une méthode (l’Analyse transactionnelle pour ma part, mais il en existe bien d’autres). Laurie Hawkes qui est formatrice à l’EAT Paris explique particulièrement bien sur son site professionnel de quoi il retourne :
 
 « **Pour s’intituler « psychopraticien », il faut**:
 
@@ -43,11 +43,15 @@ _Quant à l’adjectif « relationnel », il signifie essentiellement que l’on
 
 L’offre universitaire en psychologie est extrêmement variée et toutes les facultés n’offrent pas le même enseignement.
 
-J’ai débuté mon parcours à l’Institut d’Etudes à Distance de l’Université Paris8 ([**IED**](https://iedparis8.net/)). J’y ai obtenu ma licence. L’orientation de cette faculté est **cognitiviste**. Cela signifie que la psychologie est abordée à partir de nos **schémas de pensée**, sa **physiologie**même parfois et qu’on établit régulièrement des **diagnostics** pour évaluer l’intelligence ou les modes de fonctionnement cérébraux.
+J’ai débuté mon parcours à l’Institut d’Etudes à Distance de l’Université Paris8 ([**IED**](https://iedparis8.net/)). J’y ai obtenu ma licence. L’orientation de cette faculté est **cognitiviste**. Cela signifie que la psychologie est abordée à partir de nos **schémas de pensée**, sa **physiologie** même parfois, et qu’on établit régulièrement des **diagnostics** pour évaluer l’intelligence ou les modes de fonctionnement cérébraux.
 
 J’ai terminé mon cursus universitaire à [**Lyon2**](http://www.univ-lyon2.fr/). L’orientation de cette faculté est **psychanalytique freudienne**, la psychologie y est donc abordée sous l’angle de l’histoire des personnes d’une façon que S. Freud souhaitait « scientifique » en prenant en compte la **dimension inconsciente** de la personnalité. Les principales autres orientations psychanalytiques enseignées dans d’autres universités sont lacaniennes (portée sur l’analyse linguistique) et jungienne (inscrite dans une perspective plus énergétique et philosophique).  
 Au terme de ce cursus, j’ai donc obtenu le diplôme de **psychologue** et le titre de **psychologue clinicienne** et de **psychothérapeute**.
 
 ## EMDR, Systémie et Communication Non-Violente
 
-Désormais, je suis également une formation certifiante en EMDR (de Francine Shapiro) via l’[**Institut Français d’EMDR**](http://www.emdr-france.org/) ainsi qu’un cycle de conférences en Systémie centrée sur la personne (donné par François Balta à [**REFLECT**](https://reflect-lyon.org/)). Dans ma pratique, j’utilise également les principes de la Communication Non-Violente (de Marshall Rosenberg) et quelques outils de Gestalt-thérapie (de Fritz Perls).
+Après l'obtention de mon diplôme, j'ai quitté la fonction publique et je me suis également formée à l'EMDR (de Francine Shapiro) via l’[**Institut Français d’EMDR**](http://www.emdr-france.org/) qui est l'une des trois institutions accréditées EMDR-Europe en France. 
+
+J'ai également suivi un cycle de conférences en Systémie centrée sur la personne (donné par François Balta à [**REFLECT**](https://reflect-lyon.org/)). 
+
+Dans ma pratique, j’utilise également les principes de la Communication Non-Violente (de Marshall Rosenberg).
