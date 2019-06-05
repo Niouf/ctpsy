@@ -17,13 +17,13 @@ EMDR signifie : eye movement desensitization and reprocessing. Cela veut dire qu
 
 ## EMDR et psychothérapie
 
-Le **mouvement des yeux** est utilisé en psychothérapie pour débloquer des circuits cérébraux de traitement de l’information qui se seraient mis en état de dysfonctionnement. Cette situation peut arriver lorsque l’on vit des événements que l’on appelle communément « traumatiques ».
+Le **mouvement des yeux** est utilisé en psychothérapie pour débloquer des circuits cérébraux de traitement de l’information mis en état de dysfonctionnement. Cette situation peut arriver lorsque l’on vit des événements que l’on appelle communément « traumatiques ».
 
 ![Psychothérapie EMDR](http://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-300x180.jpg)
 
-Dans ces moments-là, la charge émotionnelle particulièrement intense peut avoir pour conséquence de bloquer le stockage des informations dans le cerveau. Par la suite, ce dysfonctionnement a des **impacts sur nos émotions et notre façon de penser**.
+Dans ces moments-là, la charge émotionnelle particulièrement intense a parfois pour conséquence de bloquer le stockage des informations dans le cerveau. Par la suite, ce dysfonctionnement a des **impacts sur nos émotions et notre façon de penser**.
 
-La thérapie EMDR permet de faire retraiter la situation par le cerveau. Les mouvements des yeux sont proches de ceux que l’on observe naturellement pendant le **sommeil paradoxal**(lorsque l’on dort profondément) pendant lequel notre cerveau « digère » les informations et les événements que nous avons vécu.
+La thérapie EMDR permet de faire retraiter la situation par les réseaux neuronaux cérébraux. Les mouvements des yeux sont proches de ceux que l’on observe naturellement pendant le **sommeil paradoxal** (lorsque l’on dort profondément) pendant lequel notre cerveau « digère » et "trie" les informations et les événements que nous avons vécus.
 
 ## Que se passe-t-il psychologiquement ?
 
@@ -33,7 +33,7 @@ La désensibilisation et le retraitement permettent alors d’**apaiser** l’in
 
 ![Catherine Tardella EMDR](http://ct-psy.com/wp-content/uploads/2017/10/cerebro-300x214.png)
 
-Pendant une séance d’EMDR, le psychologue et le patient parlent assez peu. A partir d’un souvenir déterminé ensemble, le patient suit avec ses yeux des mouvements des doigts opérés par le thérapeute. A différents moments le psychologue posera des questions afin d’évaluer l’avancée du traitement de l’événement par le cerveau.
+A partir d’un souvenir déterminé ensemble lors de séances précédentes, le patient suit avec ses yeux des mouvements des doigts opérés par le thérapeute. A différents moments le psychologue posera des questions afin d’évaluer l’avancée du traitement de l’événement par le cerveau.
 
 Lorsque les mouvements des yeux ne sont pas possibles (problèmes visuels ou inconforts liés aux mouvements des yeux), la méthode utilise le « tapping » : il s’agit de tapotements alternatifs sur les genoux du patient.
 
