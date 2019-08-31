@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+https://ct-psy.netlify.com/* https://ct-psy.com/:splat 301!
