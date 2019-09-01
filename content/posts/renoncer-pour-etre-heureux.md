@@ -21,7 +21,7 @@ Que recouvrent finalement les renoncements que Judith Viorst nous propose d’op
 
 ## **Le deuil de la toute-puissance**
 
-![La toute-puissance en psychologie](http://ct-psy.com/wp-content/uploads/2018/09/chil-growing-300x200.jpeg)Atteindre les étoiles
+![La toute-puissance en psychologie](https://ct-psy.com/wp-content/uploads/2018/09/chil-growing-300x200.jpeg)Atteindre les étoiles
 
 Durant les premières années de notre vie, nous réalisons petit à petit notre pouvoir d’**impact sur le monde** et sur les autres. Nous prenons conscience de notre **puissance** d’action, mais aussi de résolution des problèmes par la cognition, de sensations. Nous remarquons les formidables possibilités offertes par **notre corps**(sa motricité, sa capacité de crier et de pleurer, de se faire entendre etc…) et par **nos pensées** (nous pouvons inventer, créer, résoudre).
 
@@ -37,7 +37,7 @@ Judith Viorst, parmi tous les exemples relatés, décrit comment, si l’onnne p
 
 De même, le fait de ressentir de la peur ou de la **honte face à ses désirs** (sexuels, de mort d’une personne que nous détestons, d’être au centre du monde etc…) peut être un symptôme de ce renoncement non encore réussi. La croyance en la toute-puissance peut en effet mener à des **pensées « magiques »** : si je le pense, ça va arriver. En réalité, « _les fantasmes (…) ne sont pas l’action. Reconnaitre en soi l’être primitif, n’est pas pour autant devenir cet être_ » (p. 212). Ces désirs sont en effet inoffensifs. Et surtout, ces envies et fantasmes sont on ne peut plus normaux et ne font pas de nous de mauvaises personnes car nous ne sommes pas tout-bon ou tout-mauvais. Nous sommes les deux en même temps. Et Judith Viorst va jusqu’à préciser que « _peut-être nous a-t-on appris que l’amour c’était de ne jamais souhaiter planter des clous dans les yeux de notre véritable amour._ _Eh bien, c’est un mensonge_ » (p. 89). Nous sommes en effet tous habités de sentiments **ambivalents**.
 
-![Parent parfait en psychologie](http://ct-psy.com/wp-content/uploads/2018/09/parents-parfaits-300x179.jpeg)Parents imparfaitements parfait ?
+![Parent parfait en psychologie](https://ct-psy.com/wp-content/uploads/2018/09/parents-parfaits-300x179.jpeg)Parents imparfaitements parfait ?
 
 De la même façon, renoncer à la toute-puissance signifie renoncer à être un **parent parfait** et accepter ce qui vient restreindre notre pouvoir parental (rythme du bébé, capacités d’apprentissage, école…) (p. 286). Judith Viorst écrit même qu’il nous faut « _abandonner l’espoir de réussir à bien traiter nos enfants_ » (p. 286) car « _la vie de nos enfants recèle des dangers et nous ne pourrons jamais totalement les protéger_ » (p. 291).
 
@@ -53,7 +53,7 @@ Seuls ceux qu’on appelle les « **personnalités narcissiques** » ont besoin 
 
 La psychanalyste explique que le plus souvent, nous choisissons comme partenaires des gens qui peuvent exprimer ce que nous ne sommes pas capable d’exprimer pour nous même. Elle rapporte l’exemple d’une femme ayant des **difficultés à reconnaître en elle** un côté compétitif. Cette femme s’était choisie un partenaire de vie capable d’hausser le ton, comme elle-même ne savait pas bien le faire. Dans un autre exemple, elle raconte qu’un mari qui n’avait socialement et culturellement pas pu accéder à **la possibilité d’être angoissé** avait choisi pour
 
-![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/09/Amour-ide%CC%81al-200x300.jpeg)Renoncer à l’amour idéal
+![Analyse Transactionnelle](https://ct-psy.com/wp-content/uploads/2018/09/Amour-ide%CC%81al-200x300.jpeg)Renoncer à l’amour idéal
 
 conjointe une femme facilement angoissée chez qui il pouvait susciter des manifestations d’anxiétés fortes (p. 253).
 
@@ -63,9 +63,9 @@ Dans la même optique, nous nous mettons souvent en couple avec des personnes qu
 
 Il est alors important d’avoir à l’esprit que le partenaire ne pourra jamais, même dans un couple qui fonctionne, totalement réparer nos blessures
 
-![Analyse Transactionnelle](http://ct-psy.com/wp-content/uploads/2018/09/book-Karpman.jpeg)
+![Analyse Transactionnelle](https://ct-psy.com/wp-content/uploads/2018/09/book-Karpman.jpeg)
 
-personnelles. Evidemment, il peut nous y aider. Mais il ne peut être notre « **Sauveur** » (terme d’Analyse Transactionnelle issu du triangle dramatique de Karpman). Ou bien il deviendra cette personne qui nous prend en charge dont parle de **Triangle Dramatique** en [**Analyse Transactionnelle**](http://ct-psy.com/cest-quoi-analyse-transactionnelle/), et ceci ne peut être résolutoire (une présentation du triangle dramatique : [**ici**](https://fr.wikipedia.org/wiki/Triangle_dramatique)). Il est donc important de renoncer à ces **éléments narcissiques blessés** pour un développement qui mène aux **formes adultes de l’amour** (p. 264).
+personnelles. Evidemment, il peut nous y aider. Mais il ne peut être notre « **Sauveur** » (terme d’Analyse Transactionnelle issu du triangle dramatique de Karpman). Ou bien il deviendra cette personne qui nous prend en charge dont parle de **Triangle Dramatique** en [**Analyse Transactionnelle**](https://ct-psy.com/cest-quoi-analyse-transactionnelle/), et ceci ne peut être résolutoire (une présentation du triangle dramatique : [**ici**](httpss://fr.wikipedia.org/wiki/Triangle_dramatique)). Il est donc important de renoncer à ces **éléments narcissiques blessés** pour un développement qui mène aux **formes adultes de l’amour** (p. 264).
 
 ## **Le deuil de l’amitié idéale**
 
@@ -77,7 +77,7 @@ Judith Viorst explique que de la même façon que dans le mariage il est importa
 
 ## **Le deuil de la permanence de la vie**
 
-Le livre se termine sur le **caractère éphémère de la vie**. Et pas seulement de la nôtre. Judith Viorst livre ici des éléments personnels de sa vie et détaille les difficultés auxquelles elle a du faire face lors du décès de certains de ses proches. L’émotion dont elle fait part au travers de certains de ses vécus permet de saisir combien ces renoncements nécessaires, les éléments que nous devons abandonner pour devenir adultes, font parti d’un **processus qui dure toute une vie**. Le livre n’est donc pas là pour donner des leçons, ni blâmer ou stigmatiser les personnes qui seraient aux prises avec ces renoncements et auraient des difficultés à les opérer.![la mort selon Kubler-Ross](http://ct-psy.com/wp-content/uploads/2018/09/cycle-du-deuil-300x201.jpeg)
+Le livre se termine sur le **caractère éphémère de la vie**. Et pas seulement de la nôtre. Judith Viorst livre ici des éléments personnels de sa vie et détaille les difficultés auxquelles elle a du faire face lors du décès de certains de ses proches. L’émotion dont elle fait part au travers de certains de ses vécus permet de saisir combien ces renoncements nécessaires, les éléments que nous devons abandonner pour devenir adultes, font parti d’un **processus qui dure toute une vie**. Le livre n’est donc pas là pour donner des leçons, ni blâmer ou stigmatiser les personnes qui seraient aux prises avec ces renoncements et auraient des difficultés à les opérer.![la mort selon Kubler-Ross](https://ct-psy.com/wp-content/uploads/2018/09/cycle-du-deuil-300x201.jpeg)
 
 Non, Judith Viorst nous démontre combien ces abandons se conçoivent comme une mue, allant du premier âge à la mort, et que devenir adulte n’est pas une fin en soi mais un objectif vers lequel tendre jusqu’au jour de notre mort.
 
@@ -85,10 +85,10 @@ Lors d’un partage d’expérience, Judith Viorst explique combien « _la mort 
 
 Le renoncement à la permanence concerne également les **différentes parties de notre vie**. Nous ne sommes pas les mêmes avec les années. Nous changeons, de façon volontaire parfois, et au gré des événements à d’autres moments, sans même nous en rendre compte. Celui ou celle que nous étions il y a quelques années n’est peut-être plus qui-nous-sommes aujourd’hui. Pour les praticiens de la psychanalyse, Judith Viorst précise qu’il s’agit de **faire le deuil de nos différents selfs**. Cela n’est pas toujours évident car il peut nous sembler que nous aband
 
-![Courbe du deuil](http://ct-psy.com/wp-content/uploads/2018/09/book-Kubler-ross-182x300.jpeg)
+![Courbe du deuil](https://ct-psy.com/wp-content/uploads/2018/09/book-Kubler-ross-182x300.jpeg)
 
 onnons une partie de notre **identité** en le faisant. Cela arrive parfois en vieillissant, lorsque **le corps n’a plus les mêmes capacités** qu’auparavant et qu’il faut parfois se réinventer face à cela : qui suis-je alors si je ne peux plus être cette personne dynamique qui fait beaucoup de sport ?, par exemple. De même, une femme qui souhaitait des enfants et n’aura pu en avoir peut avoir à se réinventer en tant que femme : qui suis-je si je ne suis pas cette mère que je voulais, que je pensais être ?
 
 Finalement, au bout du chemin, c’est bien à **la permanence de notre propre vie** qu’il faut pouvoir renoncer pour partir en paix. Judith Viorst aborde ici les écrits d’Elisabeth Kubler-Ross (psychiatre helvético-américaine, pionnière de l’approche des soins palliatifs pour les personnes en fin de vie, décédée en 2004) qui a décrit les étapes par lesquelles nous passerions avant de mourir. Etapes ensuite remises en cause par d’autres qui ont rejeté « _l’idée de faire franchir de force aux être humains qui vont mourir une série d’étapes jalonnant le processus mortel_ » (Edwin Shneidmann,psychologue clinicien, spécialiste des questions liées à la suicidologie et à la thanatologie, décédé en 2009). Quoiqu’il en soit de ces étapes du deuil à faire de notre vie, « _l’existence est finie. Le self qu’il aura fallu tant d’années de souffrance et d’effort pour créer va mourir » (p. 429)_.
 
-* pour acheter le livre de Judith Viorst, [**Les renoncements nécessaires**](https://www.decitre.fr/livres/les-renoncements-necessaires-9782266100854.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=catherine-tardella#ae587)
+* pour acheter le livre de Judith Viorst, [**Les renoncements nécessaires**](httpss://www.decitre.fr/livres/les-renoncements-necessaires-9782266100854.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=catherine-tardella#ae587)

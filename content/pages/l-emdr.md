@@ -19,7 +19,7 @@ EMDR signifie : eye movement desensitization and reprocessing. Cela veut dire qu
 
 Le **mouvement des yeux** est utilisé en psychothérapie pour débloquer des circuits cérébraux de traitement de l’information mis en état de dysfonctionnement. Cette situation peut arriver lorsque l’on vit des événements que l’on appelle communément « traumatiques ».
 
-![Psychothérapie EMDR](http://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-300x180.jpg)
+![Psychothérapie EMDR](https://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-300x180.jpg)
 
 Dans ces moments-là, la charge émotionnelle particulièrement intense a parfois pour conséquence de bloquer le stockage des informations dans le cerveau. Par la suite, ce dysfonctionnement a des **impacts sur nos émotions et notre façon de penser**.
 
@@ -31,7 +31,7 @@ La désensibilisation et le retraitement permettent alors d’**apaiser** l’in
 
 ## Comment se déroule une séance EMDR ?
 
-![Catherine Tardella EMDR](http://ct-psy.com/wp-content/uploads/2017/10/cerebro-300x214.png)
+![Catherine Tardella EMDR](https://ct-psy.com/wp-content/uploads/2017/10/cerebro-300x214.png)
 
 A partir d’un souvenir déterminé ensemble lors de séances précédentes, le patient suit avec ses yeux des mouvements des doigts opérés par le thérapeute. A différents moments le psychologue posera des questions afin d’évaluer l’avancée du traitement de l’événement par le cerveau.
 
@@ -41,4 +41,4 @@ Lorsque les mouvements des yeux ne sont pas possibles (problèmes visuels ou inc
 
 La thérapie EMDR est connue pour ses résultats très rapides. Cela signifie qu’il est possible de voir des changements après très peu de séances. Toutefois, en fonction de l’intensité et de l’importance des événements traumatiques à retraiter et en fonction de la stabilité émotionnelle actuelle du patient, cette durée peut être plus longue. Comme toute méthode psychothérapeutique l’EMDR s’adapte à situation particulière de chacun.
 
-**Pour en savoir plus sur cette méthode, vous pouvez me contacter via le** [**formulaire de contact**](http://ct-psy.com/contact-catherine-tardella/)**.**
+**Pour en savoir plus sur cette méthode, vous pouvez me contacter via le** [**formulaire de contact**](https://ct-psy.com/contact-catherine-tardella/)**.**

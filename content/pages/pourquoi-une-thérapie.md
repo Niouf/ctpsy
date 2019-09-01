@@ -20,7 +20,7 @@ C’est dans ces cas particuliers qu’une psychothérapie aide. En nous permett
 ## Pour quels types de problèmes ?
 
 
-![](https://res.cloudinary.com/catherinetardella/image/upload/v1558281163/2017/09/pexels-photo-355988-300x200.jpeg)
+![](httpss://res.cloudinary.com/catherinetardella/image/upload/v1558281163/2017/09/pexels-photo-355988-300x200.jpeg)
 -
 
 Non, **le psy ce n’est pas pour les « fous »**.
@@ -47,7 +47,7 @@ Les raisons de consulter sont tellement **variées** qu’il est impossible de l
 
 ## Quel « psy » aller voir ?
 
-![](http://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-277593-300x160.jpeg)
+![](https://ct-psy.com/wp-content/uploads/2017/09/pexels-photo-277593-300x160.jpeg)
 
 Il existe cinq types de psys que vous pouvez consulter en fonction de ce que vous recherchez :
 
@@ -60,7 +60,7 @@ Il existe cinq types de psys que vous pouvez consulter en fonction de ce que vou
 
 ## Combien de temps dure une thérapie ?
 
-![](http://ct-psy.com/wp-content/uploads/2017/09/hourglass-time-hours-sand-39396-copie-300x226.jpeg)
+![](https://ct-psy.com/wp-content/uploads/2017/09/hourglass-time-hours-sand-39396-copie-300x226.jpeg)
 
 La durée de la thérapie dépend d’énormément de facteurs. Du type de problème qui se pose, de son ancienneté, du besoin ou non de comprendre l’origine de ce problème, de la relation entre le psy et la personne qui le consulte, de la durée des séances, de la fréquence des séances, de l’énergie qui est consacrée à la thérapie. Et il ne s’agit là que d’exemples.
 
