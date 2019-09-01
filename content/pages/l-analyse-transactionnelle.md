@@ -25,7 +25,7 @@ Mais si vous arrivez le matin, que vous ne dites pas « Bonjour ! » à vos coll
 
 ## La communication avec les autres
 
-Le fondateur de cette approche, Eric Berne, a écrit en 1970 un livre qui s’appelle « [**Que dites-vous après avoir dit Bonjour ?**](httpss://www.amazon.fr/Que-dites-vous-apr%C3%A8s-avoir-bonjour/dp/2710703610)« . Il y décrit, via le concept du scenario de vie, comment les transactions que nous avons vécues enfant impactent celles que nous avons aujourd’hui. On y comprend comment ces transactions se génèrent et comment elles peuvent être reçues. Il détaille en effet comment elles se mettent en place, pourquoi et dans quelles circonstances.
+Le fondateur de cette approche, Eric Berne, a écrit en 1970 un livre qui s’appelle « [**Que dites-vous après avoir dit Bonjour ?**](https://www.amazon.fr/Que-dites-vous-apr%C3%A8s-avoir-bonjour/dp/2710703610)« . Il y décrit, via le concept du scenario de vie, comment les transactions que nous avons vécues enfant impactent celles que nous avons aujourd’hui. On y comprend comment ces transactions se génèrent et comment elles peuvent être reçues. Il détaille en effet comment elles se mettent en place, pourquoi et dans quelles circonstances.
 
 ![](https://ct-psy.com/wp-content/uploads/2017/08/pair-707506_960_720-300x212.jpg)
 
@@ -39,7 +39,7 @@ Nous pouvons aussi établir des **transactions internes** entre différentes par
 
 _![](https://ct-psy.com/wp-content/uploads/2017/08/pexels-photo-206511-300x200.jpeg)_
 
-L’AT est donc une méthode de **psychothérapie relationnelle.** Cela signifie qu’elle étudie les relations et les rapports humains qu’on entretient avec les autres. En ce sens, couplée à une méthode de [**Communication Non-Violente (CNV)**](httpss://fr.wikipedia.org/wiki/Communication_non-violente), elle est particulièrement adaptée aux **thérapies de couple**.
+L’AT est donc une méthode de **psychothérapie relationnelle.** Cela signifie qu’elle étudie les relations et les rapports humains qu’on entretient avec les autres. En ce sens, couplée à une méthode de [**Communication Non-Violente (CNV)**](https://fr.wikipedia.org/wiki/Communication_non-violente), elle est particulièrement adaptée aux **thérapies de couple**.
 
 Mais cela signifie aussi qu’elle étudie la relation que l’on a avec soi-même (la manière dont on se parle) car ses concepts permettent de décrypter et modifier nos **dialogues internes** et nos **croyances** sur les autres, sur nous-même et même parfois sur la vie afin de réparer des **blessures** qui peuvent être anciennes. Par conséquent, elle est aussi très pertinente en **thérapie individuelle**.
 

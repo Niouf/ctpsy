@@ -65,7 +65,7 @@ Il est alors important d’avoir à l’esprit que le partenaire ne pourra jamai
 
 ![Analyse Transactionnelle](https://ct-psy.com/wp-content/uploads/2018/09/book-Karpman.jpeg)
 
-personnelles. Evidemment, il peut nous y aider. Mais il ne peut être notre « **Sauveur** » (terme d’Analyse Transactionnelle issu du triangle dramatique de Karpman). Ou bien il deviendra cette personne qui nous prend en charge dont parle de **Triangle Dramatique** en [**Analyse Transactionnelle**](https://ct-psy.com/cest-quoi-analyse-transactionnelle/), et ceci ne peut être résolutoire (une présentation du triangle dramatique : [**ici**](httpss://fr.wikipedia.org/wiki/Triangle_dramatique)). Il est donc important de renoncer à ces **éléments narcissiques blessés** pour un développement qui mène aux **formes adultes de l’amour** (p. 264).
+personnelles. Evidemment, il peut nous y aider. Mais il ne peut être notre « **Sauveur** » (terme d’Analyse Transactionnelle issu du triangle dramatique de Karpman). Ou bien il deviendra cette personne qui nous prend en charge dont parle de **Triangle Dramatique** en [**Analyse Transactionnelle**](https://ct-psy.com/cest-quoi-analyse-transactionnelle/), et ceci ne peut être résolutoire (une présentation du triangle dramatique : [**ici**](https://fr.wikipedia.org/wiki/Triangle_dramatique)). Il est donc important de renoncer à ces **éléments narcissiques blessés** pour un développement qui mène aux **formes adultes de l’amour** (p. 264).
 
 ## **Le deuil de l’amitié idéale**
 
@@ -91,4 +91,4 @@ onnons une partie de notre **identité** en le faisant. Cela arrive parfois en v
 
 Finalement, au bout du chemin, c’est bien à **la permanence de notre propre vie** qu’il faut pouvoir renoncer pour partir en paix. Judith Viorst aborde ici les écrits d’Elisabeth Kubler-Ross (psychiatre helvético-américaine, pionnière de l’approche des soins palliatifs pour les personnes en fin de vie, décédée en 2004) qui a décrit les étapes par lesquelles nous passerions avant de mourir. Etapes ensuite remises en cause par d’autres qui ont rejeté « _l’idée de faire franchir de force aux être humains qui vont mourir une série d’étapes jalonnant le processus mortel_ » (Edwin Shneidmann,psychologue clinicien, spécialiste des questions liées à la suicidologie et à la thanatologie, décédé en 2009). Quoiqu’il en soit de ces étapes du deuil à faire de notre vie, « _l’existence est finie. Le self qu’il aura fallu tant d’années de souffrance et d’effort pour créer va mourir » (p. 429)_.
 
-* pour acheter le livre de Judith Viorst, [**Les renoncements nécessaires**](httpss://www.decitre.fr/livres/les-renoncements-necessaires-9782266100854.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=catherine-tardella#ae587)
+* pour acheter le livre de Judith Viorst, [**Les renoncements nécessaires**](https://www.decitre.fr/livres/les-renoncements-necessaires-9782266100854.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=catherine-tardella#ae587)

@@ -100,4 +100,4 @@ Et la question à se poser lors d’échanges conflictuels sera finalement : _qu
 
 Pas toujours très accessible selon moi, ce livre de Karpman pourra toutefois se révéler intéressant pour les personnes pratiquants déjà l’AT. Il fait en effet le pont entre tous les concepts développés dans les **cours 101 et 202** et cela permet d’apprécier la largeur du champs d’application de l’approche. Il permet également l’utilisation du **triangle compassionnel** moins souvent enseigné et qui donne des clés de **résolution des conflits** relationnels complémentaires de la CNV.
 
-Vous pouvez trouver le livre de Karpman [**ici**](httpss://www.decitre.fr/livres/le-triangle-dramatique-9782729615109.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=catherine-tardella#ae587).
+Vous pouvez trouver le livre de Karpman [**ici**](https://www.decitre.fr/livres/le-triangle-dramatique-9782729615109.html?utm_source=affilae&utm_medium=affiliation&utm_campaign=catherine-tardella#ae587).

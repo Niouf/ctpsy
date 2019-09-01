@@ -20,7 +20,7 @@ C’est dans ces cas particuliers qu’une psychothérapie aide. En nous permett
 ## Pour quels types de problèmes ?
 
 
-![](httpss://res.cloudinary.com/catherinetardella/image/upload/v1558281163/2017/09/pexels-photo-355988-300x200.jpeg)
+![](https://res.cloudinary.com/catherinetardella/image/upload/v1558281163/2017/09/pexels-photo-355988-300x200.jpeg)
 -
 
 Non, **le psy ce n’est pas pour les « fous »**.
