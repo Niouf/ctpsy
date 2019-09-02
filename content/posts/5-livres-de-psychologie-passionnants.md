@@ -7,7 +7,7 @@ title = "5 livres de psychologie passionnants"
 title-long = "Des livres pour comprendre la psychothérapie sans se torturer l'esprit"
 
 +++
-Ces livres ne sont peut-être pas ceux auxquels vous vous attendrez car ce ne sont pas des livres techniques. Pour au moins l'un d'entre eux, il ne s'agit même pas d'un livre explicitement orienté psychologie.
+Ces livres ne sont peut-être pas ceux auxquels vous vous attendez car ce ne sont pas des livres techniques. Pour au moins l'un d'entre eux, il ne s'agit même pas d'un livre explicitement orienté psychologie.
 
 Voyons si je peux vous communiquer mon enthousiasme à les lire...
 
