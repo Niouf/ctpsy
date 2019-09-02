@@ -79,7 +79,7 @@ Bien entendu, Noah Harari a lui aussi ses croyances, qu'il expose de façon parf
 
 > _La recherche scientifique ne peut prospérer qu'en alliance avec une idéologie ou une religion qui va décider de ce que la science ne peut décider : quelles recherches scientifiques privilégier et que faire des nouvelles découvertes. Car seule l'idéologie justifie les coûts de la recherche._
 
-J'aime cette façon de **partager sa perception des choses** qui nous met en réfkexion et surtout, j'apprécie sa manière de montrer comment nos croyances collectives se construisent. Puis de proposer des façons de faire et de penser dans certains chapitres mais aussi dans ses livres suivants (Homo Deus et XXI leçons pour le XXè siècle).
+J'aime cette façon de **partager sa perception des choses** qui nous met en réflexion et surtout, j'apprécie sa manière de montrer comment nos croyances collectives se construisent. Puis de proposer des façons de faire et de penser dans certains chapitres mais aussi dans ses livres suivants (Homo Deus et XXI leçons pour le XXè siècle).
 
 Ce livre m'a considérablement aidée à **prendre du recul** sur mes connaissances professionnelles car il m'a rappelé que ce que je crois savoir n'est jamais que le résultat d'une **construction sociale, culturelle et psychologique** d'une certaine civilisation à un moment donné de l'Histoire. Les avis, les façons de voir et de raisonner bougent avec le temps et les lieux d'exercice. Celles que j'adopte aujourd'hui sont en grande partie des **hypothèses** et des indices de travail.
 
