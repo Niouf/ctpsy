@@ -25,7 +25,7 @@ C'est fluide, relativement court (317 pages) et ça éclaire bien sur nos façon
 
 ### **Le jour où je me suis pris pour Stendhal**
 
-![](/v1567413920/Cado_wylrpc.jpg)Ce livre est particulier.  Ecrit comme un **journal de bord** qui débute par la 2è bouffée délirante de l'auteur, il est touchant, humain et jamais désespérant. Il traite de la **schizophrénie** de l'intérieur. C'est presque un roman dans lequel Philippe Cado décrit la découverte de sa maladie en parlant au "je". Il raconte comment, enseignant, s'est développée en lui l'idée qu'il était Stendhal et la façon dont il l'incarnait devant ses élèves. Idée qui ne lui paraissait ni farfelue, ni irréelle, mais plutôt tout à fait logique. C'est l'histoire de ce processus que nous dévoile l'auteur.
+![](https://res.cloudinary.com/catherinetardella/w_700/v1567413920/Cado_wylrpc.jpg)Ce livre est particulier.  Ecrit comme un **journal de bord** qui débute par la 2è bouffée délirante de l'auteur, il est touchant, humain et jamais désespérant. Il traite de la **schizophrénie** de l'intérieur. C'est presque un roman dans lequel Philippe Cado décrit la découverte de sa maladie en parlant au "je". Il raconte comment, enseignant, s'est développée en lui l'idée qu'il était Stendhal et la façon dont il l'incarnait devant ses élèves. Idée qui ne lui paraissait ni farfelue, ni irréelle, mais plutôt tout à fait logique. C'est l'histoire de ce processus que nous dévoile l'auteur.
 
 Si j'aime beaucoup ce livre c'est qu'il permet une approche de la maladie psychique en dehors de toute discrimination ou rejet. On ressent l'étrangeté de la situation, sa difficulté parfois tout en même temps que sa normalité car on ne se sent pas si différent que ça de l'auteur. C'est une écriture qui permet même de se demander : et nous, **comment aurions-nous réagi** dans ces mêmes situations ?
 
@@ -49,7 +49,7 @@ Changer notre perceptions sur notre mode de penser et nos **axiomes culturels** 
 
 ### Une vie pour être soi
 
-![](/v1567415443/Bill_snvasw.jpg)
+![](https://res.cloudinary.com/catherinetardella/w_700/v1567415443/Bill_snvasw.jpg)
 
 Ce livre est une sorte d'autobiographie du psychothérapeute américain [Bill Cornell](https://ct-psy.com/posts/interview-bill-cornell/). Il raconte ici des moments de **sa vie de psy**. Et de quelques uns de ses moments personnels qui ont une influence sur sa pratique.
 
@@ -63,7 +63,7 @@ Mais ce livre est je crois également très intéressant pour les non-profession
 
 ### Sapiens
 
-![](/v1567416424/sapiens_tdkhmp.jpg)
+![](https://res.cloudinary.com/catherinetardella/w_700/v1567416424/sapiens_tdkhmp.jpg)
 
 Vous allez peut-être me demander ce que ce livre fait là. Car a priori il ne se présente absolument pas comme un livre de psychologie. Cet ouvrage conséquent de l'historien [Noah Harari](https://www.ted.com/talks/yuval_noah_harari_what_explains_the_rise_of_humans) est pourtant un **merveilleux terreau de réflexion** et de remise en cause des croyances.
 
