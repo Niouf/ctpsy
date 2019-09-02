@@ -73,7 +73,7 @@ L'écriture est très fluide et abordable pour des **profanes**. Et lorsque je d
 
 Bien entendu, Noah Harari a lui aussi ses croyances, qu'il expose de façon parfois provoquante. 
 
-> La recherche scientifique ne peut prospérer qu'en alliance avec une idéologie ou une religion qui va décider de ce que la science ne peut décider : quelles recherches scientifiques privilégier et que faire des nouvelles découvertes. Car seule l'idéologie justifie les coûts de la recherche. 
+> _La recherche scientifique ne peut prospérer qu'en alliance avec une idéologie ou une religion qui va décider de ce que la science ne peut décider : quelles recherches scientifiques privilégier et que faire des nouvelles découvertes. Car seule l'idéologie justifie les coûts de la recherche._ 
 
 J'aime cette façon de **partager sa perception des choses** qui nous met en réfkexion et surtout, j'apprécie sa manière de montrer comment nos croyances collectives se construisent. Puis de proposer des façons de faire et de penser dans certains chapitres mais aussi dans ses livres suivants (Homo Deus et XXI leçons pour le XXè siècle).
 
