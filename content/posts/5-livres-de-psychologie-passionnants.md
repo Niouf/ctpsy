@@ -15,7 +15,7 @@ Voyons si je peux vous communiquer mon enthousiasme à les lire...
 
 ![](https://res.cloudinary.com/catherinetardella/v1567412737/Wiart_nqokv0.jpg)
 
-Ce livre traite de la **théorie de l'attachement** développée dans les années 70 par **Bowlby**. Cette théorie explique pourquoi nous avons besoin d'**être en lien** les uns avec les autres et ce que cela nous fait émotionnellement et corporellement. Elle précise également les différentes façons dont nous dosons **la proximité et la distance dans notre lien aux autres.**
+Ce livre traite de la **théorie de l'attachement** développée dans les années 70 par **Bowlby**. Cette théorie explique pourquoi nous avons besoin d'**être en lien** les uns avec les autres et ce que cela nous fait émotionnellement et corporellement. Elle précise également les différentes façons dont nous dosons **la proximité et la distance dans notre relation aux autres.**
 
 Il existe plein de choses sur le sujet car avec le développement de l'intérêt pour les sujets autour des **VEO** (violence éducatives ordinaires) et de la **parentalité bienveillante**, cette théorie est devenue plus connue. Je vous conseille d'ailleurs les très chouettes sites de [Bougribouillons](https://bougribouillons.fr/) et [Papa positive](https://papapositive.fr/) si ces thèmes de l'éducation et de la parentalité vous intéressent. [Le livre de Catherine Gueguen](https://www.decitre.fr/livres/pour-une-enfance-heureuse-9782221140925.html) est également très détaillé et éclairant.
 
