@@ -71,7 +71,7 @@ Il tente le défi de traiter de l'**évolution de l'humanité** et de la constru
 
 L'écriture est très fluide et abordable pour des **profanes**. Et lorsque je dis profanes, je ne parle pas que de psychologie. Car ce livre est truffé de domaines et concepts tous plus érudits les uns que les autres : il nous parle d'histoire, de politique, de biologie, de psychologie, de philosophie, de civilisation, de religions, de fémininsme, d'économie, d'éthique et de science. Tout cela dans un langage de **vulgarisation** que je trouve particulièrement intelligent sans jamais paraître survoler les sujets.
 
-Bien entendu, Noah Harari a lui aussi ses croyances, qu'il expose de façon parfois provoquante. 
+Bien entendu, Noah Harari a lui aussi ses croyances, qu'il expose de façon parfois très directe. 
 
 > _La recherche scientifique ne peut prospérer qu'en alliance avec une idéologie ou une religion qui va décider de ce que la science ne peut décider : quelles recherches scientifiques privilégier et que faire des nouvelles découvertes. Car seule l'idéologie justifie les coûts de la recherche._ 
 
