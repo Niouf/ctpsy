@@ -69,9 +69,9 @@ Mais ce livre est également très précieux pour les professionnels de la psych
 
 ![](https://res.cloudinary.com/catherinetardella/v1567416424/sapiens_tdkhmp.jpg)
 
-Vous allez peut-être me demander ce que ce livre fait là. Car a priori il ne se présente absolument pas comme un livre de psychologie. Cet ouvrage conséquent de l'historien [Noah Harari](https://www.ted.com/talks/yuval_noah_harari_what_explains_the_rise_of_humans) est pourtant un **merveilleux terreau de réflexion** et de remise en cause des croyances.
+Ce livre tente le défi fou de traiter de l'**évolution de l'humanité** et de la **construction des civilisations** du Big Bang à nos jours ! Et ce de manière pédagogique. C'est un pari réussi selon moi.
 
-Il tente le défi de traiter de l'**évolution de l'humanité** et de la construction des civilisations du Big Bang à nos jour ! Et ce de manière particulièrement pédagogique.
+Vous allez peut-être me demander ce que ce livre fait là. Car a priori il ne se présente absolument pas comme un livre de psychologie. Cet ouvrage conséquent de l'historien [Noah Harari](https://www.ted.com/talks/yuval_noah_harari_what_explains_the_rise_of_humans) est pourtant un **merveilleux terreau de réflexion** et de remise en cause des croyances.
 
 L'écriture est très fluide et abordable pour des **profanes**. Et lorsque je dis profanes, je ne parle pas que de psychologie. Car ce livre est truffé de domaines et concepts tous plus érudits les uns que les autres : il nous parle d'histoire, de politique, de biologie, de psychologie, de philosophie, de civilisation, de religions, de fémininsme, d'économie, d'éthique et de science. Tout cela dans un langage de **vulgarisation** que je trouve particulièrement intelligent sans jamais paraître survoler les sujets.
 
