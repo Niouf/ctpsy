@@ -37,7 +37,7 @@ Le récit nous permet une empathie particulière et des questionnements personne
 
 ### Comment on dit dans ta langue ?
 
-![](https://res.cloudinary.com/catherinetardella/v1567414548/Pury_qx50wy.jpg)Voici un manuel d'**ethnopsychiatrie**, ce domaine de la psychologie qui traite du **contexte culturel** dans l'approche de la pathologie et qui rappelle qu'on ne peut pas accompagner de la même façon une personne qui **croit** par exemple à la fin de la conscience après la mort et une personne qui **croit** au dialogue avec les morts. La vision du monde n'est effectivement pas la même dans tous les milieux culturels. Et si on ne les prend pas en compte lors du traitement en psychologie, le travail ne se fait pas.
+![](https://res.cloudinary.com/catherinetardella/v1567414548/Pury_qx50wy.jpg)Voici un manuel d'**ethnopsychiatrie**, ce domaine de la psychologie qui traite du **contexte culturel** dans l'approche de la pathologie. L'ethnopsychiatrie rappelle qu'on ne peut pas accompagner de la même façon une personne qui **croit** par exemple à la fin de la conscience après la mort et une personne qui **croit** au dialogue avec les morts. La vision du monde n'est effectivement pas la même dans tous les milieux culturels. Et si on ne les prend pas en compte lors du traitement en psychologie, le travail ne se fait pas.
 
 L'ethnopsychiatrie étudie donc l'univers de chaque patient et élabore des approches adaptées en conséquence. Elle prend en compte des éléments de **chamanismes**, de sorcellerie si besoin et de tout autre **élément culturel** présent dans la construction de la personnalité.
 
