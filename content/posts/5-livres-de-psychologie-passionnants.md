@@ -87,7 +87,7 @@ Cette vision des choses m'a orientée vers une pratique de moins en moins diagno
 
 Sans aucun doute, le meilleur livre "de psychologie" que j'ai lu ces dernières années !
 
-[A lire ici](https://www.ted.com/talks/yuval_noah_harari_what_explains_the_rise_of_humans).
+[A lire ici](https://www.decitre.fr/livres/sapiens-9782226257017.html).
 
 ### Un dernier pour la route : Thérapie existentielle
 
