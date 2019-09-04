@@ -91,13 +91,13 @@ Sans aucun doute, le meilleur livre "de psychologie" que j'ai lu ces dernières 
 
 ### Un dernier pour la route : Thérapie existentielle
 
-Si je ne vous le présente pas, c'est parce-que je ne l'ai pas encore lu. Mais je ne doute pas un instant que j'adorerais ce livre comme j'ai aimé tous les livres d'Irvin Yalom que j'ai lus.
+Si je ne vous le présente pas dans le TOP 5, c'est parce-que je ne l'ai pas encore lu. Mais je ne doute pas un instant que j'adorerais ce livre comme j'ai aimé tous les livres d'[Irvin Yalom](https://fr.wikipedia.org/wiki/Irvin_D._Yalom) que j'ai lus.
 
 Ce psy américain travaillait (il a plus de 80 ans aujourd'hui) avec une approche très humaniste qu'il expose dans ses essais et que l'on retrouve bien dans ces différents romans (Le problème Spinoza, Mensonge sur le divan, La méthode Schopenhauer par exemple).
 
-De même que Bill Cornell et Harold Searles, Yalom utilise sa **sensibilit**é et ce que certains appelleraient ses "**imperfections**" pour être un bon psy. Loin de la vision neutre du psy de la psychanalyse freudienne, ces auteurs se veulent chaleureux, touchés par leurs patients et parfois transmetteurs de leurs propres expériences émotionnelles ou de vie.
+De même que Bill Cornell et Harold Searles, Yalom utilise sa **sensibilité** et ce que certains appelleraient ses "**imperfections**" pour être un bon psy. Loin de la vision neutre du psy de la psychanalyse freudienne, ces auteurs se veulent chaleureux, touchés par leurs patients et parfois transmetteurs de leurs propres expériences émotionnelles ou de vie.
 
-Thérapie existentielle n'est cependant probablement pas le livre par lequel découvrir Irvin Yalom si l'on n'est pas professionnel de la psychothérapie. Je pourrai vous en dire plus une fois terminé. Mais si vous ne connaissez pas l'auteur, alors plongez-vous dans [Mensonges sur le divan](https://www.decitre.fr/livres/mensonges-sur-le-divan-9782253169376.html). Ce roman est un vivier fantastiques de réflexion sur le métier de psy, que l'on soit praticien ou patient.
+Thérapie existentielle n'est cependant probablement pas le livre par lequel découvrir Irvin Yalom si l'on n'est pas professionnel de la psychothérapie. Je pourrai vous en dire plus une fois terminé. Mais si vous ne connaissez pas l'auteur, alors plongez-vous dans [Mensonges sur le divan](https://www.decitre.fr/livres/mensonges-sur-le-divan-9782253169376.html). Ce roman est un vivier fantastiques de réflexions sur le métier de psy, que l'on soit praticien ou patient.
 
 J'ai présenté ici des livres que je n'ai pas encore présentés sur le blog.
 
