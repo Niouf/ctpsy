@@ -1,6 +1,6 @@
 +++
 date = "2019-09-14T22:00:00+00:00"
-logo = "/v1568539859/reco1_rlmlqm.jpg"
+logo = "https://res.cloudinary.com/catherinetardella/v1568539859/reco1_rlmlqm.jpg"
 notes = ""
 resume = "J'entends souvent des patients me parler de leur besoin ou de leur manque de reconnaissance dans telle ou telle situation. Mais de quoi manquent-ils vraiment ? "
 title = "Un besoin de reconnaissance"
@@ -34,7 +34,7 @@ Cette recherche de reconnaissance globale fonctionne parfois, et d'autres fois o
 En Analyse Transactionnelle, on utilise ce qu'on appelle **l'économie des strokes** (terme anglais qui désigne les signes de reconnaissance) pour répondre à ces questions.  
 Cette économie (la manière dont on gère les strokes) à été développée par Claude Steiner et peut se matérialiser sous la forme d'un tableau.
 
-![](https://res.cloudinary.com/catherinetardella/v1568541846/Diag_p0xfje.jpg)  
+![](https://res.cloudinary.com/catherinetardella/v1568548958/tableau_vuk8zt.jpg)  
 Ce tableau qui se trouve dans le **diagnostic AT** (une trame de diagnostic du fonctionnement de la personnalité par le prisme des concepts d'Analyse Transactionnelle) de Jean Wilmotte permet d'avoir rapidement une idée de ce qu'il se passe pour nous : est-ce que je sais **donner** des strokes positifs ? Oui, alors je coche la case. Elle se présente sur 2 niveaux, je peux donc préciser si c'est quelque-chose que je sais très bien faire ou un tout petit peu seulement.
 
 Est-ce que je sais **recevoir** des strokes négatifs ? Non, alors je ne coche pas. Etc... On peut voir petit à petit les endroits où des cases ne sont pas remplies. On a alors une meilleure idée de ce qu'on peut avoir à travailler et/ou à modifier pour se sentir mieux en se demandant : quels types j'aimerais augmenter.
