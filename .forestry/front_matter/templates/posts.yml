@@ -27,6 +27,7 @@ fields:
       format: markdown
   label: Notes de bas de page
 pages:
+- content/posts/un-besoin-de-reconnaissance.md
 - content/posts/5-livres-de-psychologie-passionnants.md
 - content/posts/rencontrer-les-différentes-parties-de-soi.md
 - content/posts/sommes-nous-coupables-des-difficultés-de-nos-enfants.md
