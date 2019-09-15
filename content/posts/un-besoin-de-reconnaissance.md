@@ -18,31 +18,31 @@ Ils tentent de briller en réussissant professionnellement ou dans des activité
 
 Ils se comparent pour pouvoir se dire qu'ils ne s'en sortent pas si mal.
 
-Bien entendu, toutes ces actions ne sont pas nécessairement conscientes. La recherche de reconnaissance peut se faire de manière presque réflexe, tant elle est ancrée dans les **besoins humains**.
+Bien entendu, toutes ces actions ne sont pas nécessairement conscientes. La recherche de reconnaissance peut se faire de manière presque réflexe tant elle est ancrée dans les **besoins humains**.
 
 ![](https://res.cloudinary.com/catherinetardella/v1568540103/reco3_gnhwsq.jpg)
 
-Et par conséquent d'ailleurs, elle ne concerne pas que les patients que je rencontre, mais bien entendu, elle me concerne également.
+Par conséquent d'ailleurs, elle ne concerne pas que les patients que je rencontre, mais bien sûr, elle me concerne également.
 
-Dans la pyramide des besoins élaborée par Maslow, on voit bien que le besoin de reconnaissance se retrouve à différent niveau.
+Dans la pyramide des besoins élaborée par Maslow, on voit bien que le besoin de reconnaissance se retrouve à différent niveau, au moins sur les trois derniers.
 
 ![](https://res.cloudinary.com/catherinetardella/v1568540767/besoins_z5ktm5.jpg)
 
 _(image :_ [_https://365-jeux-en-famille.com/education-papa-dit-oui-maman-dit-non/_](https://365-jeux-en-famille.com/education-papa-dit-oui-maman-dit-non/ "https://365-jeux-en-famille.com/education-papa-dit-oui-maman-dit-non/")_)_
 
-Dans cette recherche de reconnaissance, parfois ça fonctionne, parfois on obtiennent quelque chose mais ça ne nous satisfait pas tant que ça... A ce moment-là, il est peut-être important de se poser la question plus avant : qu'est-ce que je recherche exactement ? De **quel type de reconnaissance** est-ce que je manque précisément ?
+Cette recherche de reconnaissance globale fonctionne parfois, et d'autres fois on obtient quelque chose mais ça ne nous satisfait pas tant que ça... C'est à ce moment-là qu'il peut être intéressant de se poser la question plus avant : qu'est-ce que je recherche exactement ? De **quel type de reconnaissance** est-ce que j'ai besoin précisément dans ma vie et que je n'ai pas ? Une reconnaissance des autres ? De moi-même (estime de soi) ? Ai-je besoin de refuser des strokes négatifs (lorsque je suis critiqué(e) et que je me dévalorise avec le jugement des autres sur moi) ?
 
-En Analyse Transactionnelle, on utilise ce qu'on appelle **l'économie des strokes** (terme anglais qui désigne les signes de reconnaissance) pour affiner les choses de ce côté-là.  
-Cette économie (la manière dont on gère les strokes), qui peut se matérialiser sous la forme d'un tableau, précise les différents types de reconnaissance dont on peut avoir besoin et/ou, pas conséquent, manquer.
-
-![](https://res.cloudinary.com/catherinetardella/v1568541309/gestion-strokes_f1cgjp.jpg)
-
-_(image :_ [_http://www.relationsvraies.com/repondre-a-notre-besoin-fondamental-de-reconnaissance/_](http://www.relationsvraies.com/repondre-a-notre-besoin-fondamental-de-reconnaissance/ "http://www.relationsvraies.com/repondre-a-notre-besoin-fondamental-de-reconnaissance/")_)_
-
-Je trouve le diagramme de Claude Steiner (analyste transactionnel) moins simple à utiliser que celui que propose Jean Wilmotte dans son **Diagnostic AT** : 
+En Analyse Transactionnelle, on utilise ce qu'on appelle **l'économie des strokes** (terme anglais qui désigne les signes de reconnaissance) pour répondre à ces questions.  
+Cette économie (la manière dont on gère les strokes) à été développée par Claude Steiner et peut se matérialiser sous la forme d'un tableau. 
 
 ![](https://res.cloudinary.com/catherinetardella/v1568541846/Diag_p0xfje.jpg)  
-Avec celui-ci, il est plus simple de remplir les cases et d'avoir rapidement une idée de ce qu'il se passe pour nous.
+Le tableau qui se trouve dans le **diagnostic AT** (une trame de diagnostic du fonctionnement de la personnalité par le prisme des concepts d'Analyse Transactionnelle) de Jean Wilmotte permet d'avoir rapidement une idée de ce qu'il se passe pour nous : est-ce que je sais donner des strokes positifs ? Oui, je coche la case. Elle se présente sur 2 niveaux, je peux donc préciser si c'est quelquechose que je sais très bien faire ou un tout petit peu seulement.
+
+Est-ce que je sais en recevoir des négatifs ? Non, alors je ne coche pas. Etc... On peut voir petit à petit les endroits où des cases ne sont pas remplies. On a alors une meilleure idée de ce qu'on peut avoir à travailler et/ou à modifier pour se sentir mieux. Pour cela, on se demande quelles types on aimerait augmenter. 
+
+Steiner explique que dans la plupart des cas, nous limitons nos échanges de strokes pour confirmer nos idées anciennes d'enfant, forgées par l'éducation que nous avons reçue et les les événements que nous avons vécus. L'idée est pour lui de pouvoir réévaluer nos schémas d'échanges de strokes pour les modifier **si nous le voulons**.
+
+Une fois que nous avons identifié les cases que nous souhaitons intensifier, alors nous pouvons noter trois comportements nouveaux à adopter pour les mettre en oeuvre.
 
 J'utilise régulièrement ce tableau dans les **thérapies de couple**, car il permet de faire un état des lieux : on se rend compte des strokes qu'on a déjà (on ne peut pas ne pas avoir) et ceux qui nous manquent dans la relation. C'est parfois très révélateurs pour les partenaires qui constatent que ce qu'ils pensent donner par exemple, n'est pas du tout reçu comme ils l'imaginaient. 
 
