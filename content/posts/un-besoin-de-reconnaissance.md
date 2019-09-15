@@ -3,7 +3,7 @@ date = "2019-09-14T22:00:00+00:00"
 draft = true
 logo = "https://res.cloudinary.com/catherinetardella/v1568539859/reco1_rlmlqm.jpg"
 notes = ""
-resume = "J'entends souvent des patients me parler de leur besoin ou de leur manque de reconnaissance dans telle ou telle situation. Mais de quelle reconnaissance manquent-ils ? De quelle reconnaissance ont-ils besoin ?"
+resume = "J'entends souvent des patients me parler de leur besoin ou de leur manque de reconnaissance dans telle ou telle situation. Mais de quoi manquent-ils vraiment ? "
 title = "Un besoin de reconnaissance"
 title-long = "Quel est ce besoin que nous avons tous ?"
 
@@ -33,7 +33,7 @@ _(image :_ [_https://365-jeux-en-famille.com/education-papa-dit-oui-maman-dit-no
 Dans cette recherche de reconnaissance, parfois ça fonctionne, parfois on obtiennent quelque chose mais ça ne nous satisfait pas tant que ça... A ce moment-là, il est peut-être important de se poser la question plus avant : qu'est-ce que je recherche exactement ? De **quel type de reconnaissance** est-ce que je manque précisément ?
 
 En Analyse Transactionnelle, on utilise ce qu'on appelle **l'économie des strokes** (terme anglais qui désigne les signes de reconnaissance) pour affiner les choses de ce côté-là.  
-Cette économie, qui peut se matérialiser sous la forme d'un tableau, précise les différents types de reconnaissance dont on peut avoir besoin et/ou, pas conséquent, manquer.
+Cette économie (la manière dont on gère les strokes), qui peut se matérialiser sous la forme d'un tableau, précise les différents types de reconnaissance dont on peut avoir besoin et/ou, pas conséquent, manquer.
 
 ![](https://res.cloudinary.com/catherinetardella/v1568541309/gestion-strokes_f1cgjp.jpg)
 
