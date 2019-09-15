@@ -2,7 +2,7 @@
 date = "2019-09-14T22:00:00+00:00"
 logo = "https://res.cloudinary.com/catherinetardella/v1568539859/reco1_rlmlqm.jpg"
 notes = ""
-resume = "J'entends souvent des patients me parler de leur besoin ou de leur manque de reconnaissance dans telle ou telle situation. Mais de quoi manquent-ils vraiment ? "
+resume = "J'entends souvent des patients me parler de leur besoin ou de leur manque de reconnaissance dans telle ou telle situation. Mais de quel besoin et quel manque parlent-ils vraiment ? "
 title = "Un besoin de reconnaissance"
 title-long = "Quel est ce besoin que nous avons tous ?"
 
