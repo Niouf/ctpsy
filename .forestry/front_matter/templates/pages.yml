@@ -27,6 +27,7 @@ fields:
       format: markdown
   label: Notes de bas de page
 pages:
+- content/posts/la-question-du-diagnostic.md
 - content/pages/le-couple.md
 - content/posts/une-intelligence-du-couple-l-intelligence-érotique.md
 - content/pages/l-analyse-transactionnelle.md
