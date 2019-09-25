@@ -16,6 +16,23 @@ Thomas Noyer (psychothérapeute rogérien) a d'ailleurs fait [un très bel artic
 
 # EST-CE IMPORTANT DE FAIRE UN DIAG ?
 
+Voir les réponses instagram : ilportant pour lepatient qui sinon peut penser qu'on ne le croie pas ou qu'il ne va pas être bien pris en charge.
+
+Dire qu'on peut être pris en charge quelle que soit la souffrance, on n'est pas fou !!
+
+Ce qu'en disent les psys (par ex pour le HPi) c'est que dans l'hsitoire du patient etc... question de la preuve : ça peut être génétique oui quand c'est "héréditaire" mais ça peut aussi être transgénérationnel ou psychotrauma.
+
+mais finalement, HP-HPi est-ce une « découverte de diagnostic »? Ou seulement une reformulation d’un fonctionnement fonctionnel déjà connu? 🧐
+
+Moi je ne suis pas la pro des HPI, mais pour ce qu'en j'en observe, depuis un moment maintenant, de nombreux enfants dit "HPI", ou excités cérébralement, pensant "en arborescence", toujours à s'activer, se sentant en décalage, allant plus vite, etc...ont eu à traverser/subir des affects dépressifs, du vide, ont eu à développer un mécanisme de défense d'intellectualisation massif dans la prime enfance pour ne pas s'effondrer... Donc pour moi, ça n'a rien à faire dans les diags psychiatriques, c'est une construction identitaire parmi d'autres, qui créera (ou pas) son lot de souffrances, une étiologie psychique, de la construction du monde interne d'un sujet dans un contexte familial donné, je sais que c'est moins moderne mais ce sont mes observations... dans différents espaces de travail.
+
+Ce n’est pas un diagnostic  
+C’est un fonctionnement cognitif qui se dépiste, comme la sous douance, par le biais de tests de QI.  
+Et c’est un fonctionnement cognitif qui est à deux écarts type de la norme, 130 et plus, tout comme la sous douance est à deux écarts type de la norme, à partir de 75  
+Il faudrait une fois arrêter avec ce délire de diagnostic, c’est un dépistage et ce dépistage ne dit rien du fonctionnement intra psychique du sujet  
+Des auteurs comme Siaud-Facchin ne sont pas des références.  
+Jacques Grégoire a bien plus à dire sur le sujet dans les colloques de Mensa ou la revue ANAE
+
 # LA PARTICULARITÉ DU DIAGNOSTIC PSY
 
 Comme le diagnostic psy ne peut pas se baser sur des caractéristiques physiquement identifiables, il est moins fiable qu'un diagnostic médical. Il s'agit donc surtout d'une **évaluation** ou d'une hypothèse de travail. De plus, cette évaluation, pour les raisons d'estime de soi (liées par exemple au sentiment d’anormalité) a une portée émotionnelle forte. L'annonce d'un diagnostic est même parfois vécue comme un traumatisme. L’intérêt de les utiliser est donc très discuté.
