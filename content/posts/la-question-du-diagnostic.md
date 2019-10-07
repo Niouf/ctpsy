@@ -7,7 +7,7 @@ title = "Le diagnostic psy est-il utile ?"
 title-long = "Les divergences fréquentes de perception entre patients et professionnels"
 
 +++
-# Les difficultés liées au sujet du diagnostic psy
+# Les difficultés liées au diagnostic psy
 
 J'ai mis du temps à écrire cet article car il m'a posé pas mal de problèmes.
 
@@ -53,7 +53,7 @@ J'ai reçu d'autres réponses qui montraient aussi que pour certains patients, c
 
 Comme le diagnostic psy ne peut pas se baser sur des caractéristiques physiquement identifiables, il est moins fiable qu'un diagnostic médical. Il s'agit donc surtout d'une **évaluation** ou d'une hypothèse de travail. De plus, cette évaluation, pour les raisons d'estime de soi (liées par exemple au sentiment d’anormalité) a une portée émotionnelle forte. L'annonce d'un diagnostic est même parfois vécue comme un **traumatisme** par certains patients. C'est encore une des raisons pour lesquelles l’intérêt de l'utiliser est discutée.
 
-Mais de mon côté, je pense que le diagnostic est très utile et pas seulement pour les raisons appartenant au patient comme détaillées ci-dessus. Ce n'est pas parce-que c'est incertain que ça ne sert à rien pour le thérapeute ! En revanche, c'est à manier avec précaution. 
+Mais de mon côté, je pense que le diagnostic est très utile et pas seulement pour les raisons appartenant au patient comme détaillées ci-dessus. Ce n'est pas parce-que c'est incertain que ça ne sert à rien pour le thérapeute ! En revanche, c'est à manier avec précaution.
 
 Je vous propose un peu plus loin les diagnostics que j'utilise dans ma pratique professionnelle. Mais avant, pour s'y retrouver je vous propose un **classement des différents types de diagnostics psys** possibles. Ce classement est tout à fait personnel. Les choses ne sont pas si claires que ça dans le monde psy car _Le diagnostic est d’abord une question médicale_, [comme le disent Michel Grollier et Caroline Ducet dans leur article de 2012](https://www.cairn.info/revue-cliniques-mediterraneennes-2013-2-page-143.htm#).
 
@@ -126,10 +126,10 @@ L'interprétation est donc **subjective** (c'est à dire "non objective", elle d
 
 # Pour conclure
 
-Le diagnostic est à mon sens surtout une **base de réflexion pour le psy**, et pas forcément pour le patient. Il permet de faire des **hypothèses de travail** à évaluer avec le patient. 
+Le diagnostic est à mon sens surtout une **base de réflexion pour le psy**, et pas forcément pour le patient. Il permet de faire des **hypothèses de travail** à évaluer avec le patient.
 
-Il est en effet important de **ne pas s'enfermer dans des certitudes** ou des cases. Nous sommes experts en psychologie mais le patient est celui qui est expert de sa vie et il est le seul à pouvoir dire quand il souffre comment cela se manifeste. 
+Il est en effet important de **ne pas s'enfermer dans des certitudes** ou des cases. Nous sommes experts en psychologie mais le patient est celui qui est expert de sa vie et il est le seul à pouvoir dire quand il souffre comment cela se manifeste.
 
-Il peut avoir des symptômes qui ne rentrent pas toujours dans "les bonnes cases" des classifications par ex. A nous alors de modifier nos hypothèses en fonction de ce qu'il amène. 
+Il peut avoir des symptômes qui ne rentrent pas toujours dans "les bonnes cases" des classifications par ex. A nous alors de modifier nos hypothèses en fonction de ce qu'il amène.
 
 Le diagnostic est donc très intéressant pour le psy et parfois important pour le patient. Avant de faire faire un diagnostic psy, il me semble primordial de vérifier avec le patient ses motivations à le poser et ce que cela peut générer chez lui. En effet; prenons garde à ne pas identifier le patient à son symptôme ou à sa pathologie. Notre but premier est de travailler **avec lui** à ce qui le fait **vivre mieux**.
