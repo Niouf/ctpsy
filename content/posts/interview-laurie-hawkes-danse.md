@@ -5,7 +5,7 @@ resume: Laurie Hawkes est psychologue. Elle fait partie des pionniers de la thé
   AT en France et elle enseigne à l’Ecole d’Analyse Transactionnelle de Paris-Ile-de-France
   (EAT-Paris) qu’elle a co-fondée.
 date: 2018-12-08T17:35:48.000+00:00
-logo: "/v1558806782/communication-1991854_1280.png-730x350.jpg"
+logo: "/v1573376789/wang-zi-YosM7qHU5_k-unsplash_y0czlj.jpg"
 notes: ''
 aliases:
 - "/interview-de-laurie-hawkes/"
