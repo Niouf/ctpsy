@@ -1,5 +1,5 @@
 +++
-date = "2019-09-22T22:00:00+00:00"
+date = 2019-09-22T22:00:00Z
 logo = "/v1569223870/diag_nerabb.jpg"
 notes = ""
 resume = "En psychologie, la question du diagnostic a une résonance particulière car il n'existe pas de base organique observable. Alors, comment fait-on ? Peut-on réellement faire des diagnostics en psychologie ? Sont-il utiles ou plutôt enfermants ?"
@@ -48,6 +48,8 @@ Car une fois qu'un psy a mis un mot ou un chiffre sur notre **souffrance** et no
 La principale réponse à mes yeux est que le diagnostic est parfois **important pour le patient**. Mettre un mot sur ce qu'il vit lui permet de constater que son symptôme ou son syndrome est connu du milieu de la santé et qu'il n'est pas "bizarre". Plusieurs patients m'ont indiqué que cette simple information leur permettait de se sentir **moins perdus et paniqués** face à ce qu'ils vivaient. Ils se sentent également pris en compte et **crus**, ce qui n'est malheureusement pas toujours le cas dans leur entourage. Cela peut donc être très **apaisant** pour eux.
 
 J'ai reçu d'autres réponses qui montraient aussi que pour certains patients, connaitre le nom associé à leur vécu leur donne une **confiance** dans la prise en charge qui va en être faite. Il est parfois difficile pour un non-professionnel de la psychologie d'imaginer que des symptômes peuvent être traités sans qu'une maladie ou un pathologie ait été diagnostiquée.
+
+[Une très bonne vidéo du psychiatre Jean-Baptiste Alexanian](https://www.youtube.com/watch?v=5DZSoUBcm2U) explique combien le patient est le seul à pouvoir savoir si un diagnostic est utile ou pas.
 
 # L'utilité pour le psy
 
