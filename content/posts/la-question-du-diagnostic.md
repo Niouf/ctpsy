@@ -135,3 +135,5 @@ Il est en effet important de **ne pas s'enfermer dans des certitudes** ou des ca
 Il peut avoir des symptômes qui ne rentrent pas toujours dans "les bonnes cases" des classifications par ex. A nous alors de modifier nos hypothèses en fonction de ce qu'il amène.
 
 Le diagnostic est donc très intéressant pour le psy et parfois important pour le patient. Avant de faire faire un diagnostic psy, il me semble primordial de vérifier avec le patient ses motivations à le poser et ce que cela peut générer chez lui. En effet; prenons garde à ne pas identifier le patient à son symptôme ou à sa pathologie. Notre but premier est de travailler **avec lui** à ce qui le fait **vivre mieux**.
+
+(Edit 30 mars 2020 : le psychologue de la **chaîne Youtube PsyKoCouac** a récemment sorti [une vidéo assez technique mais néanmoins passionnante](https://www.youtube.com/watch?v=ik1ZGW-UrFY&feature=youtu.be&fbclid=IwAR2CRvVqzzghhsb_b5lbRgudI7y6KBHAvXRh9_3NJl2sjqI99vEAm8h0tPQ) sur le sujet)

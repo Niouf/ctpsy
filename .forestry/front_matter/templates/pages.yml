@@ -27,12 +27,12 @@ fields:
       format: markdown
   label: Notes de bas de page
 pages:
-- content/posts/la-question-du-diagnostic.md
-- content/pages/le-couple.md
-- content/posts/une-intelligence-du-couple-l-intelligence-érotique.md
-- content/pages/l-analyse-transactionnelle.md
-- content/pages/pourquoi-une-thérapie.md
-- content/pages/mon-parcours.md
-- content/pages/l-emdr.md
 - content/pages/contact.md
+- content/pages/l-analyse-transactionnelle.md
+- content/pages/l-emdr.md
+- content/pages/le-couple.md
+- content/pages/mon-parcours.md
+- content/pages/pourquoi-une-thérapie.md
 - content/pages/publications.md
+- content/posts/la-question-du-diagnostic.md
+- content/posts/une-intelligence-du-couple-l-intelligence-érotique.md
