@@ -1,0 +1,106 @@
+<div class="modal">
+    <div class="modal-background close-modal"></div>
+    <div class="modal-card">
+        <header class="modal-card-head">
+
+            <h2 class='title is-3'>Souhaitez-vous recevoir les emails privés de ce site ? (gratuit)</h2>
+
+            <button class="delete close-modal" aria-label="close"></button>
+        </header>
+        <section class="modal-card-body">
+            <div class="columns">
+                <div class="column is-one-quarter">
+                    <img src="/img/mail.png" alt="get email!">
+                </div>
+                <div class="column ">
+                    <h3 class='title is-5'>Toutes les semaines recevez gratuitement : </h3>
+                    <ul>
+                        <li>Mes <strong>articles, livres et vidéos coups de coeur</strong> sur la psychologie</li>
+                        <li>Mes <strong>réflexions et débats</strong> en psychologie</li>
+                        <li>Recevoir en avant première les <strong>nouveaux articles du site</strong></li>
+                        <li><strong>Réductions spéciales</strong> sur les futures formations</li>
+                    </ul>
+                </div>
+            </div>
+
+
+        </section>
+        <div class="modal-card-foot ">
+            <div class='centered'>
+                <a href='{{ $.Site.BaseURL }}/pages/mails-prives' class="button">Recevoir les emails</a>
+                <button class="button is-dark close-modal">Continuer sur le site</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+    function setCookie(name, value, days) {
+        var expires = "";
+        if (days) {
+            var date = new Date();
+            date.setTime(date.getTime() + (days * 24 * 60 * 60 * 1000));
+            expires = "; expires=" + date.toUTCString();
+        }
+        document.cookie = name + "=" + (value || "") + expires + "; path=/";
+    }
+    function getCookie(name) {
+        var nameEQ = name + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1, c.length);
+            if (c.indexOf(nameEQ) == 0) return c.substring(nameEQ.length, c.length);
+        }
+        return null;
+    }
+</script>
+
+<script>
+    let launched = false;
+
+    const cookiePopup = getCookie("popupMail");
+
+    [].forEach.call(document.querySelectorAll('.close-modal'), function (el) {
+        el.addEventListener('click', function () {
+            closeModal()
+        })
+    })
+
+    const openModal = () => {
+        setCookie("popupMail", true, 10000000000000)
+        const modal = document.querySelector('.modal');
+        const html = document.querySelector('html');
+
+        modal.classList.add('is-active');
+        html.classList.add('is-clipped');
+    }
+
+
+    const closeModal = () => {
+        const modal = document.querySelector('.modal');  // assuming you have only 1
+        const html = document.querySelector('html');
+
+        modal.classList.remove('is-active');
+        html.classList.remove('is-clipped');
+
+    }
+
+    window.addEventListener('scroll', function (event) {
+        const body = document.body,
+            html = document.documentElement;
+
+        const height = Math.max(body.scrollHeight, body.offsetHeight,
+            html.clientHeight, html.scrollHeight, html.offsetHeight);
+        console.log("cook", getCookie("popupMail"))
+        if (window.pageYOffset >= height / 3 && !launched && !cookiePopup) {
+
+            openModal()
+            launched = true
+        }
+    });
+
+
+
+
+</script>

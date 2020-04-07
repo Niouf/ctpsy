@@ -6648,7 +6648,7 @@ a.list-item {
   .modal-card {
     margin: 0 auto;
     max-height: calc(100vh - 40px);
-    width: 640px;
+    width: 800px;
   }
 }
 
@@ -11503,7 +11503,7 @@ label.panel-block:hover {
 }
 
 .footer {
-  background-color: #fafafa;
+  background-color: #1f1f1f;
   padding: 3rem 1.5rem 6rem;
 }
 
@@ -11512,6 +11512,14 @@ body {
   font-family: roboto;
   font-size: 1em;
   color: #545454;
+}
+
+.hidden {
+  display: none;
+}
+
+.modal {
+  background: rgba(0, 0, 0, 0.5);
 }
 
 .section-headhome {
@@ -11591,32 +11599,51 @@ body {
   margin-top: -1em;
 }
 
-.navbar, .is-active {
+.mailsprives #mce-responses {
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+
+.mailsprives .response a {
+  color: white !important;
+}
+
+.navbar {
   background: #383838 !important;
   color: white;
 }
 
-.navbar a, .is-active a {
+.navbar a {
   color: white !important;
 }
 
-.navbar a:hover, .is-active a:hover {
+.navbar a:hover {
   color: white;
   background-color: #414141 !important;
 }
 
-.navbar .content-fixed, .is-active .content-fixed {
+.navbar .content-fixed {
   background-color: #383838;
   text-align: center;
   width: 100%;
 }
 
-.navbar .content-fixed .fixed-links, .is-active .content-fixed .fixed-links {
+.navbar .content-fixed .fixed-links {
   margin-right: 3em;
 }
 
-.navbar .content-fixed .infos-nav-bar, .is-active .content-fixed .infos-nav-bar {
+.navbar .content-fixed .infos-nav-bar {
   padding-top: 1em;
+}
+
+.button {
+  background: #911010;
+  color: white;
+}
+
+.button:hover {
+  color: white !important;
+  background: #630b0b;
 }
 
 .menuGeneral {
@@ -11828,7 +11855,6 @@ ul li {
 
 .article .top-article .publication-titre {
   z-index: 1;
-  background-color: whitesmoke;
   padding: 1em;
   width: 100%;
 }
@@ -11931,7 +11957,7 @@ footer {
   background-color: #1f1f1f;
   background-size: 100%;
   margin-top: 3em;
-  padding-top: 5em;
+  padding-top: 7em;
   padding-bottom: 2em;
   color: #545454;
 }

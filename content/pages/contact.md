@@ -24,7 +24,7 @@ Métro A arrêt Masséna
 
 ## Horaires
 
-{{% horaires %}}
+{{< horaires >}}
 
 ## Me contacter
 

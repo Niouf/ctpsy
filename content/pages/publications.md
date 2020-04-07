@@ -10,4 +10,4 @@ title-long = "Mes publications"
 weight = 6
 
 +++
-{{% posts %}}
+{{< posts >}}

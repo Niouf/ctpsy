@@ -9,17 +9,18 @@
 	{{ partial "menu.html" .}}
 
 	<section class="section-headhome">
-		{{ range where .Data.Pages "Type" "homepage" }}
+		{{ range where .Site.RegularPages "Type" "homepage" }}
 		<div class="image-home">
-			<img class='center-cropped' src="{{ $.Site.Data.paramsite.baseUrlImage }}/w_1200/{{ .Params.logo }}" alt="" />
+			<img class='center-cropped' src="{{ $.Site.Data.paramsite.baseUrlImage }}/w_1200/{{ .Params.logo }}"
+				alt="" />
 		</div>
-					
+
 		<div class="text-header ">
 			<div class="inner-header">
-					<h1 class='title is-1'>{{ .Title }}</h1>
-					<h2 class='subtitle'>{{ .Params.longtitle}}</h2>
+				<h1 class='title is-1'>{{ .Title }}</h1>
+				<h2 class='subtitle'>{{ .Params.longtitle}}</h2>
 			</div>
-			
+
 		</div>
 		{{ end }}
 	</section>
@@ -28,47 +29,50 @@
 	<section class='section-home'>
 		<div class="container">
 			<div class="columns">
-				{{ range where .Data.Pages "Type" "homepage" }}
+				{{ range where .Site.RegularPages "Type" "homepage" }}
 
 				<div class="column is-8 content-section-home">
 					{{ .Content }}
 				</div>
 				<div class="column is-4 centered">
-					<img class='center-cropped portrait' src="{{ $.Site.Data.paramsite.baseUrlImage }}/{{ .Params.portrait }}" alt="" />
+					<img class='center-cropped portrait'
+						src="{{ $.Site.Data.paramsite.baseUrlImage }}/{{ .Params.portrait }}" alt="" />
 				</div>
 				{{ end }}
 			</div>
 		</div>
 	</section>
 
-		
 
 
-		{{ if len (where .Site.RegularPages "Type" "=" "posts") }}
-		<section class='bloc section-publication'>
-			<div class='container padding'>
-				<h2 class='title is-2'>Publications</h2>
-				<div class='columns is-multiline'>
-					{{ range first 6 (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
-						<div class='column is-one-third'>
-							<a href='{{ .RelPermalink }}'>
-								<div class='publication'>
-									<div class='publication-image'>
-										<img class='zoom lazy' src='{{ "img/placeholder.png" | absURL }}' data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_400/{{ .Params.logo }}' alt="Logo de l'article {{ .Title }}" />
-									</div>
-									
-									<div class='publication-titre'>
-											<h3 class='subtitle is-3'>{{ .Title }}</h3>
-									</div>
-								</div>
-							</a>
+
+	{{ if len (where .Site.RegularPages "Type" "=" "posts") }}
+	<section class='bloc section-publication'>
+		<div class='container padding'>
+			<h2 class='title is-2'>Publications</h2>
+			<div class='columns is-multiline'>
+				{{ range first 6 (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
+				<div class='column is-one-third'>
+					<a href='{{ .RelPermalink }}'>
+						<div class='publication'>
+							<div class='publication-image'>
+								<img class='zoom lazy' src='{{ "img/placeholder.png" | absURL }}'
+									data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_400/{{ .Params.logo }}'
+									alt="Logo de l'article {{ .Title }}" />
+							</div>
+
+							<div class='publication-titre'>
+								<h3 class='subtitle is-3'>{{ .Title }}</h3>
+							</div>
 						</div>
-					{{ end }}	
+					</a>
 				</div>
-				<div><a href='./pages/publications/' class="button">Voir toutes les publications</a></div>
+				{{ end }}
 			</div>
-		</section>
-		{{ end }}
+			<div><a href='./pages/publications/' class="button">Voir toutes les publications</a></div>
+		</div>
+	</section>
+	{{ end }}
 
 
 	{{ partial "footer.html" . }}
