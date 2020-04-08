@@ -11646,13 +11646,16 @@ body {
 
 @media screen and (max-width: 800px) {
   .modalMail .logoMail {
-    max-width: 150px;
+    max-width: 120px;
   }
   .modalMail .columnLogoMail {
     text-align: center;
   }
   .modalMail .is-3 {
     font-size: 1.5rem !important;
+  }
+  .modalMail .title {
+    margin-bottom: 0.3rem;
   }
 }
 

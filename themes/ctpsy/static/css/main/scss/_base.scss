@@ -133,11 +133,14 @@ background: rgba(0,0,0,0.5);
 .modalMail{
 	@media screen and (max-width: 800px) {
 		.logoMail{
-			max-width: 150px;
+			max-width: 120px;
 		}
 		.columnLogoMail{text-align:center;}
 		.is-3{
 			font-size:1.5rem !important;
+		}
+		.title{
+			margin-bottom:0.3rem
 		}
 	}
 	padding:1em;

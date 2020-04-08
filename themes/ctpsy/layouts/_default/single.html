@@ -6,90 +6,90 @@
 </head>
 
 <body class="has-navbar-fixed-top">
-	<section class="section"></section>
-	{{ partial "menu.html" .}}
+	<section class="section">
+		{{ partial "menu.html" .}}
 
 
-	<article>
-		<div class="container">
-			<div class='columns'>
-				<div class='column is-9 {{ if eq .Type "pages" }} is-offset-2 {{ end }} padding'>
-					<div class="content">
-						<header>
-							<h1 class='is-1 title-header-article'>
-								{{ if (not (isset .Params "longtitle")) }}
-								{{ .Title }}
-								{{else}}
-								{{ .Params.longtitle}}
-								{{end}}
-							</h1>
+		<article>
+			<div class="container">
+				<div class='columns'>
+					<div class='column is-9 {{ if eq .Type "pages" }} is-offset-2 {{ end }} padding'>
+						<div class="content">
+							<header>
+								<h1 class='is-1 title-header-article'>
+									{{ if (not (isset .Params "longtitle")) }}
+									{{ .Title }}
+									{{else}}
+									{{ .Params.longtitle}}
+									{{end}}
+								</h1>
+
+								{{ if eq .Type "posts" }}
+								<div class="infos-article">
+
+									<p>Le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}
+										{{ .Date.Year }} par {{ $.Site.Data.paramsite.author }}</p>
+
+								</div>
+								{{ end }}
+
+								{{ if .Params.resume}}
+								<p class="resume">
+									{{ .Params.resume}}
+								</p>
+								{{ end }}
+
+
+								{{ if .Params.logo }}
+								<div class="logo">
+									<img class='logo-top-page'
+										src="{{ $.Site.Data.paramsite.baseUrlImage }}/w_900/{{ .Params.logo}}"
+										alt="logo de l'article">
+								</div>
+								{{ end }}
+
+							</header>
+
+							{{ .Content }}
 
 							{{ if eq .Type "posts" }}
-							<div class="infos-article">
-
-								<p>Le {{ .Date.Day }} {{ index $.Site.Data.mois (printf "%d" .Date.Month) }}
-									{{ .Date.Year }} par {{ $.Site.Data.paramsite.author }}</p>
-
-							</div>
+							<h2 class='is-2 title'> Partager cet article <i class="fas fa-bullhorn"></i></h2>
+							<div class="addthis_inline_share_toolbox_snf6"></div>
 							{{ end }}
+						</div>
+					</div>
 
-							{{ if .Params.resume}}
-							<p class="resume">
-								{{ .Params.resume}}
-							</p>
-							{{ end }}
-
-
-							{{ if .Params.logo }}
-							<div class="logo">
-								<img class='logo-top-page'
-									src="{{ $.Site.Data.paramsite.baseUrlImage }}/w_900/{{ .Params.logo}}"
-									alt="logo de l'article">
-							</div>
-							{{ end }}
-
-						</header>
-
-						{{ .Content }}
-
+					<div class="column is-3 padding">
 						{{ if eq .Type "posts" }}
-						<h2 class='is-2 title'> Partager cet article <i class="fas fa-bullhorn"></i></h2>
-						<div class="addthis_inline_share_toolbox_snf6"></div>
+
+
+
+
+						{{ if $.Site.Data.paramsite.instagram }}
+						<div class="instagram">
+							Pour plus d'articles de psychologie, retrouvez-moi également sur <br>
+							<a target="_blank" href='{{ $.Site.Data.paramsite.instagram }}'><strong><i
+										class="fab fa-instagram"></i> Instagram</strong></a>
+						</div>
+						{{ end }}
 						{{ end }}
 					</div>
 				</div>
 
-				<div class="column is-3 padding">
-					{{ if eq .Type "posts" }}
+				{{ if eq .Type "posts" }}
+				{{ partial "mailModal.html" . }}
+				{{ end }}
 
-
-
-
-					{{ if $.Site.Data.paramsite.instagram }}
-					<div class="instagram">
-						Pour plus d'articles de psychologie, retrouvez-moi également sur <br>
-						<a target="_blank" href='{{ $.Site.Data.paramsite.instagram }}'><strong><i
-									class="fab fa-instagram"></i> Instagram</strong></a>
-					</div>
-					{{ end }}
-					{{ end }}
-				</div>
 			</div>
-
-			{{ if eq .Type "posts" }}
-			{{ partial "mailModal.html" . }}
-			{{ end }}
-
-		</div>
-	</article>
-
+		</article>
+	</section>
 	{{ partial "footer.html" . }}
 
 	{{ if eq .Type "posts" }}
 	<!-- Go to www.addthis.com/dashboard to customize your tools -->
 	<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5cebb4c99ceea834"></script>
 	{{ end }}
-	</section>
+
 </body>
 
 </html>
