@@ -77,13 +77,13 @@
 				</div>
 			</div>
 		</article>
-
+		{{ if eq .Type "posts" }}
+		{{ partial "mailModal.html" . }}
+		{{ end }}
 	</section>
 	{{ partial "footer.html" . }}
 
-	{{ if eq .Type "posts" }}
-	{{ partial "mailModal.html" . }}
-	{{ end }}
+
 
 	{{ if eq .Type "posts" }}
 	<!-- Go to www.addthis.com/dashboard to customize your tools -->
