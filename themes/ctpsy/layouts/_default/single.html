@@ -75,15 +75,15 @@
 						{{ end }}
 					</div>
 				</div>
-
-				{{ if eq .Type "posts" }}
-				{{ partial "mailModal.html" . }}
-				{{ end }}
-
 			</div>
 		</article>
+
 	</section>
 	{{ partial "footer.html" . }}
+
+	{{ if eq .Type "posts" }}
+	{{ partial "mailModal.html" . }}
+	{{ end }}
 
 	{{ if eq .Type "posts" }}
 	<!-- Go to www.addthis.com/dashboard to customize your tools -->
