@@ -48,34 +48,34 @@
 
 
 
-	<section class="section"></section>
-	{{ if len (where .Site.RegularPages "Type" "=" "posts") }}
-	<section class='bloc section-publication'>
-		<div class='container padding'>
-			<h2 class='title is-2'>Publications</h2>
-			<div class='columns is-multiline'>
-				{{ range first 6 (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
-				<div class='column is-one-third'>
-					<a href='{{ .RelPermalink }}'>
-						<div class='publication'>
-							<div class='publication-image'>
-								<img class='zoom lazy' src='{{ "img/placeholder.png" | absURL }}'
-									data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_400/{{ .Params.logo }}'
-									alt="Logo de l'article {{ .Title }}" />
-							</div>
+	<section class="section">
+		{{ if len (where .Site.RegularPages "Type" "=" "posts") }}
+		<section class='bloc section-publication'>
+			<div class='container padding'>
+				<h2 class='title is-2'>Publications</h2>
+				<div class='columns is-multiline'>
+					{{ range first 6 (where .Site.RegularPages "Type" "posts").ByDate.Reverse }}
+					<div class='column is-one-third'>
+						<a href='{{ .RelPermalink }}'>
+							<div class='publication'>
+								<div class='publication-image'>
+									<img class='zoom lazy' src='{{ "img/placeholder.png" | absURL }}'
+										data-src='{{ $.Site.Data.paramsite.baseUrlImage }}/w_400/{{ .Params.logo }}'
+										alt="Logo de l'article {{ .Title }}" />
+								</div>
 
-							<div class='publication-titre'>
-								<h3 class='subtitle is-3'>{{ .Title }}</h3>
+								<div class='publication-titre'>
+									<h3 class='subtitle is-3'>{{ .Title }}</h3>
+								</div>
 							</div>
-						</div>
-					</a>
+						</a>
+					</div>
+					{{ end }}
 				</div>
-				{{ end }}
+				<div><a href='./pages/publications/' class="button">Voir toutes les publications</a></div>
 			</div>
-			<div><a href='./pages/publications/' class="button">Voir toutes les publications</a></div>
-		</div>
-	</section>
-	{{ end }}
+		</section>
+		{{ end }}
 	</section>
 
 	{{ partial "footer.html" . }}

@@ -76,10 +76,12 @@
 					</div>
 				</div>
 			</div>
+
+			{{ if eq .Type "posts" }}
+			{{ partial "mailModal.html" . }}
+			{{ end }}
 		</article>
-		{{ if eq .Type "posts" }}
-		{{ partial "mailModal.html" . }}
-		{{ end }}
+
 	</section>
 	{{ partial "footer.html" . }}
 
