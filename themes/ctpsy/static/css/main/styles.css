@@ -11605,7 +11605,7 @@ body {
 }
 
 .mailsprives .response a {
-  color: white !important;
+  color: white;
 }
 
 .navbar {
@@ -11634,6 +11634,26 @@ body {
 
 .navbar .content-fixed .infos-nav-bar {
   padding-top: 1em;
+}
+
+.navbar .navbar-menu {
+  background: #454545 !important;
+}
+
+.modalMail {
+  padding: 1em;
+}
+
+@media screen and (max-width: 800px) {
+  .modalMail .logoMail {
+    max-width: 150px;
+  }
+  .modalMail .columnLogoMail {
+    text-align: center;
+  }
+  .modalMail .is-3 {
+    font-size: 1.5rem !important;
+  }
 }
 
 .button {

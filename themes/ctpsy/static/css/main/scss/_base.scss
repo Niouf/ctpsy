@@ -93,7 +93,7 @@ background: rgba(0,0,0,0.5);
 	}
 	.response{
 		a{
-			color:white !important;
+			color:$couleur-light;
 		}
 	}
 	
@@ -123,6 +123,24 @@ background: rgba(0,0,0,0.5);
 			padding-top:1em;
 		}
 	}
+
+	.navbar-menu{
+		background:lighten($background-header,5)  !important;
+	}
+
+}
+
+.modalMail{
+	@media screen and (max-width: 800px) {
+		.logoMail{
+			max-width: 150px;
+		}
+		.columnLogoMail{text-align:center;}
+		.is-3{
+			font-size:1.5rem !important;
+		}
+	}
+	padding:1em;
 }
 
 .button{
