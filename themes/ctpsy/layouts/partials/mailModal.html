@@ -1,4 +1,4 @@
-<div class="modal modalMail ">
+<div class="modal modalMail is-active">
     <div class="modal-background close-modal"></div>
     <div class="modal-card">
         <header class="modal-card-head">
@@ -68,7 +68,6 @@
     })
 
     const openModal = () => {
-        setCookie("popupMail", true, 10000000000000)
         const modal = document.querySelector('.modal');
         const html = document.querySelector('html');
 
@@ -83,6 +82,8 @@
 
         modal.classList.remove('is-active');
         html.classList.remove('is-clipped');
+
+        setCookie("popupMail", true, 10000000000000)
 
     }
 
