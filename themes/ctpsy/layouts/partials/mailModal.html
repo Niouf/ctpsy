@@ -9,7 +9,7 @@
         </header>
         <section class="modal-card-body">
             <div class="columns">
-                <div class="column columnLogoMail is-one-quarter">
+                <div class="column columnLogoMail is-one-quarter is-hidden-mobile">
                     <img class='logoMail' src="/img/mail.png" alt="get email!">
                 </div>
                 <div class="column ">
@@ -26,9 +26,18 @@
 
         </section>
         <div class="modal-card-foot ">
-            <div class='centered'>
-                <a href='{{ $.Site.BaseURL }}/pages/mails-prives' class="button">Recevoir les emails</a>
-                <button class="button is-dark close-modal">Continuer sur le site</button>
+            <div class='centered container'>
+                <div class="columns">
+                    <div class="column"><a href='{{ $.Site.BaseURL }}/pages/mails-prives'
+                            class="button is-medium is-fullwidth">Recevoir
+                            les
+                            emails</a></div>
+                    <div class="column"><button class="button is-dark close-modal is-medium is-fullwidth">Continuer sur
+                            le
+                            site</button></div>
+                </div>
+
+
             </div>
         </div>
     </div>

@@ -59,27 +59,20 @@
 						{{ end }}
 
 					</div>
-				</div>
-
-				<div class="column is-3 ">
-					{{ if eq .Type "posts" }}
-
-
-
-
-					{{ if $.Site.Data.paramsite.instagram }}
-					<div class="instagram">
-						Pour plus d'articles de psychologie, retrouvez-moi également sur <br>
-						<a target="_blank" href='{{ $.Site.Data.paramsite.instagram }}'><strong><i
-									class="fab fa-instagram"></i> Instagram</strong></a>
+					<div class="column is-3 ">
+						{{ if eq .Type "posts" }}
+						{{ if $.Site.Data.paramsite.instagram }}
+						<div class="instagram">
+							Pour plus d'articles de psychologie, retrouvez-moi également sur <br>
+							<a target="_blank" href='{{ $.Site.Data.paramsite.instagram }}'><strong><i
+										class="fab fa-instagram"></i>
+									Instagram</strong></a>
+						</div>
+						{{ end }}
+						{{ end }}
 					</div>
-					{{ end }}
-					{{ end }}
 				</div>
 			</div>
-			</div>
-
-
 		</article>
 
 	</section>

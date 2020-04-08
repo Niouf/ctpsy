@@ -11551,7 +11551,7 @@ body {
 
 @media screen and (max-width: 800px) {
   .section-headhome h1 {
-    font-size: 2.5em;
+    font-size: 1.7em;
   }
 }
 
@@ -11563,7 +11563,7 @@ body {
 
 @media screen and (max-width: 800px) {
   .section-headhome h2 {
-    font-size: 1.3em;
+    font-size: 1.1em;
   }
 }
 
@@ -11636,7 +11636,7 @@ body {
   padding-top: 1em;
 }
 
-.navbar .navbar-menu {
+.navbar .navbar-menu.is-active {
   background: #454545 !important;
 }
 
@@ -11756,7 +11756,7 @@ ul.reseaux-sociaux li {
 }
 
 .content .resume {
-  font-size: 1.3em;
+  font-size: 1.15em;
   font-family: muli;
   margin-bottom: 20px;
 }
@@ -11765,6 +11765,12 @@ ul.reseaux-sociaux li {
   font-family: "muli";
   color: #911010;
   font-size: 2.5em;
+}
+
+@media screen and (max-width: 800px) {
+  .content h1 {
+    font-size: 1.7em;
+  }
 }
 
 .content h2 {
