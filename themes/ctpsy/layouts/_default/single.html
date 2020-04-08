@@ -6,16 +6,16 @@
 </head>
 
 <body class="has-navbar-fixed-top">
+	{{ partial "menu.html" .}}
 	<section class="section">
-		{{ partial "menu.html" .}}
-
 
 		<article>
 			<div class="container">
 				<div class='columns'>
-					<div class='column is-9 {{ if eq .Type "pages" }} is-offset-2 {{ end }} padding'>
-						<div class="content">
-							<header>
+					<div class='column is-9 {{ if eq .Type "pages" }} is-offset-2 {{ end }} '>
+
+						<header>
+							<div class="content">
 								<h1 class='is-1 title-header-article'>
 									{{ if (not (isset .Params "longtitle")) }}
 									{{ .Title }}
@@ -47,45 +47,47 @@
 										alt="logo de l'article">
 								</div>
 								{{ end }}
+							</div>
+						</header>
 
-							</header>
-
+						<div class='content'>
 							{{ .Content }}
-
-							{{ if eq .Type "posts" }}
-							<h2 class='is-2 title'> Partager cet article <i class="fas fa-bullhorn"></i></h2>
-							<div class="addthis_inline_share_toolbox_snf6"></div>
-							{{ end }}
 						</div>
-					</div>
-
-					<div class="column is-3 padding">
 						{{ if eq .Type "posts" }}
-
-
-
-
-						{{ if $.Site.Data.paramsite.instagram }}
-						<div class="instagram">
-							Pour plus d'articles de psychologie, retrouvez-moi également sur <br>
-							<a target="_blank" href='{{ $.Site.Data.paramsite.instagram }}'><strong><i
-										class="fab fa-instagram"></i> Instagram</strong></a>
-						</div>
+						<h2 class='is-2 title'> Partager cet article <i class="fas fa-bullhorn"></i></h2>
+						<div class="addthis_inline_share_toolbox_snf6"></div>
 						{{ end }}
-						{{ end }}
+
 					</div>
 				</div>
+
+				<div class="column is-3 ">
+					{{ if eq .Type "posts" }}
+
+
+
+
+					{{ if $.Site.Data.paramsite.instagram }}
+					<div class="instagram">
+						Pour plus d'articles de psychologie, retrouvez-moi également sur <br>
+						<a target="_blank" href='{{ $.Site.Data.paramsite.instagram }}'><strong><i
+									class="fab fa-instagram"></i> Instagram</strong></a>
+					</div>
+					{{ end }}
+					{{ end }}
+				</div>
+			</div>
 			</div>
 
-			{{ if eq .Type "posts" }}
-			{{ partial "mailModal.html" . }}
-			{{ end }}
+
 		</article>
 
 	</section>
 	{{ partial "footer.html" . }}
 
-
+	{{ if eq .Type "posts" }}
+	{{ partial "mailModal.html" . }}
+	{{ end }}
 
 	{{ if eq .Type "posts" }}
 	<!-- Go to www.addthis.com/dashboard to customize your tools -->

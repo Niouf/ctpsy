@@ -7,8 +7,9 @@
 
 <body class="has-navbar-fixed-top">
 
-
-	{{ partial "menu.html" .}}
+	<section class='section'>
+		{{ partial "menu.html" .}}
+	</section>
 
 	<section class="section-headhome">
 		{{ range where .Site.RegularPages "Type" "homepage" }}
