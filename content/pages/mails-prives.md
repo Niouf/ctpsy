@@ -4,7 +4,7 @@ date = ""
 logo = "v1586268273/erica-steeves-G_lwAp0TF38-unsplash_ht0jjr.jpg"
 notes = ""
 resume = "Des emails pour mieux se connaitre et mieux vivre à travers des réflexions, des lectures et des exercices psys"
-title = "Mails privés"
+title = "Emails privés"
 longtitle= "S'abonner aux emails privés"
 [menu.main]
 weight = 8
