@@ -17,7 +17,7 @@ Elle est fausse d'abord parce-qu'il n'existera jamais en psychologie un fonction
 
 Voici donc une première bonne nouvelle, notre phrase devient : "**Certaines personnes** y arrive et pas moi, ce n'est **pas normal**".
 
-Il subsiste une affirmation fausse ici car la normalité n'existe pas en psychologie. La normalité est un **repère social**, en lien avec une **majorité**. La majorité peut-être utilisée par exemple dans un **test de QI** où l'on compare un résultat en fonction de son écart-type à un moyenne.
+Toutefois, il subsiste une affirmation fausse ici car la normalité n'existe pas en psychologie. La normalité est un **repère social**, en lien avec une **majorité**. La majorité peut-être utilisée par exemple dans un **test de QI** où l'on compare un résultat en fonction de son écart-type à un moyenne.
 
 ![](https://res.cloudinary.com/catherinetardella/v1586942448/QI_w9mp1e.jpg)
 
