@@ -2,20 +2,20 @@
 date = 2020-04-14T22:00:00Z
 logo = "/v1586957098/victor-rodriguez-pWOdBS_l9LQ-unsplash_azoiuu.jpg"
 notes = ""
-resume = "Vous est-il déjà arrivé de vouloir vous forcer pour réussir à dire \"non\", parler à quelqu'un qui vous plait, parler en public, faire sortir une araignée de chez vous, faire un compliment ou entrer sur une piste de danse ?\nSi oui, alors lisez peut-être ceci avant de le faire, car cette stratégie peut-être risquée..."
+resume = "Vous est-il déjà arrivé de vouloir vous forcer pour réussir à dire \"non\", parler à quelqu'un qui vous plait, parler en public, sortir une araignée de chez vous, faire un compliment ou entrer sur une piste de danse ?\nDe vous dire qu'il fallait vous jeter à l'eau pour changer ?\n\nSi oui, alors lisez peut-être ceci avant de le faire, car cette stratégie peut-être risquée..."
 title = "Changer sans se faire du mal"
 title-long = ""
 
 +++
 # "Les autres y arrivent et pas moi, ce n'est pas normal"
 
-C'est le type de phrase qui **justifie** souvent le fait de se forcer à faire quelque chose de difficile pour nous. Alors si, comme beaucoup d'entre nous, vous avez déjà pensé ça, alors je tiens à vous prévenir : c'est **faux** ! En disant ça, je fais quelque chose de peu orthodoxe car en psychologie, nous sommes dans une discipline d'hypothèses et pas de certitudes. Mais, j'assume : cette phrase est **doublement fausse**. Et c'est pour notre bien... Vous allez comprendre pourquoi.
+C'est le type de phrase qui **justifie** souvent le fait de se forcer à faire quelque chose de difficile pour nous. Alors si, comme beaucoup d'entre nous, vous avez déjà pensé ça, je tiens à vous prévenir : c'est **faux** ! En disant ça, je fais quelque chose de peu orthodoxe en psychologie car nous sommes dans une discipline d'hypothèses et pas de certitudes. Mais, j'assume : cette phrase est **doublement fausse**. Et c'est pour notre bien... Vous allez comprendre pourquoi.
 
 ![](https://res.cloudinary.com/catherinetardella/v1586943887/free-to-use-sounds-zXn-zUztOhU-unsplash_z6grsz.jpg)
 
-Elle est fausse d'abord parce-qu'il n'existera jamais en psychologie un fonctionnement qui soit **commun à tous**. Il existe autant de fonctionnements que de personnes et il n'y a donc pas de situations que "les autres", d'une façon générale, puissent gérer.
+Elle est fausse d'abord parce-qu'il n'existera jamais en psychologie de fonctionnement qui soit **commun à tous**. Il existe autant de fonctionnements que de personnes et il n'y a donc pas de situations que "les autres", d'une façon générale, puissent gérer.
 
-Voici donc une première bonne nouvelle, notre phrase devient : "**Certaines personnes** y arrive et pas moi, ce n'est pas normal".
+Voici donc une première bonne nouvelle, notre phrase devient : "**Certaines personnes** y arrivent et pas moi, ce n'est pas normal".
 
 Toutefois, il subsiste une affirmation fausse ici car la normalité n'existe pas en psychologie. La normalité est un **repère social**, en lien avec une **majorité**. Cette majorité peut-être utilisée par exemple dans un **test de QI** où l'on compare un résultat en fonction de son écart-type à un moyenne.
 
