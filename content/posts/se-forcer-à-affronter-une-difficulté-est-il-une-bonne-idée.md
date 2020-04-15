@@ -72,7 +72,11 @@ Au dessus de 5/10, l'émotion ressentie nous fait **sortir** de notre fenêtre d
 
 En revanche, en dessous de 5/10 d'intensité émotionnelle, le principe d'apprentissage par **habituation** s'active. Le cerveau peut donc commencer à apprendre une chose différente de ce qu'il connait. Si la nouvelle situation est suffisamment répétée, le schéma pour donc se modifier et oser dire non deviendra donc plus facile !
 
-Par conséquent, commencez par expérimenter de refuser un service à des personnes qui vous aiment et ne sont pas susceptibles, approchez une toute petite araignée sans la toucher, dansez devant votre conjoint seulement, exprimez une opinion devant seulement devant deux amis seulement, écrivez à votre voisin plutôt qu'allez lui parler etc... etc... Mais ne mettez pas la barre trop haut car elle pourrait bien n'être jamais atteinte par personne.
+Par conséquent, commencez par expérimenter de refuser un service à des personnes qui vous aiment et ne sont pas susceptibles, approchez une toute petite araignée sans la toucher, dansez devant votre conjoint seulement, exprimez une opinion devant seulement devant deux amis seulement, écrivez à votre voisin plutôt qu'allez lui parler etc... etc... Mais ne mettez pas la barre trop haut car elle pourrait bien n'être jamais atteinte par personne. Cela fonctionne mieux en gravissant les marches une par une.
+
+Dans ces conditions, ce petit pourrait monter tout en haut de ce grand escalier ! ce qui aurait été impossible s'il s'était mis en tête d'atteindre directement la dernière marche. Io aurait même pu se faire mal dans l'exercice.
+
+![](https://res.cloudinary.com/catherinetardella/v1586959469/jukan-tateisi-bJhT_8nbUA0-unsplash_vgfqks.jpg)
 
 # Pour résumer
 
