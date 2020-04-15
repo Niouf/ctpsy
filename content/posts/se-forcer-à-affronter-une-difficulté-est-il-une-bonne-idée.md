@@ -71,22 +71,22 @@ Mais pour que cela soit efficace, il faut que le cerveau se trouve dans sa [fen�
 
 Au dessus de 5/10, l'émotion ressentie nous fait **sortir** de notre fenêtre de tolérance et notre cerveau est **sensibilisé**. Il va donc **confirmer** la **honte** ou la **peur** ressentie. On comprend bien alors que pour se protéger, il ne va pas chercher à modifier ses schémas. Si l'émotion est particulièrement forte, par exemple à 9/10 ou 10/10, on a même un risque de **retraumatisation** ! Attention donc.
 
-En revanche, en dessous de 5/10 d'intensité émotionnelle, le principe d'apprentissage par **habituation** s'active. Le cerveau peut donc commencer à **apprendre une chose différente** de ce qu'il connait. Si la nouvelle situation est suffisamment **répétée**, le schéma pour donc se modifier et oser dire non deviendra donc plus facile !
+En revanche, en dessous de 5/10 d'intensité émotionnelle, le principe d'apprentissage par **habituation** s'active. Le cerveau peut donc commencer à **apprendre une chose différente** de ce qu'il connait. Si la nouvelle situation est suffisamment **répétée**, le schéma pourra donc se modifier et oser dire non deviendra donc plus facile !
 
-Par conséquent, commencez par expérimenter de refuser un service à des personnes qui vous aiment et ne sont pas susceptibles, approchez une toute petite araignée sans la toucher, dansez devant votre conjoint seulement, exprimez une opinion devant seulement deux amis, écrivez à votre voisin plutôt qu'allez lui parler etc... etc... Mais ne mettez pas la barre trop haut car elle pourrait bien n'être jamais atteinte par personne. Cela fonctionne mieux en gravissant **les marches une par une**.
+Par conséquent, commencez par expérimenter de refuser un service à **des personnes qui vous aiment** et ne sont pas susceptibles, approchez une toute petite araignée sans la toucher, dansez devant votre conjoint seulement, exprimez une opinion devant seulement deux amis, écrivez à votre voisin plutôt qu'allez lui parler etc... etc... Mais ne mettez pas la barre trop haut car elle pourrait bien n'être jamais atteinte par personne. Cela fonctionne mieux en gravissant **les marches une par une**.
 
-_Dans ces conditions, ce petit pourrait monter tout en haut de ce grand escalier ! Ce qui aurait été impossible s'il s'était mis en tête d'atteindre directement la dernière marche. Il aurait même pu se faire mal dans l'exercice._
+_Dans ces conditions, ce petit pourra monter tout en haut de ce grand escalier ! Ce qui aurait été impossible s'il s'était mis en tête d'atteindre directement la dernière marche. Il aurait même pu se faire mal dans l'exercice._
 
 ![](https://res.cloudinary.com/catherinetardella/v1586959469/jukan-tateisi-bJhT_8nbUA0-unsplash_vgfqks.jpg)
 
 # Pour résumer
 
-Finalement, pensez-y la prochaine fois que vous voudrez vous forcer à faire quelque chose qui vous fait peur ou honte : c'est possible mais sous conditions, sinon, cela ne sera pas efficace et pourra même faire mal.
+Finalement, pensez-y la prochaine fois que vous voudrez vous forcer à faire quelque chose qui vous fait **peur** ou **honte** : c'est possible mais sous conditions, sinon, cela ne sera pas efficace pour changer et pourra même **faire mal**.
 
-Les **conditions** sont les suivante :
+Les **conditions** sont les suivantes :
 
 * se souvenir qu'il est logique et normal d'avoir cette difficulté
 * trouver des situations d'exposition à expérimenter dont vous évaluez l'intensité émotionnelle à 5/10 maximum
-* répéter cette expérience régulièrement jusqu'à ce que l'émotion soit facile à supporter
+* répéter ces expériences régulièrement jusqu'à ce que l'émotion soit facile à supporter
 
 **_Alors, quel est votre prochain défi pour surmonter vos difficultés ?_**
