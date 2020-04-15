@@ -4,7 +4,7 @@ draft = true
 logo = "/v1586957098/victor-rodriguez-pWOdBS_l9LQ-unsplash_azoiuu.jpg"
 notes = ""
 resume = "Vous est-il déjà arrivé de vouloir vous forcer pour réussir à dire \"non\", parler à quelqu'un qui vous plait, parler en public, faire sortir une araignée de chez vous, faire un compliment ou d'entrer sur une piste de danse ? De vous dire qu'il suffisait de vous sauter dans le vide et que ça tout se passerait bien ?\n\nSi oui, alors lisez peut-être ceci avant de le faire, car cette stratégie peut-être risquée..."
-title = "Se forcer à affronter une difficulté est-il une bonne idée ?"
+title = "Se forcer à affronter une difficulté n'est pas forcément une bonne idée"
 title-long = ""
 
 +++
@@ -62,4 +62,12 @@ Ces schémas sont donc en totale **logique** avec notre histoire, ils sont **pro
 
 # La fenêtre de tolérance
 
-Chaque technique de thérapie a sa façon de traiter ces difficultés. Mais dans la plupart d'entre elle, nous passons par ce qu'on appelle l'[exposition](https://tcc.apprendre-la-psychologie.fr/la-technique-d-exposition.html).
+Chaque technique de **thérapie** a sa façon de traiter ces difficultés. Mais dans la plupart d'entre elle, nous passons par ce qu'on appelle l'[exposition](https://tcc.apprendre-la-psychologie.fr/la-technique-d-exposition.html). Cela signifie de se **confronter** à ce qui nous fait peur ou honte. Autrement dit, d'une certaine façon s'y forcer. Cela est possible de façon **virtuelle** (c'est en partie ce qu'on fait en [EMDR](https://ct-psy.com/pages/l-emdr/)) ou bien de façon **physique** comme c'est parfois le cas dans les [TCC](https://fr.wikipedia.org/wiki/Th%C3%A9rapie_cognitivo-comportementale).
+
+Mais pour que cela soit efficace, il faut que le cerveau se trouve dans sa [fenêtre de tolérance émotionnelle](https://nospensees.fr/notre-fenetre-de-tolerance-quest-ce-que-cest-et-comment-cela-nous-affecte-t-il/). Cela signifie que l'émotion ressentie lors de la confrontation ne doit pas être trop forte et pour l'évaluer on va estimer l'**intensité** de l'émotion de 0 à 10.
+
+Au dessus de 5/10, l'émotion ressentie nous fait sortir de notre fenêtre de tolérance et notre cerveau est sensibilisé. Il va donc confirmer la honte ou la peur ressentie. On comprend bien alors que pour se protéger, il ne va pas changer ses schémas. Si l'émotion est particulièrement forte, par exemple à 9/10 ou 10/10, on a même un risque de retraumatisation ! Attention donc.
+
+En revanche, en dessous de 5/10 d'intensité émotionnelle, le rpincipe d'apprentissage
+
+# Pour résumer
