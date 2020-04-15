@@ -25,7 +25,7 @@ C'est également ce qu'on peu utiliser pour faire des [diagnostics](https://ct-p
 
 Mais cette majorité n'a pas de rapport avec une normalité. Les personnes aux **yeux bleus**, qui sont **rousses** ou qui ont un **groupe sanguin O** font partie d'une minorité puisque ces caractéristiques sont issues de [gênes récessifs](https://www.everzen.fr/determine-complique-02988707.htm). Mais il n'est pas plus anormal d'avoir du mal à refuser, de **parler en public** ou d'**oser demander** à son voisin de baisser le son de sa musique que d'avoir les yeux bleus. Il s'agit d'une simple différence de dosage de certaines protéines sur des allèles qui ne rend personne anormal en dehors de **critères socialement définis**.
 
-Voyez comme ces yeux bleus minoritaires et normaux sont beaux !
+Voyez comme ces yeux bleus (et même verts) minoritaires et normaux sont beaux !
 
 ![](https://res.cloudinary.com/catherinetardella/v1586942344/drew-graham-cTKGZJTMJQU-unsplash_exo0pa.jpg)
 
@@ -37,15 +37,15 @@ Je ne sais pas vous mais moi, je me sens déjà plus légère avec une phrase co
 
 # Pourquoi c'est difficile ?
 
-La raison pour laquelle certaines choses sont plus difficiles pour nous que pour d'autres est **notre histoire**.
+La raison pour laquelle certaines choses sont plus difficiles pour nous que pour d'autres se trouve dans **notre histoire**.
 
 Avez-vous été **moqué** ou **grondé** lorsque vous donniez votre avis quand vous étiez plus jeune ?
 
-Des camarades ont-il **rit de vous** lorsque vous bougiez votre corps ou dansiez ?
+Des camarades ont-il **ri de vous** lorsque vous bougiez votre corps ou dansiez ?
 
 A-t-on exprimé de la **déception** ou une **critique** lorsque vous avez fait des cadeaux ?
 
-Avez-vous été **rejeté** quand vous avez **refusé** quelque chose que l'on vous demandais ?
+Avez-vous été **rejeté** quand vous avez **refusé** quelque chose que l'on vous demandait ?
 
 Vos parents avaient-ils peur des araignées et hurlaient-ils lorsqu'il y en avait chez vous de sorte que vous ayez pu apprendre par **mimétisme** à réagir par la peur à cet animal ?
 
