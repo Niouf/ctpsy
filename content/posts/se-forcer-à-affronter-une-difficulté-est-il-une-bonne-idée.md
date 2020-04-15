@@ -66,8 +66,16 @@ Chaque technique de **thérapie** a sa façon de traiter ces difficultés. Mais 
 
 Mais pour que cela soit efficace, il faut que le cerveau se trouve dans sa [fenêtre de tolérance émotionnelle](https://nospensees.fr/notre-fenetre-de-tolerance-quest-ce-que-cest-et-comment-cela-nous-affecte-t-il/). Cela signifie que l'émotion ressentie lors de la confrontation ne doit pas être trop forte et pour l'évaluer on va estimer l'**intensité** de l'émotion de 0 à 10.
 
-Au dessus de 5/10, l'émotion ressentie nous fait sortir de notre fenêtre de tolérance et notre cerveau est sensibilisé. Il va donc confirmer la honte ou la peur ressentie. On comprend bien alors que pour se protéger, il ne va pas changer ses schémas. Si l'émotion est particulièrement forte, par exemple à 9/10 ou 10/10, on a même un risque de retraumatisation ! Attention donc.
+![](https://res.cloudinary.com/catherinetardella/v1586958753/markus-spiske-pwpVGQ-A5qI-unsplash_kwcia1.jpg)
 
-En revanche, en dessous de 5/10 d'intensité émotionnelle, le rpincipe d'apprentissage
+Au dessus de 5/10, l'émotion ressentie nous fait **sortir** de notre fenêtre de tolérance et notre cerveau est **sensibilisé**. Il va donc **confirmer** la **honte** ou la **peur** ressentie. On comprend bien alors que pour se protéger, il ne va pas chercher à modifier ses schémas. Si l'émotion est particulièrement forte, par exemple à 9/10 ou 10/10, on a même un risque de **retraumatisation** ! Attention donc.
+
+En revanche, en dessous de 5/10 d'intensité émotionnelle, le principe d'apprentissage par **habituation** s'active. Le cerveau peut donc commencer à apprendre une chose différente de ce qu'il connait. Si la nouvelle situation est suffisamment répétée, le schéma pour donc se modifier et oser dire non deviendra donc plus facile !
 
 # Pour résumer
+
+Finalement, pensez-y la prochaine fois que vous voudrez vous forcer à faire quelque chose qui vous fait peur ou honte : c'est possible mais sous conditions, sinon, cela ne sera pas efficace et pourra même faire mal.
+
+Les conditions sont les suivante :
+
+* se souvenir 
