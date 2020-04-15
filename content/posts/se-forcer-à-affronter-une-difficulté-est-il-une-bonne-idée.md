@@ -63,9 +63,9 @@ Et maintenant, comment faire pour les modifier s'ils nous posent problème ?
 
 # La fenêtre de tolérance
 
-Chaque technique de **thérapie** a sa façon de traiter ces difficultés, mais dans la plupart d'entre elle, nous passons par ce qu'on appelle l'[exposition](https://tcc.apprendre-la-psychologie.fr/la-technique-d-exposition.html). Cela signifie se **confronter** à ce qui nous fait peur ou honte. Autrement dit, d'une certaine façon s'y forcer. Cela est possible de façon **virtuelle** (c'est en partie ce que l'on fait en [EMDR](https://ct-psy.com/pages/l-emdr/)) ou bien de façon **physique** comme c'est parfois le cas dans les [TCC](https://fr.wikipedia.org/wiki/Th%C3%A9rapie_cognitivo-comportementale).
+Chaque technique de **thérapie** a sa façon de traiter ces difficultés, mais dans la plupart d'entre elle, nous passons par ce qu'on appelle l'[exposition](https://tcc.apprendre-la-psychologie.fr/la-technique-d-exposition.html). Cela signifie se **confronter** à ce qui nous fait peur ou honte. Autrement dit, d'une certaine façon, s'y forcer. Cela est possible de façon **virtuelle** (c'est en partie ce que l'on fait en [EMDR](https://ct-psy.com/pages/l-emdr/)) ou bien de façon **physique** comme c'est parfois le cas dans les [TCC](https://fr.wikipedia.org/wiki/Th%C3%A9rapie_cognitivo-comportementale).
 
-Mais pour que cela soit efficace, il faut que le cerveau se trouve dans sa [fenêtre de tolérance émotionnelle](https://nospensees.fr/notre-fenetre-de-tolerance-quest-ce-que-cest-et-comment-cela-nous-affecte-t-il/). C'est à dire que l'émotion ressentie lors de la confrontation ne doit pas être trop forte. Pour l'évaluer on va donc en estimer l'**intensité** de l'émotion de 0 à 10.
+Mais pour que cela soit efficace, il faut que le cerveau se trouve dans sa [fenêtre de tolérance émotionnelle](https://nospensees.fr/notre-fenetre-de-tolerance-quest-ce-que-cest-et-comment-cela-nous-affecte-t-il/). C'est à dire que l'émotion ressentie lors de la confrontation ne doit pas être trop forte. Pour l'évaluer on va donc en estimer l'**intensité** de 0 à 10.
 
 ![](https://res.cloudinary.com/catherinetardella/v1586958753/markus-spiske-pwpVGQ-A5qI-unsplash_kwcia1.jpg)
 
