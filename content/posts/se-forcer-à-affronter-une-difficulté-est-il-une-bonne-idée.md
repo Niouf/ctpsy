@@ -12,6 +12,8 @@ title-long = ""
 
 Si, comme beaucoup d'entre nous, vous avez déjà pensé ça, alors je tiens à vous prévenir : c'est **faux** ! En disant ça, je fais quelque chose de peu orthodoxe car en psychologie, nous sommes dans une discipline d'hypothèses et pas de certitudes. Mais, j'assume : cette phrase est **doublement fausse**. Et c'est pour notre bien... Vous allez voir pourquoi.
 
+![](https://res.cloudinary.com/catherinetardella/v1586943887/free-to-use-sounds-zXn-zUztOhU-unsplash_z6grsz.jpg)
+
 Elle est fausse d'abord parce-qu'il n'existera jamais en psychologie un fonctionnement qui soit **commun à tous**. Il existe autant de fonctionnements que de personnes et il n'y a donc pas de situation que "les autres", d'une façon aussi générale puisse gérer.
 
 Voici donc une première bonne nouvelle, notre phrase devient : "Certaines personnes y arriver et pas moi, ce n'est **pas normal**".
@@ -36,20 +38,28 @@ Je ne sais pas vous mais je me sens déjà plus légère...
 
 # Pourquoi c'est difficile ?
 
-La raison pour laquelle certaines choses sont plus difficiles pour nous que pour d'autres est notre histoire. 
+La raison pour laquelle certaines choses sont plus difficiles pour nous que pour d'autres est **notre histoire**. 
 
-Avez-vous été moqué ou grondé lorsque vous donniez votre avis quand vous étiez plus jeune ?
+Avez-vous été **moqué** ou **grondé** lorsque vous donniez votre avis quand vous étiez plus jeune ?
 
-Des camarades ont-il rit lorsque vous bougiez votre corps ou dansiez ?
+Des camarades ont-il **rit de vous** lorsque vous bougiez votre corps ou dansiez ?
 
-A-t-on exprimé de la déception ou une critique lorsque vous avez fait des cadeaux ?
+A-t-on exprimé de la **déception** ou une **critique** lorsque vous avez fait des cadeaux ?
 
-Avez-vous été rejeté quand vous avez refusé quelque chose que l'on vous demandais ?
+Avez-vous été **rejeté** quand vous avez **refusé** quelque chose que l'on vous demandais ?
 
-Vos parents avaient-ils peur des araignées et hurlaient-ils lorsqu'il y en avait chez vous de sorte que vous ayez pu apprendre par mimémtisme à réagir par la peur à cet animal ?
+Vos parents avaient-ils peur des araignées et hurlaient-ils lorsqu'il y en avait chez vous de sorte que vous ayez pu apprendre par **mimétisme** à réagir par la peur à cet animal ?
 
-L'un de vos ancêtre est-il décédé des suite d'une piqûre d'animal auquel il était allergie ?
+L'un de vos **ancêtres** est-il décédé des suites d'une piqûre d'animal auquel il était allergique ?
 
-(je suis dans l'incapacité de vous poster ici une photo d'araiagnée sous peine de hurler moi-même, voici donc une image de sa toile seulement !)
+(_je suis dans l'incapacité de vous poster ici une photo d’araignée sous peine de hurler moi-même, voici donc une image de sa toile seulement !_)
+
+![](https://res.cloudinary.com/catherinetardella/v1586942547/nicolas-picard--lp8sTmF9HA-unsplash_yrgts3.jpg)
+
+Toutes ces situations qui ne constituent que quelques exemples parmi des milliers de possibilité ont généré des **déductions** de notre part. Ces déductions sont devenues des **conclusions** sur la vie et les relations humaines si elles ont été répétée et/ou suffisamment intenses émotionnellement : c'est ce que l'Analyse Transactionnelle appelle une [décision de scénario](https://www.integrativetherapy.com/fr/articles.php?id=8) (mes collègues analystes transactionnels me pardonneront probablement ce petit raccourci aux fins de pédagogie). Ces décisions se matérialisent tout simplement par des connexions de neurones dans notre cerveau et deviennent des **schémas de penser**, des **schémas émotionnels** et des **schémas de comportement** naturels.
+
+Ces schémas sont donc en totale **logique** avec notre histoire, ils sont **propres à chacun(e) d'entre nous** (puisque personne, pas même des jumeaux, n'a exactement la même histoire) et ils sont donc... **normaux** ! Mais alors, comment faire pour les modifier s'ils nous posent problème ?
 
 # La fenêtre de tolérance
+
+Chaque technique de thérapie a sa façon de traiter ces difficultés. Mais dans la plupart d'entre elle, nous passons par ce qu'on appelle l'[exposition](https://tcc.apprendre-la-psychologie.fr/la-technique-d-exposition.html).
