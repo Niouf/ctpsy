@@ -25,7 +25,7 @@ C'est également ce qu'on peu utiliser pour faire des [diagnostics](https://ct-p
 
 Mais cette majorité n'a pas de rapport avec une normalité. Les personnes aux **yeux bleus**, qui sont **rousses** ou qui ont un **groupe sanguin O** font partie d'une minorité puisque ces caractéristiques sont issues de [gênes récessifs](https://www.everzen.fr/determine-complique-02988707.htm). Mais il n'est pas plus anormal d'avoir du mal à refuser, de **parler en public** ou d'**oser demander** à son voisin de baisser le son de sa musique que d'avoir les yeux bleus. Il s'agit d'une simple différence de dosage de certaines protéines sur des allèles qui ne rend personne anormal en dehors de **critères socialement définis**.
 
-Voyez comme ces yeux bleus (et même verts) minoritaires et normaux sont beaux !
+_Voyez comme ces yeux bleus (et même verts) minoritaires et normaux sont beaux !_
 
 ![](https://res.cloudinary.com/catherinetardella/v1586942344/drew-graham-cTKGZJTMJQU-unsplash_exo0pa.jpg)
 
@@ -51,13 +51,15 @@ Vos parents avaient-ils peur des araignées et hurlaient-ils lorsqu'il y en avai
 
 L'un de vos **ancêtres** est-il décédé des suites d'une piqûre d'animal auquel il était allergique ?
 
-(_je suis dans l'incapacité de vous poster ici une photo d’araignée sous peine de hurler moi-même, voici donc une image de sa toile seulement !_)
+(_je suis dans l'impossibilité de vous poster ici une photo d’araignée sous peine de hurler moi-même, voici donc une image de sa toile seulement !_)
 
 ![](https://res.cloudinary.com/catherinetardella/v1586942547/nicolas-picard--lp8sTmF9HA-unsplash_yrgts3.jpg)
 
-Toutes ces situations qui ne constituent que quelques exemples parmi des milliers de possibilités ont généré des **déductions** de notre part. Ces déductions sont devenues des **conclusions** sur la vie et les relations humaines si elles ont été répétées et/ou suffisamment intenses émotionnellement : c'est ce que l'Analyse Transactionnelle appelle une [décision de scénario](https://www.integrativetherapy.com/fr/articles.php?id=8) (mes collègues analystes transactionnels me pardonneront probablement ce petit raccourci aux fins de pédagogie). Ces décisions se matérialisent tout simplement par des connexions de neurones dans notre cerveau et deviennent des **schémas de penser**, des **schémas émotionnels** et des **schémas de comportement** naturels.
+Toutes ces situations qui ne constituent que quelques exemples parmi des milliers de possibilités ont généré des **déductions** de notre part. Ces déductions sont devenues des **conclusions** sur la vie et les relations humaines si elles ont été répétées et/ou suffisamment intenses émotionnellement : c'est ce que l'Analyse Transactionnelle appelle une [décision de scénario](https://www.integrativetherapy.com/fr/articles.php?id=8) (mes collègues analystes transactionnels me pardonneront probablement ce petit raccourci aux fins de pédagogie). Ces décisions se matérialisent tout simplement par des connexions de neurones dans notre cerveau et deviennent des **schémas de penser**, des **schémas émotionnels** et des **schémas de comportement**.
 
-Ces schémas sont donc en totale **logique** avec notre histoire, ils sont **propres à chacun(e) d'entre nous** (puisque personne, pas même des jumeaux, n'a exactement la même histoire) et ils sont donc... **normaux** ! Mais alors, comment faire pour les modifier s'ils nous posent problème ?
+Ces schémas sont donc en totale **logique** avec notre histoire, ils sont **propres à chacun(e) d'entre nous** (puisque personne, pas même des jumeaux, n'a exactement la même histoire) et ils sont donc... **normaux** ! 
+
+Et maintenant, comment faire pour les modifier s'ils nous posent problème ?
 
 # La fenêtre de tolérance
 
