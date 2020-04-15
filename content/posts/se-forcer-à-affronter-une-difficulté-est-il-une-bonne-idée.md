@@ -2,7 +2,7 @@
 date = ""
 logo = "/v1586957098/victor-rodriguez-pWOdBS_l9LQ-unsplash_azoiuu.jpg"
 notes = ""
-resume = "Vous est-il déjà arrivé de vouloir vous forcer pour réussir à dire \"non\", parler à quelqu'un qui vous plait, parler en public, faire sortir une araignée de chez vous, faire un compliment ou d'entrer sur une piste de danse ?\nSi oui, alors lisez peut-être ceci avant de le faire, car cette stratégie peut-être risquée..."
+resume = "Vous est-il déjà arrivé de vouloir vous forcer pour réussir à dire \"non\", parler à quelqu'un qui vous plait, parler en public, faire sortir une araignée de chez vous, faire un compliment ou entrer sur une piste de danse ?\nSi oui, alors lisez peut-être ceci avant de le faire, car cette stratégie peut-être risquée..."
 title = "Changer sans se faire du mal"
 title-long = ""
 
