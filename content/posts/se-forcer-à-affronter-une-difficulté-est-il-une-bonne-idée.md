@@ -17,13 +17,13 @@ Elle est fausse d'abord parce-qu'il n'existera jamais en psychologie de fonction
 
 Voici donc une première bonne nouvelle, notre phrase devient : "**Certaines personnes** y arrivent et pas moi, ce n'est pas normal".
 
-Toutefois, il subsiste une affirmation fausse ici car la normalité n'existe pas en psychologie. La normalité est un **repère social**, en lien avec une **majorité**. Cette majorité peut-être utilisée par exemple dans un **test de QI** où l'on compare un résultat en fonction de son écart-type à un moyenne.
+Toutefois, il subsiste une affirmation fausse ici car la normalité n'existe pas en psychologie. La normalité est un **repère social**, en lien avec une **majorité**. Cette majorité peut-être utilisée par exemple dans un **test de QI** où l'on compare un résultat en fonction de son écart-type à une moyenne.
 
 ![](https://res.cloudinary.com/catherinetardella/v1586942448/QI_w9mp1e.jpg)
 
 C'est également ce qu'on peu utiliser pour faire des [diagnostics](https://ct-psy.com/posts/la-question-du-diagnostic/) en psychiatrie : les symptômes sont évalués en fonction d'une **majorité de fonctionnements** humains.
 
-Mais cette majorité n'a pas de rapport avec une normalité. Les personnes aux **yeux bleus**, qui sont **rousses** ou qui ont un **groupe sanguin O** font partie d'une minorité puisque ces caractéristiques sont issues de [gênes récessifs](https://www.everzen.fr/determine-complique-02988707.htm). Mais il n'est pas plus anormal d'avoir du mal à refuser, de **parler en public** ou d'**oser demander** à son voisin de baisser le son de sa musique que de **porter des lunettes** ou d'avoir les yeux bleus. Il s'agit d'une simple différence de dosage de certaines protéines sur les allèles qui ne rend personne anormal en dehors de **critères socialement définis**.
+Mais cette majorité n'a pas de rapport avec une normalité. Les personnes aux **yeux bleus**, qui sont **rousses** ou qui ont un **groupe sanguin O** font partie d'une minorité puisque ces caractéristiques sont issues de [gênes récessifs](https://www.everzen.fr/determine-complique-02988707.htm). Mais il n'est pas plus anormal d'avoir du mal à refuser, de **parler en public** ou d'**oser demander** à son voisin de baisser le son de sa musique que d'avoir les yeux bleus. Il s'agit d'une simple différence de dosage de certaines protéines sur des allèles qui ne rend personne anormal en dehors de **critères socialement définis**.
 
 Voyez comme ces yeux bleus minoritaires et normaux sont beaux !
 
