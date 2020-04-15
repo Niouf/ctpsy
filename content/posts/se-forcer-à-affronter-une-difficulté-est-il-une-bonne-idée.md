@@ -10,9 +10,11 @@ title-long = ""
 +++
 # "Les autres y arrivent et pas moi, ce n'est pas normal"
 
-Si, comme beaucoup d'entre nous, vous avez déjà pensé ça, alors je tiens à vous prévenir : c'est **faux** ! En disant ça, je fais quelque chose de peu orthodoxe car en psychologie, nous sommes dans une discipline d'hypothèses et pas de certitudes. Mais, allez, j'assume : cette phrase est **doublement fausse**. Et c'est pour notre bien... Vous allez voir pourquoi.
+Si, comme beaucoup d'entre nous, vous avez déjà pensé ça, alors je tiens à vous prévenir : c'est **faux** ! En disant ça, je fais quelque chose de peu orthodoxe car en psychologie, nous sommes dans une discipline d'hypothèses et pas de certitudes. Mais, j'assume : cette phrase est **doublement fausse**. Et c'est pour notre bien... Vous allez voir pourquoi.
 
-Elle est fausse d'abords parce-qu'il n'existera jamais en psychologie un fonctionnement qui soit **commun à tous**. Il existe autant de fonctionnements que de personnes
+Elle est fausse d'abord parce-qu'il n'existera jamais en psychologie un fonctionnement qui soit **commun à tous**. Il existe autant de fonctionnements que de personnes et il n'y a donc pas de situation que "les autres", d'une façon aussi générale puisse gérer.
+
+Voici donc une première bonne nouvelle, notre phrase devient : "Certaines personnes y arriver et pas moi, ce n'est pas normal".
 
 # Pourquoi c'est difficile ?
 
