@@ -72,10 +72,14 @@ Au dessus de 5/10, l'émotion ressentie nous fait **sortir** de notre fenêtre d
 
 En revanche, en dessous de 5/10 d'intensité émotionnelle, le principe d'apprentissage par **habituation** s'active. Le cerveau peut donc commencer à apprendre une chose différente de ce qu'il connait. Si la nouvelle situation est suffisamment répétée, le schéma pour donc se modifier et oser dire non deviendra donc plus facile !
 
+Par conséquent, commencez par expérimenter de refuser un service à des personnes qui vous aiment et ne sont pas susceptibles, approchez une toute petite araignée sans la toucher, dansez devant votre conjoint seulement, exprimez une opinion devant seulement devant deux amis seulement, écrivez à votre voisin plutôt qu'allez lui parler etc... etc... Mais ne mettez pas la barre trop haut car elle pourrait bien n'être jamais atteinte par personne.
+
 # Pour résumer
 
 Finalement, pensez-y la prochaine fois que vous voudrez vous forcer à faire quelque chose qui vous fait peur ou honte : c'est possible mais sous conditions, sinon, cela ne sera pas efficace et pourra même faire mal.
 
-Les conditions sont les suivante :
+Les **conditions** sont les suivante :
 
-* se souvenir 
+* se souvenir qu'il est logique et normal d'avoir cette difficulté
+* trouver des situations d'exposition à expérimenter dont vous évaluez l'intensité émotionnelle à 5/10 maximum
+* répéter cette expérience régulièrement jusqu'à ce que l'émotion soit facile à supporter
