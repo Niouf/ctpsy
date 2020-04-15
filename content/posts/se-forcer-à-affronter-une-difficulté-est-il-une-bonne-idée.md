@@ -87,3 +87,5 @@ Les **conditions** sont les suivante :
 * se souvenir qu'il est logique et normal d'avoir cette difficulté
 * trouver des situations d'exposition à expérimenter dont vous évaluez l'intensité émotionnelle à 5/10 maximum
 * répéter cette expérience régulièrement jusqu'à ce que l'émotion soit facile à supporter
+
+**_Alors, quel est votre prochain défi pour surmonter vos difficultés ?_**
