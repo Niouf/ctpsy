@@ -10,11 +10,12 @@ title = "Emails privés"
 weight = 8
 
 +++
-Une fois par semaine, recevez : 
-- Mes articles, livres et vidéos **coups de coeur** sur la psychologie
-- Mes **réflexions** et **débats** en psychologie
-- Recevoir en avant-première les **nouveaux articles du site**
-- **Réductions spéciales** sur les futures formations
+Chaque _dimanche_ à 10h, recevez :
+
+* Mes articles, livres et vidéos **coups de coeur** sur la psychologie
+* Mes **réflexions** et **débats** en psychologie
+* Mes **nouveaux articles du site**
+* Des **réductions spéciales** sur les futures formations
 
 Entrez votre adresse email, bouton recevoir les emails privés
 
