@@ -10,19 +10,17 @@ title-long = "Y a-t-il des approches mieux spécialisées que d'autres dans cert
 +++
 # Idées reçue n°1 : les thérapies comportementales et cognitives traitent les symptômes et la psychanalyse aide à comprendre
 
-Lors d'un échange récent sur un réseau social, j'ai pu lire des commentaires de l'ordre de  : "_si tu veux comprendre ton problème, fais une psychanalyse, si tu veux traiter tes symptômes, fais une TCC_" ou encore "_la psychanalyse traite le passé et les TCC le présent_".
+Lors d'un échange récent sur un réseau social, j'ai pu lire des commentaires de l'ordre de  : "_si tu veux **comprendre ton problème**, fais une psychanalyse, si tu veux **traiter tes symptômes**, fais une TCC_" ou encore "_la psychanalyse traite le **passé** et les TCC le **présent**_".
 
-Si les frontières entre ces deux approches en psychothérapie étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : intellectualiser d'un côté et agir de l'autre.
+Si les frontières entre ces deux approches en psychothérapie étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : **intellectualiser** d'un côté et **agir** de l'autre.
 
-En réalité, cela ne fonctionne pas comme ça. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant besoin de sens, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les symptômes dérangeants dans le présent.
+La réalité est plus complexe évidemment. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant **besoin de sens**, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les **symptômes dérangeants** dans le présent.
 
-De la même façon, les TCC ne peuvent se contenter de traiter qu'un symptômes si elles veulent être efficaces. L'analyse fonctionnelle du patient réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement pour pouvoir soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le transfert.
+De la même façon, les TCC ne peuvent se contenter de traiter qu'un symptôme si elles veulent être efficaces. L'**analyse fonctionnelle** du patient réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement pour pouvoir soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le **transfert**.
 
 ![](https://res.cloudinary.com/catherinetardella/v1588665411/raquel-martinez-SQM0sS0htzw-unsplash_uze0of.jpg)
 
-Bref, vous l'aurez compris, les choses ne sont pas aussi dichotomiques que ça. La recherche nous dit même que [dans le cas des troubles de le personnalité](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm), la durée de thérapie est  similaire entre les deux approches contrairement à ce que l'on imagine parfois. Les thérapie psychodynamiques (d'origine psychanalytiques) ne sont donc pas plus longues dans cette situation que les TCC appelée thérapies brèves.
-
-Si l'on regarde du côté des addictions, [pas de différences notables](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm) non plus entre ces deux approches et toutes les autres : "_L’étude Match (Project Match Research Group, 1997) a porté sur des patients traités de manière ambulatoire (n = 959) et des patients suivis en hôpital de jour (n = 774) sur dix sites différents. Les patients ont été attribués au hasard dans trois groupes, le premier traité par une thérapie comportementale et cognitive, le deuxième par un traitement motivationnel et le troisième par un traitement construit sur les fondements des stratégies proposées par les alcooliques anonymes (12 étapes). Le paradoxe de l’équivalence s’est trouvé confirmé dans cette étude puisqu’aucune différence significative n’a pu être mise en évidence entre ces trois formes de traitement, toutes également efficaces_" ([Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. _Psychotropes_, vol. 16(2), 9-29](Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. Psychotropes, vol. 16(2), 9-29))
+Bref, vous l'aurez compris, les choses ne sont pas aussi dichotomiques que ça. La recherche nous dit même que [dans le cas des troubles de le personnalité](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm), **la durée de thérapie** est  similaire entre les deux approches contrairement à ce que l'on imagine parfois. Les thérapies psychodynamiques (d'origine psychanalytiques) ne sont donc pas plus longues dans cette situation précise que les TCC désignée comme **thérapies brèves** ([Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. _Psychotropes_, vol. 16(2), 9-29](Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. Psychotropes, vol. 16(2), 9-29)).
 
 # Idée reçue n°2 : il y a des approches scientifiques et d'autres non
 
@@ -30,17 +28,19 @@ L'idée voudrait que certaines approches comme les TCC ou l'EMDR soient scientif
 
 ![](https://res.cloudinary.com/catherinetardella/v1588666595/michael-longmire-L9EV3OogLh0-unsplash_sakuwf.jpg)
 
-S'il est évidemment plus facile de faire de la recherche sur des approches qui comprennent des protocoles (autrement dit, des sortes d'étapes à traverser dans un ordre plus ou moins prévisible et balisé), cela ne signifie pas que l'on ne peut pas évaluer les autres approches.
+S'il est évidemment plus facile de faire de la recherche sur des approches qui comprennent des **protocoles** (autrement dit, des sortes d'étapes à traverser dans un ordre plus ou moins balisé), cela ne signifie pas que l'on ne peut pas évaluer les autres approches.
 
-Le [rapport de l'Inserm de 2004](http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1) donnait déjà un certain nombre d'éléments sur certaines approches mais d'autres études apportent quand même des éléments de réponses sur l'efficacité de thérapies par rapport à d'autres.
+Le [rapport de l'Inserm de 2004](http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1) donnait déjà un certain nombre d'éléments à ce sujet mais d'autres études ont suivi et apportent quand même des informations intéressantes sur l'**efficacité de thérapies** les unes par rapport à aux autres.
 
 Pour donner quelques exemples :
 
-* Ahn & Wampold, 2001 : un processus thérapeutique ne peut pas être réduit à la simple application de procédures
-* Luborsky _et al._, 1999 : la croyance du thérapeute dans son approche joue un rôle important dans la réussite du traitement quelle que soit son approche
-* Stiles _et al_., 2006 : une comparaison des traitements par TCC, psychothérapie psychodynmaique et approche rogérienne a montré qu'aucune de ces approche n'a montré d'efficacité plus significative qu'une autre
+* Ahn & Wampold, 2001 : un processus thérapeutique ne peut pas être réduit à la simple **application de procédures** (donc même une approche sans procédure peut fonctionner)
+* Luborsky _et al._, 1999 : la **croyance du thérapeute dans son approche** joue un rôle important dans la réussite du traitement quelle que soit son approche (il y a donc une part importante dans le positionnement du thérapeute indépendamment de la technique utilisée !)
+* Stiles _et al_., 2006 : une comparaison des traitements par TCC, psychothérapie psychodynmaique et approche rogérienne a montré qu'aucune de ces approche n'a montré d'efficacité plus significative qu'une autre (cela a de quoi calmer les guerres de chapelles, isn't it ?)
 
-Ces différentes études montrent également que dans tous les cas, même lorsqu'il existe un protocole, certains éléments restent non évaluables alors qu'ils montrent une part importante dans la réussite d'une thérapie : les qualités personnelles du thérapeute (donc rien à voir avec son approche), l'alliance thérapeutique (idem) et l'état du patient (idem).
+Ces différentes études montrent également que même lorsqu'il existe un protocole, certains éléments restent difficilement évaluables alors qu'ilsprennent une part importante dans la réussite d'une thérapie : les **qualités personnelles** du thérapeute (donc rien à voir avec son approche), **l'alliance thérapeutique** (idem) et l'**état du patient** (idem).
+
+Et par ex, si l'on regarde du côté des **addictions**, [pas de différences notables](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm)  entre les différentes approches : "_L’étude Match (**Project Match Research Group, 1997**) a porté sur des patients traités de manière ambulatoire (n = 959) et des patients suivis en hôpital de jour (n = 774) sur dix sites différents. Les patients ont été attribués au hasard dans trois groupes, le premier traité par une **thérapie comportementale et cognitive**, le deuxième par un **traitement motivationnel** et le troisième par un traitement construit sur les fondements des stratégies proposées par les alcooliques anonymes (12 étapes). Le paradoxe de l’équivalence s’est trouvé confirmé dans cette étude puisqu’aucune différence significative n’a pu être mise en évidence entre ces trois formes de traitement, toutes également efficaces_" 
 
 # Idées reçue n°3 : l'EMDR est la meilleure approche pour traiter les traumatismes
 
