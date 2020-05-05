@@ -10,9 +10,17 @@ title-long = "Y a-t-il des approches mieux spécialisées que d'autres dans cert
 +++
 # Les idées reçues sur la psychanalyse et les thérapies cognitivo-comportementales (TCC)
 
-ces deux approches de psychothérapie 
+Lors d'un échange récent sur un réseau social, j'ai pu lire des commentaires de l'ordre de  : "_si tu veux comprendre ton problème, fais une psychanalyse, si tu veux traiter tes symptômes, fais une TCC_" ou encore "_la psychanalyse traite le passé et les TCC le présent_".
 
-les psychothérapies comportementales et cognitives nécessitent autant de temps pour guérir un trouble de la personnalité que les psychothérapies psychanalytiques. Dans [https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm "https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm")
+Si les frontières entre ces deux approches en psychothérapie étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : intellectualiser d'un côté et agir de l'autre.
+
+En réalité, cela ne fonctionne pas comme ça. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant besoin de sens, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les symptômes dérangeants dans le présent.
+
+De la même façon, les TCC ne peuvent se contenter de traiter qu'un symptômes si elles veulent être efficaces. L'analyse fonctionnelle du patient réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement pour pouvoir soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le transfert.
+
+Bref, vous l'aurez compris, les choses ne sont pas aussi dichotomiques que ça. La recherche nous dit même que [dans le cas des troubles de le personnalité](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm), la durée de thérapie est  similaire entre les deux approches contrairement à ce que l'on imagine parfois. Les thérapie psychodynamiques (d'origine psychanalytiques) ne sont donc pas plus longues dans cette situation que les TCC appelée thérapies brèves.
+
+ [https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm "https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm")
 
 deux méta-analyses permettent de conclure à l’avantage d’un traitement combiné dans le traitement de sevrage et dans le traitement de maintien de la dépendance aux opiacés, tous types de psychothérapies confondus. L’effet de ces traitements se limite aux problèmes d’addiction ne touchant pas les autres problèmes cliniques.
 
@@ -45,5 +53,7 @@ dans l’une des plus grandes études conduites à ce jour sur le traitement de 
 En résumé, si l’alliance thérapeutique apparaît être une variable extrêmement importante dans le domaine de la psychothérapie des troubles de l’humeur, des troubles anxieux et des troubles de la personnalité, son rôle paraît nettement moins évident dans le champ de la psychothérapie des addictions. Le processus semble obéir à un autre ordre de complexité, dans lequel le rôle joué par la substance doit être étudié.
 
 # Conclusion
+
+[https://www.psychologies.com/Moi/Problemes-psy/Anxiete-Phobies/Articles-et-Dossiers/Contre-l-anxiete-7-methodes-qui-marchent-vraiment](https://www.psychologies.com/Moi/Problemes-psy/Anxiete-Phobies/Articles-et-Dossiers/Contre-l-anxiete-7-methodes-qui-marchent-vraiment "https://www.psychologies.com/Moi/Problemes-psy/Anxiete-Phobies/Articles-et-Dossiers/Contre-l-anxiete-7-methodes-qui-marchent-vraiment")
 
 Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. _Psychotropes_, vol. 16(2), 9-29
