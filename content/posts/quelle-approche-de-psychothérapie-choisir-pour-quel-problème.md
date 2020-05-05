@@ -3,12 +3,12 @@ date = 2020-05-05T06:41:09Z
 draft = true
 logo = "/v1588661450/nik-shuliahin-BuNWp1bL0nc-unsplash_h1y7n5.jpg"
 notes = ""
-resume = "C'est la question qu'on me pose le plus et à laquelle on pourrait croire qu'il existe des réponses évidentes étant données la diversité des approches en psychothérapie. Pourtant, ce n'est à mon avis clairement pas le cas, je vous décris pourquoi."
+resume = "C'est la question qu'on me pose le plus et à laquelle on pourrait croire qu'il existe des réponses évidentes étant données la diversité des approches en psychothérapie. Pourtant, ce n'est à mon avis clairement pas le cas, je vous décris pourquoi en cassant quelques idées reçues."
 title = "Quelle approche de psychothérapie choisir pour quel problème ?"
 title-long = "Y a-t-il des approches mieux spécialisées que d'autres dans certaines problématiques"
 
 +++
-# Les idées reçues sur la psychanalyse et les thérapies cognitivo-comportementales (TCC)
+# Idées reçue n°1 : les thérapies comportementales et cognitives traitent les symptômes et la psychanalyse aide à comprendre
 
 Lors d'un échange récent sur un réseau social, j'ai pu lire des commentaires de l'ordre de  : "_si tu veux comprendre ton problème, fais une psychanalyse, si tu veux traiter tes symptômes, fais une TCC_" ou encore "_la psychanalyse traite le passé et les TCC le présent_".
 
@@ -24,11 +24,15 @@ Bref, vous l'aurez compris, les choses ne sont pas aussi dichotomiques que ça. 
 
 Si l'on regarde du côté des addictions, [pas de différences notables](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm) non plus entre ces deux approches et toutes les autres : "_L’étude Match (Project Match Research Group, 1997) a porté sur des patients traités de manière ambulatoire (n = 959) et des patients suivis en hôpital de jour (n = 774) sur dix sites différents. Les patients ont été attribués au hasard dans trois groupes, le premier traité par une thérapie comportementale et cognitive, le deuxième par un traitement motivationnel et le troisième par un traitement construit sur les fondements des stratégies proposées par les alcooliques anonymes (12 étapes). Le paradoxe de l’équivalence s’est trouvé confirmé dans cette étude puisqu’aucune différence significative n’a pu être mise en évidence entre ces trois formes de traitement, toutes également efficaces_" ([Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. _Psychotropes_, vol. 16(2), 9-29](Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. Psychotropes, vol. 16(2), 9-29))
 
-# L'évaluation des psychothérapie est-elle vraiment possible ?
+# Idée reçue n°2 : il y a des approches scientifiques et d'autres non
 
-rapport de l'inserm 2004 : [http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1](http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1 "http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1")
+L'idée voudrait que certaines approches comme les TCC ou l'EMDR soient scientifiques et d'autres non. Ce n'est pas non plus aussi simple que cela.
 
-Dans le champ des psychothérapies comportementales et cognitives, on assiste au mouvement inverse : la doxa consiste à affirmer que cette forme de psychothérapie se moule sur les canons de l’approche scientifique. Jacobson _et al._ (1996) ont ainsi mis en évidence, dans une étude portant sur 52 sujets souffrant de dépression majeure, qu’il n’y avait aucune différence entre un traitement comportemental seul, un traitement comportemental associé à un travail sur les pensées automatiques, et une approche complète comprenant ces deux éléments et un travail sur les schémas.
+S'il est évidemment plus facile de faire de la recherche sur des approches qui comprennent des protocoles (autrement dit, des sortes d'étapes à traverser dans un ordre plus ou moins prévisible et balisé), cela ne signifie pas que l'on ne peut pas évaluer les autres approches.
+
+Le [rapport de l'Inserm de 2004](http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1) donnait déjà un certain nombre d'éléments sur certaines approches mais d'autres études apportent quand même des éléments de réponses sur l'efficacité de thérapies par rapport à d'autres.
+
+Jacobson _et al._ (1996) ont ainsi mis en évidence, dans une étude portant sur 52 sujets souffrant de dépression majeure, qu’il n’y avait aucune différence entre un traitement comportemental seul, un traitement comportemental associé à un travail sur les pensées automatiques, et une approche complète comprenant ces deux éléments et un travail sur les schémas.
 
 [11](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm#pa11)D’autres études (_dismanteling studies_), dans lesquelles on dissocie expérimentalement certains éléments de la technique psychothérapique, confirment que le processus psychothérapique ne peut pas être réduit à la simple application ou à l’addition de procédures (Ahn & Wampold, 2001). Ces résultats concordent avec les nombreux travaux récents qui ont souligné le rôle de l’alliance thérapeutique et des qualités personnelles du psychothérapeute, toutes écoles confondues.
 
