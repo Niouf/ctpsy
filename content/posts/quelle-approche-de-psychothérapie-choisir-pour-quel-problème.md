@@ -28,6 +28,8 @@ Si l'on regarde du côté des addictions, [pas de différences notables](https:/
 
 L'idée voudrait que certaines approches comme les TCC ou l'EMDR soient scientifiques et d'autres non. Ce n'est pas non plus aussi simple que cela.
 
+![](https://res.cloudinary.com/catherinetardella/v1588666595/michael-longmire-L9EV3OogLh0-unsplash_sakuwf.jpg)
+
 S'il est évidemment plus facile de faire de la recherche sur des approches qui comprennent des protocoles (autrement dit, des sortes d'étapes à traverser dans un ordre plus ou moins prévisible et balisé), cela ne signifie pas que l'on ne peut pas évaluer les autres approches.
 
 Le [rapport de l'Inserm de 2004](http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1) donnait déjà un certain nombre d'éléments sur certaines approches mais d'autres études apportent quand même des éléments de réponses sur l'efficacité de thérapies par rapport à d'autres.
