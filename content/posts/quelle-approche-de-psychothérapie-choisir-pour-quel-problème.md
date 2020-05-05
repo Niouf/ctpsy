@@ -4,7 +4,7 @@ draft = true
 logo = "/v1588661450/nik-shuliahin-BuNWp1bL0nc-unsplash_h1y7n5.jpg"
 notes = ""
 resume = "C'est la question qu'on me pose le plus et à laquelle on pourrait croire qu'il existe des réponses évidentes étant données la diversité des approches en psychothérapie. Pourtant, ce n'est à mon avis clairement pas le cas, je vous décris pourquoi en cassant quelques idées reçues."
-title = "Quelle approche de psychothérapie choisir pour quel problème ?"
+title = "Quelle approche de psychothérapie choisir ?"
 title-long = "Y a-t-il des approches mieux spécialisées que d'autres dans certaines problématiques"
 
 +++
@@ -32,19 +32,21 @@ S'il est évidemment plus facile de faire de la recherche sur des approches qui 
 
 Le [rapport de l'Inserm de 2004](http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1) donnait déjà un certain nombre d'éléments sur certaines approches mais d'autres études apportent quand même des éléments de réponses sur l'efficacité de thérapies par rapport à d'autres.
 
-Jacobson _et al._ (1996) ont ainsi mis en évidence, dans une étude portant sur 52 sujets souffrant de dépression majeure, qu’il n’y avait aucune différence entre un traitement comportemental seul, un traitement comportemental associé à un travail sur les pensées automatiques, et une approche complète comprenant ces deux éléments et un travail sur les schémas.
+Pour donner quelques exemples :
 
-[11](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm#pa11)D’autres études (_dismanteling studies_), dans lesquelles on dissocie expérimentalement certains éléments de la technique psychothérapique, confirment que le processus psychothérapique ne peut pas être réduit à la simple application ou à l’addition de procédures (Ahn & Wampold, 2001). Ces résultats concordent avec les nombreux travaux récents qui ont souligné le rôle de l’alliance thérapeutique et des qualités personnelles du psychothérapeute, toutes écoles confondues.
+* Ahn & Wampold, 2001 : un processus thérapeutique ne peut pas être réduit à la simple application de procédures
+* Luborsky _et al._, 1999 : la croyance du thérapeute dans son approche joue un rôle important dans la réussite du traitement quelle que soit son approche
+* Stiles _et al_., 2006 : une comparaison des traitements par TCC, psychothérapie psychodynmaique et approche rogérienne a montré qu'aucune de ces approche n'a montré d'efficacité plus significative qu'une autre
 
-le raisonnement clinique ne peut en aucun cas être limité à l’application d’algorithmes déduits des recherches. L’expérience clinique du thérapeute est un facteur essentiel, notamment dans le domaine des psychothérapies où sa contribution aux résultats de toute école confondue dépasse tous les autres facteurs étudiés.
+Ces différentes études montrent également que dans tous les cas, même lorsqu'il existe un protocole, certains éléments restent non évaluables alors qu'ils montrent une part importante dans la réussite d'une thérapie : les qualités personnelles du thérapeute (donc rien à voir avec son approche), l'alliance thérapeutique (idem) et l'état du patient (idem).
 
-alliance thérpeutique et qualités personnelles : la croyance du psychothérapeute dans sa technique contribue très certainement aux effets du traitement. Dans le même temps, il s’agit d’un biais majeur pour la recherche, quel que soit le type de traitement étudié (Luborsky _et al._, 1999).
+# Idées reçue n°3 : l'EMDR est la meilleure approche pour traiter les traumatismes
 
-Parmi les études les plus récentes, on peut citer le travail de Stiles _et al_. (2006), portant sur 1309 patients traités dans le cadre du National Health Service en Angleterre. En comparant des patients traités par thérapies comportementales cognitives, psychothérapies psychodynamiques et psychothérapies centrées sur le client, les auteurs ne parviennent pas à mettre en évidence de différences significatives.
+Bon, comme je pratique l'EMDR, j'aurais bien envie de vous dire que cette idée n'est pas une idée reçue. Mais c'est en fait ma croyance dans cette approche qui jouerait très fort.
 
-# Et l'EMDR ?
+Oui, [l'EMDR est tout à fait indiquée dans le traitement du stress post-traumatique](https://www.instagram.com/p/B_Ucd6UBBLX/). Mais ce n'est pas la seule approche qui permet de traiter les traumatismes. 
 
-oui mais pas la seule en traumato. et de toutes façons les autres aussi.
+ICV, TCC, AT par ex.
 
 # L'alliance thérapeutique
 
