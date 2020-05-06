@@ -1,13 +1,13 @@
 +++
 date = 2020-05-05T06:41:09Z
-logo = "/v1588661450/nik-shuliahin-BuNWp1bL0nc-unsplash_h1y7n5.jpg"
+logo = "/v1588777464/javier-allegue-barros-C7B-ExXpOIE-unsplash_jz04zc.jpg"
 notes = ""
 resume = "C'est la question qu'on me pose le plus souvent et à laquelle on pourrait croire qu'il existe des réponses évidentes étant donnée la diversité des approches en psychothérapie. Pourtant, ce n'est à mon avis clairement pas le cas, je vous décris pourquoi en cassant quelques idées reçues."
 title = "Quelle approche choisir pour sa psychothérapie ?"
 title-long = "Y a-t-il des approches mieux spécialisées que d'autres dans certaines problématiques ?"
 
 +++
-# Idées reçue n°1 : les thérapies comportementales et cognitives traitent les symptômes et la psychanalyse aide à comprendre
+## Idées reçue n°1 : les thérapies comportementales et cognitives traitent les symptômes et la psychanalyse aide à comprendre
 
 Lors d'un échange récent sur un réseau social, j'ai pu lire des commentaires de l'ordre de  : "_si tu veux **comprendre ton problème**, fais une psychanalyse, si tu veux **traiter tes symptômes**, fais une TCC_" ou encore "_la psychanalyse traite le **passé** et les TCC le **présent**_".
 
@@ -23,7 +23,7 @@ Bref, vous l'aurez compris, les choses ne sont pas aussi dichotomiques que ça. 
 
 **En conclusion : s'il y a certes des différences entre les différentes approches en thérapies, il y a aussi beaucoup de similitudes entre elles aussi.** 
 
-# Idée reçue n°2 : les approches scientifiques fonctionnement mieux
+## Idée reçue n°2 : les approches scientifiques fonctionnement mieux
 
 L'idée voudrait que certaines approches comme les TCC ou l'EMDR soient scientifiques et d'autres non. Ce n'est pas non plus aussi simple que cela.
 
@@ -45,7 +45,7 @@ Si l'on regarde du côté des **addictions** par ex, il n'y a [pas de différenc
 
 **En conclusion : toutes les approches peuvent être évaluées et il n'y a pas toujours beaucoup de différences d'efficacités entre elles.**
 
-# Idées reçue n°3 : l'EMDR est la meilleure approche pour traiter les traumatismes
+## Idées reçue n°3 : l'EMDR est la meilleure approche pour traiter les traumatismes
 
 ![](https://res.cloudinary.com/catherinetardella/v1588775433/taha-ajmi-dCAKIpxs3eE-unsplash_n9zuoj.jpg)
 
@@ -57,7 +57,7 @@ Certes, l'EMDR semble être plus orientée vers la recherche, mais ce que ces é
 
 **Conclusion : il semble que l'approche du psy ne soit pas le meilleur critère de choix pour sa thérapeute. Mais alors, lequel est-ce ?**
 
-# L'alliance thérapeutique : le facteur principal de choix de son psy
+## L'alliance thérapeutique : le facteur principal de choix de son psy
 
 Il existe une évidente difficulté à évaluer l'alliance thérapeutique qui correspond à la **qualité de la relation** entre un patient et son thérapeute. Il est en effet très compliqué de tester les différentes **variables techniques** d'une relation et difficile de prescrire à un praticien de développer une alliance pour le bon déroulement d'une étude. L'alliance thérapeutique est en effet la conséquence d'un **processus** de **confiance** et de **sécurité** entre deux personnes. 
 
