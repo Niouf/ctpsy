@@ -65,9 +65,9 @@ Certes, l'EMDR semble être plus orientée vers la recherche, mais ce que ces é
 
 ![](https://res.cloudinary.com/catherinetardella/v1588778457/joshua-coleman-_yVRLC75Ma8-unsplash_n9nhpj.jpg)
 
-## Le "feelling" : le facteur principal de choix de son psy
+## Le "feeling" : le facteur principal de choix de son psy
 
-Il existe une évidente difficulté à évaluer l'alliance thérapeutique qui correspond à la **qualité de la relation** entre un patient et son thérapeute. Il est en effet très compliqué de tester les différentes **variables techniques** d'une relation et difficile de prescrire à un praticien de développer une alliance pour le bon déroulement d'une étude. L'alliance thérapeutique est en effet la conséquence d'un **processus** de **confiance** et de **sécurité** entre deux personnes. 
+Il existe une évidente difficulté à évaluer l'alliance thérapeutique (ce feeling avec son psy) qui correspond à la **qualité de la relation** entre un patient et son thérapeute. Il est en effet très compliqué de tester les différentes **variables techniques** d'une relation et difficile de prescrire à un praticien de développer une alliance pour le bon déroulement d'une étude. L'alliance thérapeutique est en effet la conséquence d'un **processus** de **confiance** et de **sécurité** entre deux personnes. 
 
 Toutefois, des études sont malgré tout réalisées et dans l’une des plus importantes à ce sujet, on apprend que l'alliance thérapeutique a un effet significatif sur le résultat clinique d'une thérapie. Cela est valable tant pour les psychothérapies qui accompagnent une prise de médicament actif (antidépresseur, anxiolytiques, antipsychotiques) que pour les thérapies qui accompagnent des prises de médicaments placebo. ([_National Institute of Mental Health Treatment of Depression Collaborative Research_, Krupnick, 1996)](https://www.researchgate.net/publication/14503250_The_Role_of_the_Therapeutic_Alliance_in_Psychotherapy_and_Pharmacotherapy_Outcome_Findings_in_the_National_Institute_of_Mental_Health_Treatment_of_Depression_Collaborative_Research_Program)
 
