@@ -73,6 +73,6 @@ Toutefois, des études sont malgré tout réalisées et dans l’une des plus im
 
 Il existe toutefois une exception à cette idée. "_Si **l’alliance thérapeutique apparaît être une variable extrêmement importante** dans le domaine de la psychothérapie des **troubles de l’humeur**, des **troubles anxieux** et des **troubles de la personnalité**, son rôle paraît nettement moins évident dans le champ de la psychothérapie des **addictions**. Le processus semble obéir à un autre ordre de complexité, dans lequel le rôle joué par la **substance** doit être étudié_" ([Despland J., 2010](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm)).
 
-Cette recherche et celles qui lui sont associées permettent de dire que quelle que soit l'approche choisie, une thérapie aura le plus se chance d'aboutir essentiellement si le patient se sent à la fois en sécurité et en confiance avec son thérapeute. C'est le critère de choix qui semble le plus prédictif d'efficacité connu à ce jour. 
+Cette recherche et celles qui lui sont associées permettent de dire que quelle que soit l'approche choisie, une thérapie aura le plus se chance d'aboutir essentiellement si le patient se sent à la fois en **sécurité** et en **confiance** avec son thérapeute. C'est le critère de choix le plus prédictif d'efficacité connu à ce jour. 
 
 **Conclusion : choisissez donc une personne plutôt qu'une approche, sauf dans le cas d'un traitement des addictions.**
