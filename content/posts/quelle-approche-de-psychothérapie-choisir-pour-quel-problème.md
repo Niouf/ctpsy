@@ -31,7 +31,7 @@ La recherche nous dit aussi que [dans le cas des troubles de le personnalité](h
 
 **En conclusion : s'il y a certes des différences entre les différentes approches en thérapies, il y a aussi beaucoup de similitudes entre elles aussi.** 
 
-## Idée reçue n°2 : les approches scientifiques fonctionnement mieux
+## Idée reçue n°2 : les approches scientifiques fonctionnent mieux
 
 L'idée voudrait que certaines approches comme les TCC ou l'EMDR soient scientifiques et d'autres non. Ce n'est pas non plus aussi simple que cela.
 
