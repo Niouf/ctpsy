@@ -4,7 +4,7 @@ draft = true
 logo = "/v1588661450/nik-shuliahin-BuNWp1bL0nc-unsplash_h1y7n5.jpg"
 notes = ""
 resume = "C'est la question qu'on me pose le plus souvent et à laquelle on pourrait croire qu'il existe des réponses évidentes étant donnée la diversité des approches en psychothérapie. Pourtant, ce n'est à mon avis clairement pas le cas, je vous décris pourquoi en cassant quelques idées reçues."
-title = "Quelle approche de psychothérapie choisir ?"
+title = "Quelle approche choisir pour sa psychothérapie ?"
 title-long = "Y a-t-il des approches mieux spécialisées que d'autres dans certaines problématiques ?"
 
 +++
@@ -14,15 +14,17 @@ Lors d'un échange récent sur un réseau social, j'ai pu lire des commentaires 
 
 Si les frontières entre ces deux approches en psychothérapie étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : **intellectualiser** d'un côté et **agir** de l'autre.
 
-La réalité est plus complexe évidemment. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant **besoin de sens**, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les **symptômes dérangeants** dans le présent.
+La réalité est plus complexe évidemment. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant **besoin de sens**, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les **symptômes dérangeants** dans le présent. Donc même si ce n'est pas l'objectif principal de cette approche, elle en a néanmoins souvent les effets indirects.
 
-De la même façon, les TCC ne peuvent se contenter de traiter qu'un symptôme si elles veulent être efficaces. L'**analyse fonctionnelle** du patient réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement pour pouvoir soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le **transfert**.
+De la même façon, les TCC ne peuvent se contenter de traiter qu'un symptôme si elles veulent être efficaces. L'**analyse fonctionnelle** du patient réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement en vue de soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le **transfert**.
 
 ![](https://res.cloudinary.com/catherinetardella/v1588665411/raquel-martinez-SQM0sS0htzw-unsplash_uze0of.jpg)
 
-Bref, vous l'aurez compris, les choses ne sont pas aussi dichotomiques que ça. La recherche nous dit même que [dans le cas des troubles de le personnalité](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm), **la durée de thérapie** est  similaire entre les deux approches contrairement à ce que l'on imagine parfois. Les thérapies psychodynamiques (d'origine psychanalytiques) ne sont donc pas plus longues dans cette situation précise que les TCC désignée comme **thérapies brèves** ([Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. _Psychotropes_, vol. 16(2), 9-29](Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. Psychotropes, vol. 16(2), 9-29)).
+Bref, vous l'aurez compris, les choses ne sont pas aussi dichotomiques que ça. La recherche nous dit aussi que [dans le cas des troubles de le personnalité](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm), **la durée de thérapie** est similaire entre les deux approches contrairement à ce que l'on imagine parfois. Les thérapies psychodynamiques (d'origine psychanalytiques) ne sont donc pas plus longues dans cette situation précise que les TCC désignée comme **thérapies brèves** ([Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. _Psychotropes_, vol. 16(2), 9-29](Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. Psychotropes, vol. 16(2), 9-29)).
 
-# Idée reçue n°2 : il y a des approches scientifiques et d'autres non
+**En conclusion : s'il y a certes des différences entre les différentes approches en thérapies, il y a aussi beaucoup de similitudes entre elles aussi.** 
+
+# Idée reçue n°2 : les approches scientifiques fonctionnement mieux
 
 L'idée voudrait que certaines approches comme les TCC ou l'EMDR soient scientifiques et d'autres non. Ce n'est pas non plus aussi simple que cela.
 
@@ -30,7 +32,7 @@ L'idée voudrait que certaines approches comme les TCC ou l'EMDR soient scientif
 
 S'il est évidemment plus facile de faire de la recherche sur des approches qui comprennent des **protocoles** (autrement dit, des sortes d'étapes à traverser dans un ordre plus ou moins balisé), cela ne signifie pas que l'on ne peut pas évaluer les autres approches.
 
-Le [rapport de l'Inserm de 2004](http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1) donnait déjà un certain nombre d'éléments à ce sujet mais d'autres études ont suivi et apportent quand même des informations intéressantes sur l'**efficacité de thérapies** les unes par rapport à aux autres.
+Le [rapport de l'Inserm de 2004](http://www.ipubli.inserm.fr/bitstream/handle/10608/146/expcol_2004_psychotherapie.pdf?sequence=1) présentait déjà un certain nombre d'éléments à ce sujet mais d'autres études ont suivi et apportent des informations intéressantes sur l['**efficacité des différentes approches de thérapies**](https://www.researchgate.net/publication/20472319_National_Institute_of_Mental_Health_Treatment_of_Depression_Collaborative_Research_Program_General_effectiveness_of_treatments).
 
 Pour donner quelques exemples :
 
@@ -38,28 +40,30 @@ Pour donner quelques exemples :
 * Luborsky _et al._, 1999 : la **croyance du thérapeute dans son approche** joue un rôle important dans la réussite du traitement quelle que soit son approche (il y a donc une part importante dans le positionnement du thérapeute indépendamment de la technique utilisée !)
 * Stiles _et al_., 2006 : une comparaison des traitements par TCC, psychothérapie psychodynmaique et approche rogérienne a montré qu'aucune de ces approche n'a montré d'efficacité plus significative qu'une autre (cela a de quoi calmer les guerres de chapelles, isn't it ?)
 
-Ces différentes études montrent également que même lorsqu'il existe un protocole, certains éléments restent difficilement évaluables alors qu'ilsprennent une part importante dans la réussite d'une thérapie : les **qualités personnelles** du thérapeute (donc rien à voir avec son approche), **l'alliance thérapeutique** (idem) et l'**état du patient** (idem).
+Ces différentes études montrent également que même lorsqu'il existe un protocole, certains éléments restent difficilement évaluables alors qu'ils sont une part importante de la réussite d'une thérapie : les **qualités personnelles** du thérapeute (donc rien à voir avec l'approche qu'il utilise), **l'alliance thérapeutique** (idem) et l'**état du patient** (idem).
 
-Et par ex, si l'on regarde du côté des **addictions**, [pas de différences notables](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm)  entre les différentes approches : "_L’étude Match (**Project Match Research Group, 1997**) a porté sur des patients traités de manière ambulatoire (n = 959) et des patients suivis en hôpital de jour (n = 774) sur dix sites différents. Les patients ont été attribués au hasard dans trois groupes, le premier traité par une **thérapie comportementale et cognitive**, le deuxième par un **traitement motivationnel** et le troisième par un traitement construit sur les fondements des stratégies proposées par les alcooliques anonymes (12 étapes). Le paradoxe de l’équivalence s’est trouvé confirmé dans cette étude puisqu’aucune différence significative n’a pu être mise en évidence entre ces trois formes de traitement, toutes également efficaces_" 
+Si l'on regarde du côté des **addictions** par ex, il n'y a [pas de différences notables](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm)  entre les différentes approches : "_L’étude Match (**Project Match Research Group, 1997**) a porté sur des patients traités de manière ambulatoire (n = 959) et des patients suivis en hôpital de jour (n = 774) sur dix sites différents. Les patients ont été attribués au hasard dans trois groupes, le premier traité par une **thérapie comportementale et cognitive**, le deuxième par un **traitement motivationnel** et le troisième par un traitement construit sur les fondements des stratégies proposées par les alcooliques anonymes (12 étapes). Le paradoxe de l’équivalence s’est trouvé confirmé dans cette étude puisqu’aucune différence significative n’a pu être mise en évidence entre ces trois formes de traitement, toutes également efficaces_" 
+
+**En conclusion : toutes les approches peuvent être évaluées et il n'y a pas toujours beaucoup de différences d'efficacités entre elles.**
 
 # Idées reçue n°3 : l'EMDR est la meilleure approche pour traiter les traumatismes
 
-Bon, comme je pratique l'EMDR, j'aurais bien envie de vous dire que cette idée n'est pas une idée reçue. Mais c'est en fait ma croyance dans cette approche qui jouerait très fort.
+![](https://res.cloudinary.com/catherinetardella/v1588775433/taha-ajmi-dCAKIpxs3eE-unsplash_n9zuoj.jpg)
 
-Oui, [l'EMDR est tout à fait indiquée dans le traitement du stress post-traumatique](https://www.instagram.com/p/B_Ucd6UBBLX/). Mais ce n'est pas la seule approche qui permet de traiter les traumatismes. 
+Comme je pratique l'EMDR, j'aurais bien envie de vous dire que cette idée n'est pas une idée reçue. Mais bien sûr, ce n'est probablement pas exactement le cas.
 
-ICV, TCC, AT par ex.
+Oui, [l'EMDR est tout à fait indiquée dans le traitement du stress post-traumatique](https://www.instagram.com/p/B_Ucd6UBBLX/)., là dessus, il y a peu de doute possible, beaucoup d'études sont parues et en cours sur ce sujet. Mais l'EMDR n'est pas la seule approche qui permette de traiter les traumatismes. L'[ICV](https://www.lexpress.fr/styles/psycho/therapie-breve-l-icv-permet-de-comprendre-comment-le-passe-affecte-le-present_1897506.html), l'[Analyse Transactionnelle](https://www.cairn.info/revue-actualites-en-analyse-transactionnelle-2008-3-page-1.htm), l'[approche PITT](http://www.irpt.ch/fr/formations--agenda.html?event=359) et même les [TCC ](http://www.psychologues-tcc-paris.com/le-syndrome-de-stress-post-traumatique/)permettent de travailler sur les traumatismes. 
 
-# L'alliance thérapeutique
+Certes, l'EMDR semble être plus orientée vers la recherche, mais ce que ces études nous montrent confirme également que ces autres approchent peuvent également fonctionner.
 
-L’évaluation du niveau de l’alliance thérapeutique est source de nombreux malentendus. Souvent mise en avant dans les manuels cliniques ou par les cliniciens, l’alliance peut apparaître parfois comme une variable technique. Cela est très contestable. En effet, prescrire à un clinicien de développer l’alliance thérapeutique revient à lui demander de séduire son patient, manière de faire que la très grande majorité des cliniciens considèrent comme contre-productive, à la fois sur le plan technique et sur le plan éthique. Il faut admettre que l’alliance thérapeutique est une conséquence du processus psychothérapique, lorsque le psychothérapeute et le patient s’entendent pour conduire un travail ayant des effets en rapport avec les attentes de l’un et de l’autre.
+**Conclusion : il semble que l'approche du psy ne soit pas le meilleur critère de choix pour sa thérapeute. Mais alors, lequel est-ce ?**
 
-dans l’une des plus grandes études conduites à ce jour sur le traitement de la dépression, la _National Institute of Mental Health Treatment of Depression Collaborative Research_ (Krupnick, 1996),
+# L'alliance thérapeutique : le facteur principal de choix de son psy
 
-En résumé, si l’alliance thérapeutique apparaît être une variable extrêmement importante dans le domaine de la psychothérapie des troubles de l’humeur, des troubles anxieux et des troubles de la personnalité, son rôle paraît nettement moins évident dans le champ de la psychothérapie des addictions. Le processus semble obéir à un autre ordre de complexité, dans lequel le rôle joué par la substance doit être étudié.
+Il existe une évidente difficulté à évaluer l'alliance thérapeutique qui correspond à la **qualité de la relation** entre un patient et son thérapeute. Il est en effet très compliqué de tester les différentes **variables techniques** d'une relation et difficile de prescrire à un praticien de développer une alliance pour le bon déroulement d'une étude. L'alliance thérapeutique est en effet la conséquence d'un **processus** de **confiance** et de **sécurité** entre deux personnes. 
 
-# Conclusion
+Toutefois, des études sont malgré tout réalisées et dans l’une des plus importantes à ce sujet, on apprend que l'alliance thérapeutique a un effet significatif sur le résultat clinique d'une thérapie. Cela est valable tant pour les psychothérapies qui accompagnent une prise de médicament actif (antidépresseur, anxiolytiques, antipsychotiques) que pour les thérapies qui accompagnent des prises de médicaments placebo. ([_National Institute of Mental Health Treatment of Depression Collaborative Research_, Krupnick, 1996)](https://www.researchgate.net/publication/14503250_The_Role_of_the_Therapeutic_Alliance_in_Psychotherapy_and_Pharmacotherapy_Outcome_Findings_in_the_National_Institute_of_Mental_Health_Treatment_of_Depression_Collaborative_Research_Program)
 
-[https://www.psychologies.com/Moi/Problemes-psy/Anxiete-Phobies/Articles-et-Dossiers/Contre-l-anxiete-7-methodes-qui-marchent-vraiment](https://www.psychologies.com/Moi/Problemes-psy/Anxiete-Phobies/Articles-et-Dossiers/Contre-l-anxiete-7-methodes-qui-marchent-vraiment "https://www.psychologies.com/Moi/Problemes-psy/Anxiete-Phobies/Articles-et-Dossiers/Contre-l-anxiete-7-methodes-qui-marchent-vraiment")
+Cette recherches et celles qui lui sont associées permettent de dire que quelle que soit l'approche choisie, une thérapie aura le plus se chance d'aboutir essentiellement si le patient se sent à la fois en sécurité et en confiance avec son thérapeute. C'est le critère de choix qui semble le plus prédictif d'efficacité connu à ce jour. **Choisissez donc une personne plutôt qu'une approche**.
 
-Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. _Psychotropes_, vol. 16(2), 9-29
+Il existe toutefois une exception à cette idée. "_Si l’alliance thérapeutique apparaît être une variable extrêmement importante dans le domaine de la psychothérapie des troubles de l’humeur, des troubles anxieux et des troubles de la personnalité, son rôle paraît nettement moins évident dans le champ de la psychothérapie des addictions. Le processus semble obéir à un autre ordre de complexité, dans lequel le rôle joué par la substance doit être étudié_" (Despland J., 2010)
