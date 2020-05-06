@@ -25,7 +25,7 @@ De la même façon, les TCC ne se contentent pas d'être seulement orientée ver
 
 ![](https://res.cloudinary.com/catherinetardella/v1588665411/raquel-martinez-SQM0sS0htzw-unsplash_uze0of.jpg)
 
-Bref, vous l'aurez compris, les choses ne sont pas aussi noires ou blanches que ça. La recherche nous dit aussi que [dans le cas des troubles de le personnalité](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm), **la durée de thérapie** est similaire entre les deux approches contrairement à ce que l'on imagine parfois. Les thérapies psychodynamiques (d'origine psychanalytiques) ne sont donc pas plus longues dans cette situation précise que les TCC désignée comme **thérapies brèves** ([Despland J., 2010)](Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. Psychotropes, vol. 16(2), 9-29).
+Bref, vous l'aurez compris, les choses ne sont pas aussi noires ou blanches que ça. La recherche nous dit aussi que [dans le cas des troubles de le personnalité](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm), **la durée de thérapie** est similaire entre les deux approches contrairement à ce que l'on imagine parfois. Les thérapies psychodynamiques (d'origine psychanalytiques) ne sont donc pas plus longues dans cette situation précise que les TCC pourtant désignée comme **thérapies brèves** ([Despland J., 2010)](Despland, J. (2010). Quelle psychothérapie pour quel patient ? Données de recherche et problèmes cliniques. Psychotropes, vol. 16(2), 9-29).
 
 **En conclusion : s'il y a certes des différences entre les différentes approches en thérapies, il y a aussi beaucoup de similitudes entre elles aussi.** 
 
