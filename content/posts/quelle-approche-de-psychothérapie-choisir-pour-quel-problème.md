@@ -17,7 +17,7 @@ Ces commentaires les opposaient strictement sur plusieurs points :
 * "_la psychanalyse traite le **passé** et les TCC le **présent**_"
 * "_la psychanalyse dure 10 ou 20 ans, les TCC 3 mois_"
 
-Je veux monter que, si les frontières entre ces deux approches en psychothérapie étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : **intellectualiser** d'un côté et **agir** de l'autre. 
+Je veux monter que, si les frontières entre ces deux approches étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : **intellectualiser** d'un côté et **agir** de l'autre. 
 
 La réalité est plus complexe, évidemment. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant **besoin de sens**, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les **symptômes dérangeants** dans le présent. Donc même si ce n'est pas l'objectif principal de cette approche, elle en a néanmoins souvent les effets indirects.
 
