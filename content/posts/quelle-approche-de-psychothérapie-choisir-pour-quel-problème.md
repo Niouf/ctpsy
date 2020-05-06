@@ -45,15 +45,15 @@ Pour donner quelques exemples :
 * Luborsky _et al._, 1999 : la **croyance du thérapeute dans son approche** joue un rôle important dans la réussite du traitement quelle que soit son approche (il y a donc une part importante dans le positionnement du thérapeute indépendamment de la technique utilisée !)
 * Stiles _et al_., 2006 : une comparaison des traitements par TCC, psychothérapie psychodynmaique et approche rogérienne a montré qu'aucune de ces approche n'a montré d'efficacité plus significative qu'une autre (cela a de quoi calmer les guerres de chapelles, isn't it ?)
 
-Ces différentes études montrent également que même lorsqu'il existe un protocole, certains éléments restent difficilement évaluables alors qu'ils sont une part importante de la réussite d'une thérapie : les **qualités personnelles** du thérapeute (donc rien à voir avec l'approche qu'il utilise), **l'alliance thérapeutique** (idem) et l'**état du patient** (idem).
+Ces différentes études montrent également que même lorsqu'il existe un protocole, certains éléments restent difficilement évaluables alors qu'ils sont une part importante de la réussite d'une thérapie : les **qualités personnelles** du thérapeute (donc rien à voir avec l'approche qu'il utilise), **l'alliance thérapeutique** (qualité de la relation entre patient et psy) et l'**état psychologique du patient** (idem).
 
-Si l'on regarde du côté des **addictions** par ex, il n'y a [pas de différences notables](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm)  entre les différentes approches : "_L’étude Match (**Project Match Research Group, 1997**) a porté sur des patients traités de manière ambulatoire (n = 959) et des patients suivis en hôpital de jour (n = 774) sur dix sites différents. Les patients ont été attribués au hasard dans trois groupes, le premier traité par une **thérapie comportementale et cognitive**, le deuxième par un **traitement motivationnel** et le troisième par un traitement construit sur les fondements des stratégies proposées par les alcooliques anonymes (12 étapes). Le paradoxe de l’équivalence s’est trouvé confirmé dans cette étude puisqu’aucune différence significative n’a pu être mise en évidence entre ces trois formes de traitement, toutes également efficaces_" 
+![](https://res.cloudinary.com/catherinetardella/v1588778220/mathew-macquarrie-lzcKZlVPYaU-unsplash_tydjmq.jpg)
+
+Si l'on regarde du côté des **addictions** par ex, il n'y a [pas de différences notables](https://www.cairn.info/revue-psychotropes-2010-2-page-9.htm)  entre les différentes approches : "_L’étude Match (**Project Match Research Group, 1997**) a porté sur des patients traités de manière ambulatoire et des patients suivis en hôpital de jour sur dix sites différents. Les patients ont été attribués au hasard dans trois groupes, le premier traité par une **thérapie comportementale et cognitive**, le deuxième par un **traitement motivationnel** et le troisième par un traitement construit sur les fondements des stratégies proposées par les alcooliques anonymes (12 étapes) : (...) **aucune différence significative** n’a pu être mise en évidence entre ces trois formes de traitement, toutes également efficaces_".
 
 **En conclusion : toutes les approches peuvent être évaluées et il n'y a pas toujours beaucoup de différences d'efficacités entre elles.**
 
 ## Idées reçue n°3 : l'EMDR est la meilleure approche pour traiter les traumatismes
-
-![](https://res.cloudinary.com/catherinetardella/v1588775433/taha-ajmi-dCAKIpxs3eE-unsplash_n9zuoj.jpg)
 
 Comme je pratique l'EMDR, j'aurais bien envie de vous dire que cette idée n'est pas une idée reçue. Mais bien sûr, ce n'est probablement pas exactement le cas.
 
@@ -63,7 +63,9 @@ Certes, l'EMDR semble être plus orientée vers la recherche, mais ce que ces é
 
 **Conclusion : il semble que l'approche du psy ne soit pas le meilleur critère de choix pour sa thérapeute. Mais alors, lequel est-ce ?**
 
-## L'alliance thérapeutique : le facteur principal de choix de son psy
+![](https://res.cloudinary.com/catherinetardella/v1588778457/joshua-coleman-_yVRLC75Ma8-unsplash_n9nhpj.jpg)
+
+## Le "feelling" : le facteur principal de choix de son psy
 
 Il existe une évidente difficulté à évaluer l'alliance thérapeutique qui correspond à la **qualité de la relation** entre un patient et son thérapeute. Il est en effet très compliqué de tester les différentes **variables techniques** d'une relation et difficile de prescrire à un praticien de développer une alliance pour le bon déroulement d'une étude. L'alliance thérapeutique est en effet la conséquence d'un **processus** de **confiance** et de **sécurité** entre deux personnes. 
 
