@@ -1,6 +1,5 @@
 +++
 date = 2020-05-05T06:41:09Z
-draft = true
 logo = "/v1588661450/nik-shuliahin-BuNWp1bL0nc-unsplash_h1y7n5.jpg"
 notes = ""
 resume = "C'est la question qu'on me pose le plus souvent et à laquelle on pourrait croire qu'il existe des réponses évidentes étant donnée la diversité des approches en psychothérapie. Pourtant, ce n'est à mon avis clairement pas le cas, je vous décris pourquoi en cassant quelques idées reçues."
