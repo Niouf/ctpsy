@@ -63,7 +63,7 @@ Oui, [l'EMDR est tout à fait indiquée dans le traitement du stress post-trauma
 
 Certes, l'EMDR semble être plus orientée vers la recherche, mais ce que ces études nous montrent confirme également que ces autres approchent peuvent également fonctionner.
 
-**Conclusion : il semble que l'approche du psy ne soit pas le meilleur critère de choix pour sa thérapeute. Mais alors, lequel est-ce ?**
+**Conclusion : il semble que l'approche du psy ne soit pas le meilleur critère de choix pour son thérapeute. Mais alors, lequel est-ce ?**
 
 ![](https://res.cloudinary.com/catherinetardella/v1588778457/joshua-coleman-_yVRLC75Ma8-unsplash_n9nhpj.jpg)
 
