@@ -21,7 +21,7 @@ Je veux monter que, si les frontières entre ces deux approches étaient si rigi
 
 La réalité est plus complexe, évidemment. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant **besoin de sens**, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les **symptômes dérangeants** dans le présent. Donc même si ce n'est pas l'objectif principal de cette approche, elle en a néanmoins souvent les effets indirects.
 
-De la même façon, les Thérapies comportementales et cognitives ne se contentent pas d'être seulement orientée vers l'action et la réduction du symptômes. L'**analyse fonctionnelle** du patient (étape de diagnostic du fonctionnement du patient) réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement en vue de soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le **transfert** qui est une notion issue de la psychanalyse.
+De la même façon, les Thérapies comportementales et cognitives ne se contentent pas d'être seulement orientée vers l'action et la réduction du symptômes. L'**analyse fonctionnelle** du patient (étape de diagnostic du fonctionnement du patient) réalisée par les thérapeutes TCC, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le **transfert** qui est une notion issue de la psychanalyse.
 
 ![](https://res.cloudinary.com/catherinetardella/v1588665411/raquel-martinez-SQM0sS0htzw-unsplash_uze0of.jpg)
 
