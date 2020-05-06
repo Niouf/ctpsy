@@ -7,15 +7,21 @@ title = "Quelle approche choisir pour sa psychothérapie ?"
 title-long = "Y a-t-il des approches mieux spécialisées que d'autres dans certaines problématiques ?"
 
 +++
-## Idées reçue n°1 : les thérapies comportementales et cognitives traitent les symptômes et la psychanalyse aide à comprendre
+## Idées reçue n°1 : la psychanalyse et les Thérapies comportementales sont des opposées
 
-Lors d'un échange récent sur un réseau social, j'ai pu lire des commentaires de l'ordre de  : "_si tu veux **comprendre ton problème**, fais une psychanalyse, si tu veux **traiter tes symptômes**, fais une TCC_" ou encore "_la psychanalyse traite le **passé** et les TCC le **présent**_".
+Lors d'un échange récent sur un réseau social, j'ai lu des commentaires qui mettaient en **opposition** les deux types de thérapie les plus connues : les thérapies cognitives et comportementales (**TCC**) et la **psychanalyse**. 
 
-Si les frontières entre ces deux approches en psychothérapie étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : **intellectualiser** d'un côté et **agir** de l'autre.
+Ces commentaires les opposaient strictement sur plusieurs points : 
+
+* "_si tu veux **comprendre ton problème**, fais une psychanalyse, si tu veux **traiter tes symptômes**, fais une Thérapie comportementale et cognitive (TCC)_" 
+* "_la psychanalyse traite le **passé** et les TCC le **présent**_"
+* "_la psychanalyse dure 10 ou 20 ans, les TCC 3 mois_"
+
+Je veux monter que, si les frontières entre ces deux approches en psychothérapie étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : **intellectualiser** d'un côté et **agir** de l'autre.
 
 La réalité est plus complexe évidemment. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant **besoin de sens**, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les **symptômes dérangeants** dans le présent. Donc même si ce n'est pas l'objectif principal de cette approche, elle en a néanmoins souvent les effets indirects.
 
-De la même façon, les TCC ne peuvent se contenter de traiter qu'un symptôme si elles veulent être efficaces. L'**analyse fonctionnelle** du patient réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement en vue de soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le **transfert**.
+De la même façon, les TCC ne peuvent se contenter de traiter qu'un symptôme si elles veulent être efficaces. L'**analyse fonctionnelle** du patient (étape de diagnostic du fonctionnement du patient) réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement en vue de soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le **transfert**.
 
 ![](https://res.cloudinary.com/catherinetardella/v1588665411/raquel-martinez-SQM0sS0htzw-unsplash_uze0of.jpg)
 
