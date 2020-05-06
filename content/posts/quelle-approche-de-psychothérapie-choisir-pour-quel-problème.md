@@ -4,7 +4,7 @@ logo = "/v1588777464/javier-allegue-barros-C7B-ExXpOIE-unsplash_jz04zc.jpg"
 notes = ""
 resume = "C'est la question qu'on me pose le plus souvent et à laquelle on pourrait croire qu'il existe des réponses évidentes étant donnée la diversité des approches en psychothérapie. Pourtant, ce n'est à mon avis clairement pas le cas, je vous décris pourquoi en cassant quelques idées reçues."
 title = "Quelle psychothérapie choisir ?"
-title-long = "Y a-t-il des approches mieux spécialisées que d'autres dans certaines problématiques ?"
+title-long = ""
 
 +++
 ## Idées reçue n°1 : la psychanalyse et les Thérapies comportementales sont des opposées
