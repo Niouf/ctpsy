@@ -17,11 +17,11 @@ Ces commentaires les opposaient strictement sur plusieurs points :
 * "_la psychanalyse traite le **passé** et les TCC le **présent**_"
 * "_la psychanalyse dure 10 ou 20 ans, les TCC 3 mois_"
 
-Je veux monter que, si les frontières entre ces deux approches en psychothérapie étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : **intellectualiser** d'un côté et **agir** de l'autre.
+Je veux monter que, si les frontières entre ces deux approches en psychothérapie étaient si rigides, on ne traiterait qu'une partie du problème en thérapie : **intellectualiser** d'un côté et **agir** de l'autre. 
 
-La réalité est plus complexe évidemment. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant **besoin de sens**, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les **symptômes dérangeants** dans le présent. Donc même si ce n'est pas l'objectif principal de cette approche, elle en a néanmoins souvent les effets indirects.
+La réalité est plus complexe, évidemment. La psychanalyse, même si orientée vers la compréhension de ce que l'on vit, permet heureusement aussi d'agir. Le cerveau ayant **besoin de sens**, comprendre devient une base pour se mettre en mouvement et éventuellement, modifier les **symptômes dérangeants** dans le présent. Donc même si ce n'est pas l'objectif principal de cette approche, elle en a néanmoins souvent les effets indirects.
 
-De la même façon, les TCC ne peuvent se contenter de traiter qu'un symptôme si elles veulent être efficaces. L'**analyse fonctionnelle** du patient (étape de diagnostic du fonctionnement du patient) réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement en vue de soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le **transfert**.
+De la même façon, les TCC ne se contentent pas d'être seulement orientée vers l'action et la réduction du symptômes. L'**analyse fonctionnelle** du patient (étape de diagnostic du fonctionnement du patient) réalisée par les thérapeutes TCC pour permettre une compréhension de leur fonctionnement en vue de soutenir un changement, nécessite une compréhension de certains éléments du passé du patient. Certains thérapeutes TCC travaillent même avec le **transfert**.
 
 ![](https://res.cloudinary.com/catherinetardella/v1588665411/raquel-martinez-SQM0sS0htzw-unsplash_uze0of.jpg)
 
