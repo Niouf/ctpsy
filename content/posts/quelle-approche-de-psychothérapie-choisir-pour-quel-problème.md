@@ -13,7 +13,7 @@ Lors d'un échange récent sur un réseau social, j'ai lu des commentaires qui m
 
 Ces commentaires les opposaient strictement sur plusieurs points : 
 
-* "_si tu veux **comprendre ton problème**, fais une psychanalyse, si tu veux **traiter tes symptômes**, fais une Thérapie comportementale et cognitive (TCC)_" 
+* "_si tu veux **comprendre ton problème**, fais une psychanalyse, si tu veux **agir sur tes symptômes**, fais une Thérapie comportementale et cognitive (TCC)_" 
 * "_la psychanalyse traite le **passé** et les TCC le **présent**_"
 * "_la psychanalyse dure 10 ou 20 ans, les TCC 3 mois_"
 
